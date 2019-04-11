@@ -1,0 +1,555 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,AMRI M ALI,N,Laki-Laki,KOTA BANDA ACEH,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Male
+2,"T ZULFIKAR THAIB ALY, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Male
+3,"HJ. ILLIZA SA'ADUDDIN DJAMAL, SE",N,Perempuan,KOTA BANDA ACEH,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Female
+4,"ROSNI IDHAM, SE",N,Perempuan,ACEH BARAT,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Female
+5,IBNU AQIL,N,Laki-Laki,ACEH BESAR,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Male
+6,H. RUSYDI AW,N,Laki-Laki,PIDIE,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Male
+7,ONIE SEPTARINA R,N,Perempuan,GAYO LUES,Partai Persatuan Pembangunan,PPP,Aceh I,Aceh,Female
+1,"H ANWAR IDRIS, DRS",Y,Laki-Laki,BIREUEN,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Male
+2,AKMAL HANIF,N,Laki-Laki,ACEH UTARA,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Male
+3,NURHANITA ZAHARA,N,Perempuan,KOTA BANDA ACEH,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Female
+4,Ir. SYUKUR KOBATH,N,Laki-Laki,ACEH TENGAH,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Male
+5,"JAMALUDIN, SE",N,Laki-Laki,ACEH UTARA,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Male
+6,CUT FATNIAH,N,Perempuan,KOTA LHOKSEUMAWE,Partai Persatuan Pembangunan,PPP,Aceh II,Aceh,Female
+1,"Drs. H. HASRUL AZWAR, MM",Y,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+2,"H.HASAN HUSAERI LUBIS, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+3,VANIA ZENAIDHA HILARIO,N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Female
+4,"M IRWANSYAH PUTRA, SE",N,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+5,IKA WULANDARI,N,Perempuan,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Female
+6,ZULHUJJAIN AL ADYAN RANGKUTI,N,Laki-Laki,TANGERANG,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+7,"HJ. ENDANG TRISNAWATI, SE",N,Perempuan,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Female
+8,JULI SUSANTI,N,Perempuan,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Female
+9,MAHENDRA APRIYANTO,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+10,H. KHAIRUL IMAM,N,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara I,Sumatera Utara,Male
+1,"ADRIAN AZHARI AKBAR HARAHAP, ST",N,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+2,M.RAJAB INDRA HAKIM HASIBUAN,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+3,"INDAH CAHYANI PUTRI, S.Sos",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Female
+4,"Drs. H. SYARIFUL MAHYA BANDAR, M. AP",N,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+5,"DR. RISMAN PASARIBU, M.M",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+6,RINA HARTATI HASIBUAN,N,Perempuan,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Female
+7,"ABUL ASRI SIREGAR, SE, MSC",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+8,TYAS SURGA SWASTYANI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Female
+9,"AHMAD THAMRIN HARAHAP, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+10,KALI RAJA HARAHAP,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Sumatera Utara II,Sumatera Utara,Male
+1,"Ir. ABDUL AZIS, S.Pd, MM, M.AP",N,Laki-Laki,LANGKAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+2,"FAHMI ALFANSI PUTRA PANE, S.HUT, MSI(HAN)",N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+3,MAYLANINGSIH SUNDARI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Female
+4,H. MUZAKHIR RIDA,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+5,"HERI INDRA UTAMA, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+6,EFRIDA RANA FRISTIANTI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Female
+7,INDRA SURYANTO IR,N,Laki-Laki,KOTA MEDAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+8,TAMRINUDDIN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+9,FITRIANI,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Female
+10,H. USMAN EFFENDI SITORUS S.AG,N,Laki-Laki,SERDANG BEDAGAI,Partai Persatuan Pembangunan,PPP,Sumatera Utara III,Sumatera Utara,Male
+1,ERDISON MANSUR,N,Laki-Laki,TANAH DATAR,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Male
+2,"DENISRIYATUL HAYATI, S.E.I, M.Si.M",N,Perempuan,SOLOK,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Female
+3,NIKKI LAUDA HARYONA,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Male
+4,"Dr.H. SYUKRIADI SYUKUR, M.Pd",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Male
+5,"SYAFRIL ILYAS, S.IP",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Male
+6,"SUSAN HANDREA, SH",N,Perempuan,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Female
+7,ZISKA RENI,N,Perempuan,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Female
+8,"BACHTUL, ST",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat I,Sumatera Barat,Male
+1,"MUHAMMAD IQBAL, SE, M.Com",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Male
+2,"HARIADI, BE",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Male
+3,"PUSPITA SARI, ST",N,Perempuan,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Female
+4,"DR IR. H. BAHRUL ANIF, M.T.",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Male
+5,HENDRI DONALD,N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Male
+6,"SYARIFATUL HIDAYAH, A.MD",N,Perempuan,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Sumatera Barat II,Sumatera Barat,Female
+1,"H. RUSLI EFFENDI, S.Pd.I, SE., M.Si",N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Male
+2,"DR. H. SYAMSURIZAL, SE., MM",N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Male
+3,SUCI RAHMAH YUSRAFITRI,N,Perempuan,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Female
+4,Drs. H. MISHAR,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Male
+5,NELAWATI,N,Perempuan,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Female
+6,SURYA DARMA,N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Male
+7,"RATIH INDAH PRATIWI, SE",N,Perempuan,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau I,Riau,Female
+1,AFRIZAL HIDAYAT,N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Male
+2,"H. IKBAL SAYUTI, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Male
+3,AGUSWANTI L,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Female
+4,"DR. H. EMRIZAL PAKIS, SE., MM",N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Male
+5,"Prof. Dr. H. SUFIAN, SH., M.Si",N,Laki-Laki,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Male
+6,ROSMIATI,N,Perempuan,KOTA PEKANBARU,Partai Persatuan Pembangunan,PPP,Riau II,Riau,Female
+1,"H. DODI SULARSO, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Male
+2,"Drs. H. RAHMAD DERITA, M.Pd.I",N,Laki-Laki,KOTA JAMBI,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Male
+3,"IIN INAWATI, S.Pd",N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Female
+4,"Drs. H. MASRIL MUHAMMAD, MM",N,Laki-Laki,KOTA SUNGAI PENUH,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Male
+5,TOIYIBAH,N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Female
+6,"MUHAMMAD FAJRI, SH",N,Laki-Laki,KOTA JAMBI,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Male
+7,"AHMAD SA'ID, S. Kom",N,Laki-Laki,KOTA JAMBI,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Male
+8,DENI HARYANTI,N,Perempuan,KOTA JAMBI,Partai Persatuan Pembangunan,PPP,Jambi,Jambi,Female
+1,"H. JUHAINI ALIE, SH., MM",N,Laki-Laki,KOTA PALEMBANG,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Male
+2,"IR. H. DIDI APRIADI, M.AK.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Male
+3,"CITRA DEWI, SH",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Female
+4,"HENDRA DINATHA, SH., MH",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Male
+5,"DWI LISTIANTI, S.Si",N,Perempuan,KOTA PALEMBANG,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Female
+6,MARIA SUSANTI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Female
+7,SRI HERLINA,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Selatan I,Sumatera Selatan,Female
+1,AGUS SUTIKNO,N,Laki-Laki,KOTA PALEMBANG,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Male
+2,"AZHARI AS, MH",N,Laki-Laki,KOTA PALEMBANG,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Male
+3,"YULILIA, ST",N,Perempuan,KOTA PALEMBANG,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Female
+4,Drs. K. ARDHIANSYAH,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Male
+5,MOHAMAD ALI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Male
+6,"NOVRIANA ROHIMI, SE",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Female
+7,R. AJ. DEWI SEKAR NOORZANAH,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Sumatera Selatan II,Sumatera Selatan,Female
+1,"IHSAN NAHROMI, LC., MA",N,Laki-Laki,KOTA BENGKULU,Partai Persatuan Pembangunan,PPP,Bengkulu,Bengkulu,Male
+2,ANGGA FEBI ARAMANIZA,N,Laki-Laki,MUKOMUKO,Partai Persatuan Pembangunan,PPP,Bengkulu,Bengkulu,Male
+3,KHAIRIAH,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Bengkulu,Bengkulu,Female
+1,Ir. DEWI ARIMBI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Female
+2,"H. A. RAHMAN, S.Sn., M.Sn., M.I.Kom",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+3,ASNA NELLI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Female
+4,BAMBANG IRAWAN,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+5,"Hi. MISRI JAYA LATIF, SE",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+6,DEWI OKTAVIANTI,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Female
+7,SUPRAYOGI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+8,"HENI SUSANTI, S.S., M.P.d",N,Perempuan,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Female
+9,DEDI HARYADI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+10,ABD. RAHMAN,N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Lampung I,Lampung,Male
+1,Ir. R. H. KAMIL HOESEIN,N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+2,PRAYOGA,N,Laki-Laki,LAMPUNG TIMUR,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+3,TITIN MUSTIKA SARI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Female
+4,Ir. RANOLDI MARDINSYAH,N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+5,"ENDEH AHMAD, S.Pd",N,Laki-Laki,GARUT,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+6,ETIKA MARIA ULFA,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Female
+7,AHMAD ULYA,N,Laki-Laki,PESAWARAN,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+8,ANDRE BINTANG ARIFIANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Male
+9,NELITA,N,Perempuan,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Female
+10,ELLY YULIATI,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Lampung II,Lampung,Female
+1,MARWIN JAMAL,N,Laki-Laki,KOTA TANJUNGPINANG,Partai Persatuan Pembangunan,PPP,Kepulauan Riau,Kepulauan Riau,Male
+2,ZULFIKRI,N,Laki-Laki,KOTA BATAM,Partai Persatuan Pembangunan,PPP,Kepulauan Riau,Kepulauan Riau,Male
+3,INDAH NURSYAMSIAH,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kepulauan Riau,Kepulauan Riau,Female
+4,MOLLIVIANDRY,N,Perempuan,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Kepulauan Riau,Kepulauan Riau,Female
+1,"H. YAN JUANDA SAPUTRA, SH., MH., MM., MSI",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Bangka Belitung,Bangka Belitung,Male
+2,"RUDISIA USMAN, SH",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Bangka Belitung,Bangka Belitung,Male
+3,"SYARIFAH AMELIA, MT",N,Perempuan,BELITUNG,Partai Persatuan Pembangunan,PPP,Bangka Belitung,Bangka Belitung,Female
+1,"H. ERVAN MAKSUM, ST",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Male
+2,"H. ZAINI SHOFARI, S.Hi",N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Male
+3,"GITA WIDIASANTY, S.IKom., M.Si",N,Perempuan,KOTA CIMAHI,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Female
+4,Drs. SATYA NUGRAHA LAKSANA,N,Laki-Laki,BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Male
+5,"ERI OKTOBRI WULANTARI, SH",N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Female
+6,KARYANTRI DEWI,N,Perempuan,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Female
+7,"I FACHRIL MADIN, S.H.",N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat I,Jawa Barat,Male
+1,Drs. NU'MAN ABDUL HAKIM,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+2,"ARIZA AGUSTINA, SE, MSi",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Female
+3,"H. ALI MUBARAK, A.MD PAR., S.E.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+4,"H. ASEP BADRUZZAMAN, A.KS.",N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+5,"AHMAD KHOLISUN, S.Pd.I",N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+6,Ir. MULYATIE,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Female
+7,TAMRIN YADI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+8,AFRILIZA,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Female
+9,ACH. SAIFUL ULUM,N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat II,Jawa Barat,Male
+1,Ir. SIGIT HARIYANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Male
+2,H. JOKO PURWANTO,Y,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Male
+3,"IRMA SUSANTI, S.Pd.I",N,Perempuan,CIANJUR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Female
+4,"H. ANDI SURYA WIJAYA, S.H, M.H.",N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Male
+5,LILIH,N,Perempuan,CIANJUR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Female
+6,"MUHAMMAD BAMBANG YASMIRAL MALOKO, S.Pd.I",N,Laki-Laki,TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Male
+7,EVI GUSTAMAN,N,Laki-Laki,CIANJUR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Male
+8,SARAH FATIMAH,N,Perempuan,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Female
+9,"SITI JUBAEDAH QUROH, S.PD.",N,Perempuan,CIANJUR,Partai Persatuan Pembangunan,PPP,Jawa Barat III,Jawa Barat,Female
+1,Dr. HJ. RENI MARLINAWATI,Y,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Female
+2,H. IKBAL ASIMUDIN ABDUL FATAH,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Male
+3,H. MAKKI YULIAWAN,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Male
+4,SILVIA RAHMAH,N,Perempuan,SUKABUMI,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Female
+5,DR. H. MUHAMAD SHOLEHUDIN,N,Laki-Laki,SUKABUMI,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Male
+6,TAOFIK WAHIDIN,N,Laki-Laki,KOTA SUKABUMI,Partai Persatuan Pembangunan,PPP,Jawa Barat IV,Jawa Barat,Male
+1,ELLY RACHMAT YASIN,N,Perempuan,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Female
+2,H. ACHMAD FARIAL,Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+3,"H. HARIS SETIAWAN, SE, MM",N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+4,"HILMAN ISMAIL METAREUM, SE",N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+5,"CHAIRUNITA, S.Sos., M.Si",N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Female
+6,ABDUL GANI,N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+7,"ANDRA BANI SAGALANE, SH. MH",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+8,"RUSDI HIDAYAT, S.E.",N,Laki-Laki,CIREBON,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Male
+9,"NURUL FATIN AFIFAH, S.IP.",N,Perempuan,INDRAMAYU,Partai Persatuan Pembangunan,PPP,Jawa Barat V,Jawa Barat,Female
+1,H. LUKMAN HAKIM SAIFUDDIN,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Male
+2,"DINI MENTARI, S.Si, M.Si",N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Female
+3,"SYARIFUDDIN, S.AG.",N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Male
+4,"H. DIDING SAEFUDDIN ZUHRI, S.AG.",N,Laki-Laki,BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Male
+5,QURROTU A'YUN,N,Perempuan,KOTA SURABAYA,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Female
+6,"ABD. ROSYID, SH. MPd",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VI,Jawa Barat,Male
+1,Dra. HJ. WARDATUL ASRIAH,Y,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Female
+2,HJ. SITI NURMILA,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Female
+3,SLAMET GUNAWAN,N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+4,"ZAKY MAHENDRA ZULKARNAEN, S.PD.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+5,"DINUL HUSNAN, S.Pd.I",N,Laki-Laki,KOTA PADANG,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+6,"NENENG LASMITA SUSANTI, SE., M.Ak",N,Perempuan,BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Female
+7,"MUKHAMAD CHOIRUDIN, S.HUM.",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+8,R.M YUSUF SUGIARTO,N,Laki-Laki,KOTA JAMBI,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+9,RAHMAT HIDAYAT,N,Laki-Laki,PURWAKARTA,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+10,"H. SHALIH MANGARA, SH. MH",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VII,Jawa Barat,Male
+1,"MALIK ABDULLAH, S.H.",N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Male
+2,H. JUHADI,N,Laki-Laki,INDRAMAYU,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Male
+3,dr. DIEN ANGGRAINI,N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Female
+4,"JAMALUDIN, S.KEP., M.KEP.",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Male
+5,"ALI RIDHA, SE, MM",N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Male
+6,"AMALIA SUDEWI, SH",N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Female
+7,"ANDINI MAHARANI, S.S.T",N,Perempuan,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Female
+8,GALUH SHAHNAZ MIRANTI,N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Female
+9,"SUPADI KUSNADI, S.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat VIII,Jawa Barat,Male
+1,"DR. MOHAMAD QOYUM, ST., M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Male
+2,"HJ. RATIEH SANGGARWATY, SE",Y,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Female
+3,"Drs. H. SANUSI MAWI, M.Si",N,Laki-Laki,SUMEDANG,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Male
+4,"HENDANG SETYO RUKMI, S.T., M.T.",N,Perempuan,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Female
+5,ERFANDI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Male
+6,"YUYUN YUNANI, S.PD.I",N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Female
+7,GITA SHAHNAZ UTARI,N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Female
+8,DENI KHANAFIAH,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat IX,Jawa Barat,Male
+1,ASEP A MAOSHUL AFFANDY,Y,Laki-Laki,TASIKMALAYA,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Male
+2,ARYA PERMANA GRAHA,N,Laki-Laki,KUNINGAN,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Male
+3,DRA. HJ. WARDATUN NA'IM,N,Perempuan,TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Female
+4,"DR. H. HERI SOLEHUDIN ATMAWIDJAJA, MM",N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Male
+5,IDA NURHAIDAH,N,Perempuan,CIAMIS,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Female
+6,"SITI HABSYAH MAYAWATI, S.E.",N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Female
+7,"ALI SA'RONI, S.IP",N,Laki-Laki,PEMALANG,Partai Persatuan Pembangunan,PPP,Jawa Barat X,Jawa Barat,Male
+1,HJ. NURHAYATI,Y,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Female
+2,TOMMY SOETOMO,N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+3,H. IJANG ARIS TATOLISI,N,Laki-Laki,TASIKMALAYA,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+4,AJENG FITRIANI,N,Perempuan,KOTA TASIKMALAYA,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Female
+5,"Dr. H. SYAIFUL ROHIM, M.Si",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+6,Drs. H. AAY SAHAL TASTARI,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+7,"YESSI FITRIANTI, S.IP., M.SI.",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Female
+8,"AGUSSALIM, S.Ag",N,Laki-Laki,GARUT,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+9,SARJONO,N,Laki-Laki,GARUT,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+10,"ABDULLAH MANSUR, S.Ag., M.Pd",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Barat XI,Jawa Barat,Male
+1,"HJ. HIZBIYAH ROCHIM, S.SOS.I., MA",N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Female
+2,"H. ACHMAD FAUZAN H, SH., M.Kom.I",Y,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Male
+3,"MAKMUN HALIM THOHARI, SH.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Male
+4,"CHAIRUNNISA, S.Sos.i.,M.IP",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Female
+5,Drs. SARYONO JAHIDI,N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Male
+6,"PEMI APRIYANTO, S.IP.",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta I,DKI Jakarta,Male
+1,Dra. LENA MARYANA,Y,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Female
+2,"H. RENDHIKA DENIARDY HARSONO, M.SC.",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Male
+3,LISA INDAH HARDIANTI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Female
+4,"DATO' MUHAMAD ZAINUL ARIFIN, S.H., M.H.",N,Laki-Laki,TANGERANG,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Male
+5,ENI MULYATI,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Female
+6,SRI SARAS MUNDISARI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Female
+7,ADY MUZADI,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,DKI Jakarta II,DKI Jakarta,Male
+1,"H. USMAN PERDANAKUSUMA, SH., MBA",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Male
+2,"H. USMAN HELMY, SH",N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Male
+3,MARTA VONNI,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Female
+4,ANDI RUSNADI,N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Male
+5,"H. SA'DULLAH AFIF, S.Pd.I., M.Si",N,Laki-Laki,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Male
+6,S.I. ANNY TRI MARYANNY,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Female
+7,Hj. DIAH NURWIYANTI,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Female
+8,"MUHAMMAD ADAMI, S.Pd",N,Laki-Laki,ACEH UTARA,Partai Persatuan Pembangunan,PPP,DKI Jakarta III,DKI Jakarta,Male
+1,DRS. H. AKHMAD MUQOWAM,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Male
+2,MACHMUD YUNUS,N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Male
+3,FEBRIANA IRVINITA PUTRI,N,Perempuan,KENDAL,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Female
+4,"DR. MUSLIH NASHOHA, MM",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Male
+5,"ZAINUL ARIFIN, SHI, MH",N,Laki-Laki,BANYUMAS,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Male
+6,PARAMITA KUSUMASTUTI,N,Perempuan,KENDAL,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Female
+7,RIKA ARYASARI SUHARDI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah I,Jawa Tengah,Female
+1,ROJIH,N,Laki-Laki,REMBANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Male
+2,"Dr. FAHRUDDIN SALIM, SE, MM",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Male
+3,ALFI BAROKAH,N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Female
+4,ISTAJIB AS,N,Laki-Laki,KOTA SEMARANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Male
+5,"AGUSTINA ROMZA, SE",N,Perempuan,DEMAK,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Female
+6,SLAMET BADRUDDIN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Male
+7,FARAH MAHARANI FAJRIN,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah II,Jawa Tengah,Female
+1,MOH. ARWANI THOMAFI,Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Male
+2,"MAHBUB ROSYIDI, S.AG, SH",N,Laki-Laki,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Male
+3,SULISMINI,N,Perempuan,BLORA,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Female
+4,AHMAD ROHMATULLOH,N,Laki-Laki,GROBOGAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Male
+5,"AHMAD KHOLID SUYONO, S.H",N,Laki-Laki,REMBANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Male
+6,AINAUL MARDLIYYAH,N,Perempuan,PATI,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Female
+7,"MUHAMMAD AMINUDDIN, S. Pd.i, M. Si",N,Laki-Laki,PATI,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Male
+8,MASRUKHAH,N,Perempuan,PATI,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Female
+9,"ANISSA GEMALA, SE",N,Perempuan,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Tengah III,Jawa Tengah,Female
+1,ANUNG NOTO NUGROHO,N,Laki-Laki,SRAGEN,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Male
+2,MOH. ASY?ARI MUTHHAR,N,Laki-Laki,SUMENEP,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Male
+3,NADIA FATHIMAH THOMAFI,N,Perempuan,BLORA,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Female
+4,SITI AWALIYAH RACHMAH,N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Female
+5,TONDO TARMANTO,N,Laki-Laki,WONOGIRI,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Male
+6,FITRI LESTARI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah IV,Jawa Tengah,Female
+1,"ATIK HERU MARYANTI, .,SE.,ST.,MBA",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Female
+2,NIKMAH SYUKRIAH KUSUMASTUTI,N,Perempuan,SUKOHARJO,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Female
+3,AHMAD HUDARI,N,Laki-Laki,HULU SUNGAI UTARA,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Male
+4,"IRKHAM MAHFUDZ, S.H.I",N,Laki-Laki,BLORA,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Male
+5,NENI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Female
+6,"KURNIA RAMADHANI, S.T., M.T.",N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Male
+7,DIAN RISALATI,N,Perempuan,BOYOLALI,Partai Persatuan Pembangunan,PPP,Jawa Tengah V,Jawa Tengah,Female
+1,KH. MUSLICH ZAINAL ABIDIN,Y,Laki-Laki,MAGELANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Male
+2,IDY MUZAYYAD,N,Laki-Laki,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Male
+3,SITI ARIFAH,N,Perempuan,TEMANGGUNG,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Female
+4,Drs. ARIF RACHMAN HAKIM,N,Laki-Laki,KOTA SEMARANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Male
+5,MUHAMMAD MUN'AM,N,Laki-Laki,PURWOREJO,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Male
+6,NURUL HIDAYATI,N,Perempuan,MAGELANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Female
+7,DISTA RAHMAJANATI,N,Perempuan,KOTA MAGELANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Female
+8,"SURAHMAN, S.Psi",N,Laki-Laki,SUMENEP,Partai Persatuan Pembangunan,PPP,Jawa Tengah VI,Jawa Tengah,Male
+1,"BAMBANG HERMANTO, SE",N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Tengah VII,Jawa Tengah,Male
+2,"H. YUSUF CAHYONO, SH",N,Laki-Laki,KEBUMEN,Partai Persatuan Pembangunan,PPP,Jawa Tengah VII,Jawa Tengah,Male
+3,EKA LIANA LIFATONAH,N,Perempuan,BANJARNEGARA,Partai Persatuan Pembangunan,PPP,Jawa Tengah VII,Jawa Tengah,Female
+4,"H. ABDUL HARIS FY, S.IP, M.Si",N,Laki-Laki,BANJARNEGARA,Partai Persatuan Pembangunan,PPP,Jawa Tengah VII,Jawa Tengah,Male
+5,ZAHROTUL MUNAWAROH,N,Perempuan,KEBUMEN,Partai Persatuan Pembangunan,PPP,Jawa Tengah VII,Jawa Tengah,Female
+1,"H. ACHMAD MUSTAQIM, SP., MM",Y,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah VIII,Jawa Tengah,Male
+2,"YAHYA KAROMI, SH",N,Laki-Laki,CILACAP,Partai Persatuan Pembangunan,PPP,Jawa Tengah VIII,Jawa Tengah,Male
+3,"ERIKA WATI MURLIANI, S.K.M., M.Epid.",N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah VIII,Jawa Tengah,Female
+4,Drs. HARYANTO S.,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah VIII,Jawa Tengah,Male
+5,FATIN MARDLIYATI,N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Tengah VIII,Jawa Tengah,Female
+1,"Drs. H. ZAINUT TAUHID SA'ADI, M.Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Male
+2,RUSBANDI,N,Laki-Laki,TEGAL,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Male
+3,"IZZAH RUFAIDAH, S.PSI",N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Female
+4,MUHTAROM,N,Laki-Laki,PEKALONGAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Male
+5,dr. AGUS GUNAWAN,N,Laki-Laki,PEMALANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Male
+6,YENI RAHAYU,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Tengah IX,Jawa Tengah,Female
+1,"H. ARSUL SANI S.H, M.Si",Y,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Male
+2,"MUNAWAROH, DRA, HAJJAH",N,Perempuan,DEMAK,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Female
+3,"MOCHAMAD SYAHIR, SH, MH",N,Laki-Laki,KOTA SEMARANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Male
+4,"PRAYITNO, S.E.",N,Laki-Laki,PEMALANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Male
+5,NURAIDA KHUMAIRAH,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Female
+6,ROSNENI,N,Perempuan,PEMALANG,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Female
+7,MUH ABDI MUNIF,N,Laki-Laki,KOTA SURAKARTA,Partai Persatuan Pembangunan,PPP,Jawa Tengah X,Jawa Tengah,Male
+1,IIP WIJAYANTO,N,Laki-Laki,BANTUL,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Male
+2,"QORINATUL HASINAH, SE",N,Perempuan,BEKASI,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Female
+3,TOMMY ANDRI WARDHANA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Male
+4,"TRI HARTANTA, ST",N,Laki-Laki,BANTUL,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Male
+5,YETTY DIAH PERMATA,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Female
+6,ZUMALA EVA CHANDRASARI,N,Perempuan,SLEMAN,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Female
+7,JA'FAR SHODIQ,N,Laki-Laki,MAJALENGKA,Partai Persatuan Pembangunan,PPP,DI Yogyakarta,DI Yogyakarta,Male
+1,"MUHAMMAD HABIBUR ROCHMAN, SE",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+2,DR. H. GATOT SUJONO,N,Laki-Laki,KOTA MALANG,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+3,PAPANG PARTINI,N,Perempuan,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Female
+4,"ACHMAD FIKRI HIDAYAT, SH",N,Laki-Laki,SIDOARJO,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+5,TUNGGA BHIMADI,N,Laki-Laki,KOTA SURABAYA,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+6,"ZINAH A. SALAM, S.Pd",N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Female
+7,SAUFIRMAN PUTRO,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+8,SYU?LAYYA FARIDA,N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Female
+9,SUHAIRI,N,Laki-Laki,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur I,Jawa Timur,Male
+1,"H. MUSTOFA ASSEGAF, M.Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Male
+2,"CHOIRUL SHOLEH RASYID, SE., M.Si.",N,Laki-Laki,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Male
+3,TRI FENI AGUSTIN,N,Perempuan,PROBOLINGGO,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Female
+4,"AINUL YAQIN, S.Ag. M.Si",N,Laki-Laki,MALANG,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Male
+5,"DWI SUSILOWATI, SH, I",N,Perempuan,PASURUAN,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Female
+6,M. ALAIKA ASRORI ANSHOR,N,Laki-Laki,PASURUAN,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Male
+7,MASRUROH,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Jawa Timur II,Jawa Timur,Female
+1,SY. ANAS THAHIR,Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Male
+2,"NORMAN ZEIN NAHDI, SE",N,Laki-Laki,KOTA SURABAYA,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Male
+3,SORAYA A. KADIR SALEH,N,Perempuan,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Female
+4,"H. FAUZAN, S.PD, M.M.",N,Laki-Laki,BANYUWANGI,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Male
+5,"ROUDOTUL JANNAH, S.TP",N,Perempuan,BANYUWANGI,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Female
+6,HAMMIDAH,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Female
+7,SITI NUR AZIZAH,N,Perempuan,BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Timur III,Jawa Timur,Female
+1,Ir. BAGAS ANGKASA,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Male
+2,H. MUHAMMAD KHOZIN,N,Laki-Laki,KOTA BOGOR,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Male
+3,EVA ARIZKAH,N,Perempuan,LAMONGAN,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Female
+4,Drs. BADRI HAMIDI,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Male
+5,NINIK NUR KHOLIDAH,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Female
+6,NOR HALIMAH,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Female
+7,NORHADI,N,Laki-Laki,KOTA SURABAYA,Partai Persatuan Pembangunan,PPP,Jawa Timur IV,Jawa Timur,Male
+1,ANISAH MAHFUDZ,N,Perempuan,MALANG,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Female
+2,HERNOWO,N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Male
+3,RAUDATUL JANAH,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Female
+4,H. YAN SYAHRIAL HASIBUAN,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Male
+5,ZULFIKAR ALI BULQIS,N,Laki-Laki,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Male
+6,LATIFA,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Female
+7,LULUK AVIYA,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Female
+8,"MAHFUD, SH",N,Laki-Laki,KOTA BANJARBARU,Partai Persatuan Pembangunan,PPP,Jawa Timur V,Jawa Timur,Male
+1,"Dr. ANANG ISKANDAR, SH., MH",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Male
+2,ANISAH NURJANAH,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Female
+3,FAIQATUL HIMMAH,N,Perempuan,SUMENEP,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Female
+4,"DR. HABIB, M.HUM",N,Laki-Laki,KEDIRI,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Male
+5,SUBANI SURYOHATMOJO,N,Laki-Laki,NGANJUK,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Male
+6,YENNY DELIANA RANGKUTI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Female
+7,"Drs. SYAEFUDIN SIMON, MM",N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Male
+8,"NURHALIMAH, S.Pd.I",N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Female
+9,MOH THOHARUL FUAD,N,Laki-Laki,LAMONGAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VI,Jawa Timur,Male
+1,ABDUL HAFID RIVA'I,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Male
+2,"SYAFA ILLIYIN B, SE, MM",N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Female
+3,Drs. HARDONNY ARCHAN BAHARUDIN,N,Laki-Laki,BENGKALIS,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Male
+4,RIFANI WAHYU UTAMI,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Female
+5,WINDA APRILINE,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Female
+6,DIAH AJENG TRISNAWATI,N,Perempuan,BANYUWANGI,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Female
+7,ABDUL MANAP,N,Laki-Laki,PROBOLINGGO,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Male
+8,RAHMANSYAH,N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Timur VII,Jawa Timur,Male
+1,H. GUGUS JOKO WASKITO,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+2,EMA UMIYYATUL CHUSNAH,N,Perempuan,JOMBANG,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Female
+3,"H. ABD MUCHID, S.H",N,Laki-Laki,MOJOKERTO,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+4,BAKHTIAR MUHAMAD NURHADI,N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+5,AMANTA DINANJAYA,N,Perempuan,NGANJUK,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Female
+6,ABD FATAH,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+7,VIVI AGUSTIN,N,Perempuan,MOJOKERTO,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Female
+8,AKHMAD TAUFIK MOEKHIT,N,Laki-Laki,KOTA BANDUNG,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+9,"SU'UDI, S.Th.I, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+10,MOHAMMAD AZIZI,N,Laki-Laki,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Timur VIII,Jawa Timur,Male
+1,MUKHLISIN,Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Male
+2,M. THOBAHUL AFTONI,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Male
+3,"USWATUN HASANAH, S.SOS",N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Female
+4,DENA OCTAVIANA ENDRAWAN,N,Perempuan,JAKARTA BARAT,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Female
+5,MUHAMMAD MANSUR,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Male
+6,DEDY CANDRA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur IX,Jawa Timur,Male
+1,"H. ISKANDAR D. SYAICHU, SE",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Male
+2,NOORJANNAH,N,Perempuan,LAMONGAN,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Female
+3,"ANDI SETIAWAN, S.Sos.I.",N,Laki-Laki,GRESIK,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Male
+4,"ACHMAD WAHYUDDIN, S.H",N,Laki-Laki,GRESIK,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Male
+5,JAMILAH AHADIYAH,N,Perempuan,GRESIK,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Female
+6,H. TAWAR MULYONO,N,Laki-Laki,GRESIK,Partai Persatuan Pembangunan,PPP,Jawa Timur X,Jawa Timur,Male
+1,"ACH BAIDOWI, S.Sos, M.Si",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Male
+2,"H. JUFFA SHADIK, S.Ag, M.Si",N,Laki-Laki,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Male
+3,"HOIRIYAH, S.Pd.I",N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Female
+4,ERIC HERMAWAN,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Male
+5,RAHMAD,N,Laki-Laki,SUMENEP,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Male
+6,"HARIYANA, SE",N,Perempuan,SUMENEP,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Female
+7,DRS. H. MAHFUD MN,N,Laki-Laki,JEMBER,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Male
+8,"FITRIA ARISKA, SE",N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Jawa Timur XI,Jawa Timur,Female
+1,"H. HARRY PURDIANTO, S.IP,M.SC",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Male
+2,"H. IIP MIFTAHUL CHOIRY, S.PdI",N,Laki-Laki,SERANG,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Male
+3,"GITA LAKSITA, S.Pd",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Female
+4,"H. ABDUL HALIM, SH, MM",Y,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Male
+5,EVI NURUL FELAYATI,N,Perempuan,SUKABUMI,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Female
+6,"USEP SAEPUDIN, S.HI",N,Laki-Laki,KOTA SERANG,Partai Persatuan Pembangunan,PPP,Banten I,Banten,Male
+1,"Ir. HJ. FERNITA, MH",N,Perempuan,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Female
+2,"Hj. KARTIKA YUDHISTI, B.Eng., M.Sc",Y,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Female
+3,"H. AGUS SETIAWAN, SH.",N,Laki-Laki,TANGERANG,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Male
+4,E. MANSUR AINI,N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Male
+5,RENI HADIJAH HSB,N,Perempuan,ASAHAN,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Female
+6,"Dra. Hj. MUFLIKHAH, M. Si",N,Perempuan,SERANG,Partai Persatuan Pembangunan,PPP,Banten II,Banten,Female
+1,"Drs. H. IRGAN CHAIRUL MAHFIZ, M.Si",Y,Laki-Laki,TANGERANG,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+2,"USMAN MUHAMMAD TOKAN, SE., MA.",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+3,TATI HARTATI,N,Perempuan,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Female
+4,BAMBANG WAHYU GANINDRA,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+5,"DR. IR. H. M. NIZAR DAHLAN, M. Si",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+6,Dra. TRI APRITA SARI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Female
+7,"ABDUL RAHMAN TUAKIA, S.Sos",N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+8,"H. M. SAYUTI, S.Sos.I",N,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+9,"DITA AITI YENI, S.TH.I",N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Female
+10,"SAFRIZAL ARIFIN, SH., M.H",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Banten III,Banten,Male
+1,"LISMAINI, SE",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+2,"FAISAL AHMAD, SHI",N,Laki-Laki,KOTA SURABAYA,Partai Persatuan Pembangunan,PPP,Bali,Bali,Male
+3,ZULKARNAIN,N,Laki-Laki,KOTA DEPOK,Partai Persatuan Pembangunan,PPP,Bali,Bali,Male
+4,"CERIA MONICA, S.I.Kom",N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+5,"MASHUDI, S.Pd.",N,Laki-Laki,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Bali,Bali,Male
+6,MUSDALIFAH,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+7,DAMAYANTI HERMAWAN,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+8,ISNAWATY,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+9,R. MIRA OKTARIA,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Bali,Bali,Female
+1,"NURDIN RANGGABARANI, SH., MH.",N,Laki-Laki,SUMBAWA,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,TAUFIK,N,Laki-Laki,BIMA,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,"EKA PUTRIANINSIH, S.Pd",N,Perempuan,DOMPU,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,"Dra. HJ. WARTIAH, M.Pd",N,Perempuan,KOTA MATARAM,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+2,"MAHARANI, S.P",N,Laki-Laki,LOMBOK TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,H. AHMAD SUBKI MANSUR,N,Laki-Laki,LOMBOK TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+4,"H. LALU DARMAWAN, S.IP",N,Laki-Laki,LOMBOK TENGAH,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+5,"LATHIFAH, S.Pd.I",N,Perempuan,LOMBOK TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+6,"MARZUKI, SH.",N,Laki-Laki,LOMBOK TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+7,"SUPARDI, S.Sos",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+8,DRA. Hj. ERMALENA MHS,Y,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+1,"ABDUL GAFUR, SE",N,Laki-Laki,KOTA KUPANG,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,HASNAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+3,"ZAINUL ISLAM, S.Si, M.Farm",N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+4,"ENI SRI WAHYUNI, SH.",N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+5,NUR FAIZAH,N,Perempuan,PAMEKASAN,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+1,"MUHAMMAD BAYU PUTRA, SE",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,SYAHRAENI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+3,"SAIFUL ULUM, SAP",N,Laki-Laki,GRESIK,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+4,FARAH DINI,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+5,MAHMUDAH,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+6,SRI ISMAWATI,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+1,"H. AHMADI USMAN, S.Ag",N,Laki-Laki,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Male
+2,Ir. FIRMANSYAH MARDANOES,Y,Laki-Laki,KOTA TANGERANG,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Male
+3,"SYARIFAH ARABIYAH, SH., M.H",N,Perempuan,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Female
+4,"HALIM WIJAYA, S.Ag",N,Laki-Laki,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Male
+5,SAIBAN,N,Laki-Laki,KUBU RAYA,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Male
+6,YENNI SAHJERANI,N,Perempuan,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Female
+7,Dra. SYF NURAINI,N,Perempuan,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Female
+8,H. DARWIS HAMID,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Barat I,Kalimantan Barat,Male
+1,GUNAWAN SYAH,N,Laki-Laki,SINTANG,Partai Persatuan Pembangunan,PPP,Kalimantan Barat II,Kalimantan Barat,Male
+2,"TAIRMAN ELON, S.H., M.H",N,Laki-Laki,SERANG,Partai Persatuan Pembangunan,PPP,Kalimantan Barat II,Kalimantan Barat,Male
+3,"SRI NURHAYATI, SP",N,Perempuan,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat II,Kalimantan Barat,Female
+4,"SUSI INDRAWATI, S.K.M",N,Perempuan,KOTA PONTIANAK,Partai Persatuan Pembangunan,PPP,Kalimantan Barat II,Kalimantan Barat,Female
+1,H. AWALUDIN NOOR,N,Laki-Laki,KOTA PALANGKARAYA,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Male
+2,"H. SAID AKHMAD FAWZI BACHSIN, S.Hi",N,Laki-Laki,KOTA PALANGKARAYA,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Male
+3,HJ. NURUL AINY,N,Perempuan,BARITO UTARA,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Female
+4,BOY HAMZAH NOTONEGORO,N,Laki-Laki,KOTAWARINGIN TIMUR,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Male
+5,"HJ GINARMIATI, S.H",N,Perempuan,PULANG PISAU,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Female
+6,"AKHMAD ANSORI, SE",N,Laki-Laki,KOTAWARINGIN TIMUR,Partai Persatuan Pembangunan,PPP,Kalimantan Tengah,Kalimantan Tengah,Male
+1,NASRULLAH AR,N,Laki-Laki,BANJAR,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,"H. SYAIFULLAH TAMLIHA, S.Pi, M.S",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Male
+3,"HELIMASYIAH, SH",N,Perempuan,KOTA BANJARMASIN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,"H. ALI NURDIN, M.AP",N,Laki-Laki,BARITO KUALA,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Male
+5,H MADYAN NOOR MAR'IE LC,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Male
+6,"TRI AGUSVINA, SH",N,Perempuan,KOTA BANJARBARU,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,"H. MUHAMMAD ADITYA MUFTI ARIFFIN, SH, MH",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,"MUHAMMAD YUSUF, S.E., MM",N,Laki-Laki,KOTA BANJARMASIN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan II,Kalimantan Selatan,Male
+3,HJ. IMMAH NORDA,N,Perempuan,KOTA BANJARMASIN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan II,Kalimantan Selatan,Female
+4,"ARIEF RAHMAN HAKIM, ST",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan II,Kalimantan Selatan,Male
+5,"HJ. SUNARTI, SH",N,Perempuan,TANAH LAUT,Partai Persatuan Pembangunan,PPP,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,"DR. FARID WADJDY, M.PD",N,Laki-Laki,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Male
+2,HJ KASRIYAH,Y,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Female
+3,"BAMBANG SUGITO, S.Sos., M.AP",N,Laki-Laki,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Male
+4,SITI RUSMALIA IDRUS,N,Perempuan,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Female
+5,Hj. SRI BUDI YAUMID,N,Perempuan,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Female
+6,M AMIN AHMAD,N,Laki-Laki,PASER,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Male
+7,dr. KRISDINATA,N,Laki-Laki,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Male
+8,MASDAR JHON,N,Laki-Laki,KOTA SAMARINDA,Partai Persatuan Pembangunan,PPP,Kalimantan Timur,Kalimantan Timur,Male
+1,"H. ACHMAD BUCHARI, SH",N,Laki-Laki,KOTA MANADO,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Male
+2,HAMZA DATUKARAMAT,N,Laki-Laki,BOLAANG MONGONDOW UTARA,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Male
+3,FERAWATI WINDA WARIDIN,N,Perempuan,KOTA TOMOHON,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Female
+4,SOFYAN MAKU,N,Laki-Laki,KOTA MANADO,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Male
+5,AZIZA DJINDAN,N,Perempuan,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Female
+6,HJ A IRMA RAHMAWATI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Utara,Sulawesi Utara,Female
+1,Drs. H. ASGAR ALI DJUHAEPA,N,Laki-Laki,JAKARTA TIMUR,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Male
+2,ANDI FAUSIAH GANI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Female
+3,MOH FAJAR PANGGAGAU,N,Laki-Laki,DONGGALA,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Male
+4,DINAH,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Female
+5,SALMA DJ,N,Perempuan,KOTA PALU,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Female
+6,Dra. MAISUROH H.E SAARI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sulawesi Tengah,Sulawesi Tengah,Female
+1,"H.M AMIR USKARA, M.Kes",Y,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,H. NUR SYAHADAT SYAM,N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,HJ SARTINI DG NGUGI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Female
+4,IR. H. ANDI SYAHRIR MARZUKI M.M,N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,HASNAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Female
+6,HJ ROSNAWATI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Female
+7,"Drs. FIRDAUS ANAS, M.Si",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Male
+8,"HAMZAH DORAHING, SE. AK",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan I,Sulawesi Selatan,Male
+1,"H. MUH ARAS, S.Pd., M.M",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,H ASKAR HL SE,N,Laki-Laki,BULUKUMBA,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,"ANDI MARIATTANG, S.Sos",N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,"A MUH YUSLIM PATAWARI, S.STPi., MP",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,"H. ASRI TUBBA, S.P",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,ANDI ALFIAH MUTMAINNAH,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Female
+7,ARIFIN,N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+8,ANDI NURAINY TENRIANNY AMIN,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Female
+9,Ir. H. RIZALDI PARUMPA,N,Laki-Laki,PANGKAJENE DAN KEPULAUAN,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,"DARWIS ISMAIL, S.T., M.M",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,"Drs. H. ABU BAKAR WASAHUA, MH",Y,Laki-Laki,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,YUNISAR BASIR,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Female
+4,"Dr. NASRULLAH, S.H., M.Hum",N,Laki-Laki,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,A SUKRI BAHARMAN,N,Laki-Laki,SIDENRENG RAPPANG,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Male
+6,KESUMAWARDANI,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,HASMAWATY HUSAIN,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Selatan III,Sulawesi Selatan,Female
+1,"Ir. H LM. SJAFEI KAHAR, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,Drs. HABIL MARATI,N,Laki-Laki,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,"ASTUTI, S.Psi",N,Perempuan,KOTA BAU BAU,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,KASRA JARU MUNARA,N,Laki-Laki,BOMBANA,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+5,FIRDA NUR INDASARI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Female
+6,LA ODE MUTAKHIR BOLU,N,Laki-Laki,KOTA BAU BAU,Partai Persatuan Pembangunan,PPP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,HANA HASANAH FADEL MUHAMMAD,N,Perempuan,KOTA GORONTALO,Partai Persatuan Pembangunan,PPP,Gorontalo,Gorontalo,Female
+2,ADE IRFAN PULUNGAN,N,Laki-Laki,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Gorontalo,Gorontalo,Male
+3,HI ABDULLAH A. KARIEM,N,Laki-Laki,KOTA GORONTALO,Partai Persatuan Pembangunan,PPP,Gorontalo,Gorontalo,Male
+1,ABD WAHAB NUR,N,Laki-Laki,MAJENE,Partai Persatuan Pembangunan,PPP,Sulawesi Barat,Sulawesi Barat,Male
+2,ULFA MUTMAINNAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Barat,Sulawesi Barat,Female
+3,NUR ATI,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Sulawesi Barat,Sulawesi Barat,Female
+4,HASBAWATY,N,Perempuan,KOTA MAKASSAR,Partai Persatuan Pembangunan,PPP,Sulawesi Barat,Sulawesi Barat,Female
+1,ETHA AISYAH HENTIHU,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Maluku,Maluku,Female
+2,M. SYAHRIL WASAHUA,N,Laki-Laki,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Maluku,Maluku,Male
+3,"SARPUDDIN LITILOLY, S.AP",N,Laki-Laki,KUNINGAN,Partai Persatuan Pembangunan,PPP,Maluku,Maluku,Male
+4,SRI RAYANI,N,Perempuan,JAKARTA SELATAN,Partai Persatuan Pembangunan,PPP,Maluku,Maluku,Female
+1,HI MUHAMMAD DAENG BARANG,N,Laki-Laki,KOTA TERNATE,Partai Persatuan Pembangunan,PPP,Maluku Utara,Maluku Utara,Male
+2,FARIDA AMIN,N,Perempuan,KOTA TERNATE,Partai Persatuan Pembangunan,PPP,Maluku Utara,Maluku Utara,Female
+3,ALI RIZAL HANAFI,N,Laki-Laki,KOTA TERNATE,Partai Persatuan Pembangunan,PPP,Maluku Utara,Maluku Utara,Male
+1,BACHTIAR,N,Laki-Laki,JAYAPURA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Male
+2,"DR. H.M. HUSNI INGRATUBUN, S.E., S.H., M.M., M.H.",N,Laki-Laki,KOTA JAYAPURA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Male
+3,ERLINA RASIMAN,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+4,HERMAN. SHI,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Persatuan Pembangunan,PPP,Papua,Papua,Male
+5,ST MUNAWARAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+6,WARDATUL JANNAH,N,Perempuan,SAMPANG,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+7,FARDILA INDRIA,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+8,FEBRINA ARDHILLAH,N,Perempuan,KOTA SERANG,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+9,NUR NAHDAYATI TANJUNG,N,Perempuan,BEKASI,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+10,SHERLY HN VALENIA P,N,Perempuan,JAKARTA UTARA,Partai Persatuan Pembangunan,PPP,Papua,Papua,Female
+1,SITTI MARIJAM THAWIL,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Papua Barat,Papua Barat,Female
+2,SYAMSIAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Papua Barat,Papua Barat,Female
+3,NURJANNAH,N,Perempuan,GOWA,Partai Persatuan Pembangunan,PPP,Papua Barat,Papua Barat,Female
+1,ANDI MASMIYAT,N,Laki-Laki,KOTA BEKASI,Partai Persatuan Pembangunan,PPP,Kalimantan Utara,Kalimantan Utara,Male
+2,AMBO INTANG AZIKIN,N,Laki-Laki,BULUNGAN,Partai Persatuan Pembangunan,PPP,Kalimantan Utara,Kalimantan Utara,Male
+3,WINDY WIDYANTI,N,Perempuan,JAKARTA PUSAT,Partai Persatuan Pembangunan,PPP,Kalimantan Utara,Kalimantan Utara,Female

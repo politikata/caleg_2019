@@ -1,0 +1,532 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,GHUFRAN,N,Laki-Laki,KOTA BANDA ACEH,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Male
+2,RAFLI,N,Laki-Laki,ACEH BESAR,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Male
+3,"SRI HANUM, SE",N,Perempuan,ACEH BARAT,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Female
+4,H. MUHAMMAD RIZAL,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Male
+5,"ANGGARDA PARAMITA, S.Pd",N,Perempuan,ACEH TENGGARA,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Female
+6,"DEVI ARIANI, S.SOS",N,Perempuan,ACEH BARAT,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Female
+7,"M. YUNUS AZHARI, SH",N,Laki-Laki,ACEH BARAT,Partai Keadilan Sejahtera,PKS,Aceh I,Aceh,Male
+1,"H. MUHAMMAD NASIR DJAMIL, S. AG., M. Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Male
+2,"TGK. H. MUHAMMAD NUR, M. Si",N,Laki-Laki,ACEH UTARA,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Male
+3,"Dr. SUESILOWATY, SE., M.MPar",N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Female
+4,BARMANSYAH,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Male
+5,"M. YUSUF ISMAIL PASE, SH, MH",N,Laki-Laki,KOTA LHOKSEUMAWE,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Male
+6,"SARI DEWI, SE.Ak",N,Perempuan,BIREUEN,Partai Keadilan Sejahtera,PKS,Aceh II,Aceh,Female
+1,IR. H. TIFATUL SEMBIRING,Y,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+2,"SUTIAS HANDAYANI, SE",N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Female
+3,"Drs. H. M. IDRIS LUTFI RAMBE, M.Sc",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+4,"H. HIDAYATULLAH, SE.",N,Laki-Laki,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+5,"EVI RISNA YANTI, SH",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Female
+6,"IRWANSYAH, S.H., M.H.",N,Laki-Laki,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+7,"DESSY YUSVIKA YUSDARTONO, S.KOM",N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Female
+8,Ir. H. IZFAN,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+9,"FAQIH HAKIM HASIBUAN, S.Pd., M.Pd",N,Laki-Laki,DELI SERDANG,Partai Keadilan Sejahtera,PKS,Sumatera Utara I,Sumatera Utara,Male
+1,H. ISKAN QOLBA LUBIS,Y,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Male
+2,"HJ. NURAZIZAH TAMBUNAN, SS",N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Female
+3,"KHOIRUDDIN RAMBE, S.SOS",N,Laki-Laki,KOTA PADANG SIDIMPUAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Male
+4,HARNI ETIKA SARI SIREGAR,N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Female
+5,SAPARUDDIN HAJI LUBIS,N,Laki-Laki,MANDAILING NATAL,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Male
+6,"HJ. EMRINAWATI HASIBUAN, S.H., M.Pd.",N,Perempuan,PADANG LAWAS,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Female
+7,"NAZRAH ELIDA POHAN, SKM",N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Female
+8,"Dr. HJ. FEMINA SAGITA BORUALOGO, MA",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Female
+9,ROHIM RITONGA,N,Laki-Laki,KOTA PADANG SIDIMPUAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara II,Sumatera Utara,Male
+1,H. ANSORY SIREGAR,Y,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Male
+2,"DR. USMAN JAKFAR, LC., MA",N,Laki-Laki,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Male
+3,"SYAHFITRI HANI HARAHAP, SH",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Female
+4,"Dr. HJ. SAFRIDA RUMONDANG P. TAMBUNAN, S.E., Ak., MSi",N,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Female
+5,SRI FRA PANTI,N,Perempuan,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Female
+6,"H. SANUSI GHAZALI PANE, SE., M.Si",N,Laki-Laki,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Male
+7,SITI JULAEHA,N,Perempuan,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Female
+8,"Dr. (C). ZAINUDDIN NUR, S.H., ME.",N,Laki-Laki,KOTA MEDAN,Partai Keadilan Sejahtera,PKS,Sumatera Utara III,Sumatera Utara,Male
+1,"Dr. HERMANTO, S.E., M.M",Y,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Male
+2,"Dr. HANDI RISZA, SE, MEc",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Male
+3,Dra. DASLINAR,N,Perempuan,KOTA PADANG,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Female
+4,"YUNAFRI, S.H., M.Hum.",N,Laki-Laki,KOTA PADANG,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Male
+5,"YOHANDRIZON SYAMSU, S.P",N,Laki-Laki,SIJUNJUNG,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Male
+6,dr. ELYANTI FEJRI A.,N,Perempuan,KOTA PADANG,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Female
+7,"RITA SUSANTI, S.Ag",N,Perempuan,KOTA PADANG,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Female
+8,"Ir. H. MASRIZAL MUNAF, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Barat I,Sumatera Barat,Male
+1,DRS SYAURIUM SY,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Male
+2,HJ. NEVI ZUAIRINA,N,Perempuan,KOTA PADANG,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Female
+3,H. REFRIZAL,Y,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Male
+4,"CATUR VIRGO, SH, MH, SpN",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Male
+5,"H. HAMSUARDI, S. Ag",N,Laki-Laki,PASAMAN BARAT,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Male
+6,YUNESLI,N,Perempuan,PASAMAN BARAT,Partai Keadilan Sejahtera,PKS,Sumatera Barat II,Sumatera Barat,Female
+1,"DRS. CHAIRUL ANWAR, APT",Y,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Male
+2,"H. HENDRY MUNIEF, MBA",N,Laki-Laki,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Male
+3,"HJ. INDRIA RITA, S.Pd",N,Perempuan,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Female
+4,"HJ. AIDA MALIKHA, S.Psi, M.SI",N,Perempuan,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Female
+5,"CITRA MOESLIM ROESLI, SE, Ak",N,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Female
+6,"H. SYAFRUDDIN SA'AN, Lc",N,Laki-Laki,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Male
+7,"HJ. MAGDALENA, SH, M.Kn",N,Perempuan,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,Riau I,Riau,Female
+1,"DR. NURSANITA NASUTION, ME, CSRA",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Female
+2,"H. SYAHRUL AIDI MAAZAT, Lc. MA",N,Laki-Laki,KAMPAR,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Male
+3,"R. ADE HASIBUAN, SH",N,Laki-Laki,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Male
+4,H. AHMIYUL RAUF,N,Laki-Laki,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Male
+5,NUSAIBAH,N,Perempuan,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Female
+6,"Drs. H. SUHENDRI, M.Si",N,Laki-Laki,KOTA PEKANBARU,Partai Keadilan Sejahtera,PKS,Riau II,Riau,Male
+1,DRS. H. GUFRON AZIS FUADI,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Male
+2,"IR. HJ. ESRITA USMAN ERMULAN, M.SI",N,Perempuan,KOTA JAMBI,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Female
+3,"DRS. H. M. NAJMI, M.Pd.I",N,Laki-Laki,BUNGO,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Male
+4,"H. CHAIRUL WALID, S.Pd , M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Male
+5,"RENI LESTARI, S.SI",N,Perempuan,KOTA JAMBI,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Female
+6,"M. AMIN, MA",N,Laki-Laki,BATANGHARI,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Male
+7,"MERRY EMY YUSTIKA, S.Pd",N,Perempuan,KOTA JAMBI,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Female
+8,"DRS. DAHNIL MIFTAH, M.Si",N,Laki-Laki,KOTA JAMBI,Partai Keadilan Sejahtera,PKS,Jambi,Jambi,Male
+1,"H. MUSTAFA KAMAL, S.S.",Y,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Male
+2,"Ir. H. ACH SYAMSU RIZAL ASIR, MBA",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Male
+3,"THERESIA NOVAFIANI, S.Kom, MM",N,Perempuan,KOTA PALEMBANG,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Female
+4,"MIMI EFRIDA DALIMUNTHE, S.KM",N,Perempuan,KOTA LUBUKLINGGAU,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Female
+5,YENNI LIBERTY,N,Perempuan,KOTA LUBUKLINGGAU,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Female
+6,"H. ANDI AMRULLAH, Lc, ME.I",N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Male
+7,"AGUNG BAHARI, ST",N,Laki-Laki,KOTA PALEMBANG,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Male
+8,RADEN ACHMAD ARYANDRA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Sumatera Selatan I,Sumatera Selatan,Male
+1,Drs. H. MOHD. IQBAL ROMZI,Y,Laki-Laki,KOTA PALEMBANG,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+2,"H. IMAM MANSUR, Lc",N,Laki-Laki,KOTA PALEMBANG,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+3,"RUSIANA, S.Ag",N,Perempuan,OGAN KOMERING ULU,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Female
+4,"ZULKARNAIN, S.Pd.I",N,Laki-Laki,MUARA ENIM,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+5,"TL. FASMAWATI, S.Ag",N,Perempuan,KOTA PRABUMULIH,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Female
+6,Drs. SUWOTO,N,Laki-Laki,KOTA PAGAR ALAM,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+7,"YENI DESMAWATI, S.Si, M.Pd",N,Perempuan,OGAN KOMERING ULU TIMUR,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Female
+8,ATING MUHAMMAD,N,Laki-Laki,KOTA PALEMBANG,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+9,"ENDANG SUTISNA, S.Pd",N,Laki-Laki,OGAN ILIR,Partai Keadilan Sejahtera,PKS,Sumatera Selatan II,Sumatera Selatan,Male
+1,"Dr. H. DANI HAMDANI, M.Pd",N,Laki-Laki,KOTA BENGKULU,Partai Keadilan Sejahtera,PKS,Bengkulu,Bengkulu,Male
+2,"HJ. LIDIA CHAIRIDA, M.Pd.Si.",N,Perempuan,KOTA BENGKULU,Partai Keadilan Sejahtera,PKS,Bengkulu,Bengkulu,Female
+3,RITA YUSEFA,N,Perempuan,KOTA BENGKULU,Partai Keadilan Sejahtera,PKS,Bengkulu,Bengkulu,Female
+4,"JUNAIDI ALBAB SETIAWAN, SH., M.Comm Law",N,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,Bengkulu,Bengkulu,Male
+1,"Drs. H. ALMUZZAMMIL YUSUF, M.Si",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+2,IR.HANTONI HASAN M.SI,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+3,ISPRIYANI,N,Perempuan,TANGGAMUS,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Female
+4,"H. HERI PRAMBONO, ST. MM",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+5,TRI JULIAN MUHAR,N,Laki-Laki,LAMPUNG SELATAN,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+6,DRA. MAISARATUN ZUBAIDAH,N,Perempuan,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Female
+7,ROSYAD KAMIL,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+8,"DETTI FEBRINA, S.P.",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Female
+9,"H. DIDI MAWARDI, S.P",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+10,"DAMID,A.MD",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung I,Lampung,Male
+1,"Ir. H. A. JUNAIDI AULY, M.M",Y,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+2,"IR. HJ. NENDEN TRESNANURSARI, M.SI",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Female
+3,"HI. NURSALIM, S.IP",N,Laki-Laki,LAMPUNG TENGAH,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+4,ACHMAD ROCHFII,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+5,NUR KHOYRIN NASIHAH,N,Perempuan,LAMPUNG TENGAH,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Female
+6,"MAULANA MUSTIKA, SPD",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+7,M ZAKI HAKIM AT-TAMIMI,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+8,"HI. AHMAD JAJULI, S.IP., M.SI",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+9,AMRIA SUKMA RINGKEH,N,Perempuan,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Female
+10,TRISNO NGUDI SANTOSO,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Keadilan Sejahtera,PKS,Lampung II,Lampung,Male
+1,ANDREI P B SIMANJUNTAK,N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Kepulauan Riau,Kepulauan Riau,Male
+2,"Ir. ISWAN ABDULLAH, ME",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Kepulauan Riau,Kepulauan Riau,Male
+3,Dra. HJ. HERLINI AMRAN,N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Kepulauan Riau,Kepulauan Riau,Female
+4,RITA FAJRIAH,N,Perempuan,KARIMUN,Partai Keadilan Sejahtera,PKS,Kepulauan Riau,Kepulauan Riau,Female
+1,"FADJAR FAIRY RUSNI, SH",N,Laki-Laki,BELITUNG,Partai Keadilan Sejahtera,PKS,Bangka Belitung,Bangka Belitung,Male
+2,H. USMANDIE A.ANDESKA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Bangka Belitung,Bangka Belitung,Male
+3,"LILI ZURIATI, S.P.",N,Perempuan,BANGKA,Partai Keadilan Sejahtera,PKS,Bangka Belitung,Bangka Belitung,Female
+1,"Hj. LEDIA HANIFA A, S.Si., M.Psi.T",Y,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Female
+2,"TEDDY SETIADI, S.I.Kom",N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Male
+3,Ir. NURANI ESTI LESTARI,N,Perempuan,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Female
+4,"H. INDRA KUSUMAH, S.Psi., M.Si.",N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Male
+5,"MASROKHAN, S.Pd.I.",N,Laki-Laki,KOTA CIMAHI,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Male
+6,"Ir. HJ. REYHANANI BAHAR SYAMSUL, M. Pd.",N,Perempuan,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Female
+7,"RENDI ERMANSYAH PUTRA, S.T",N,Laki-Laki,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat I,Jawa Barat,Male
+1,"dr. H. ADANG SUDRAJAT, MM",Y,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Male
+2,"Dipl. Ing. HJ. DIAH NURWITASARI, M.I.Pol.",N,Perempuan,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Female
+3,"Drs. H. DIDIK AGUS T, M.Pd",N,Laki-Laki,BANDUNG BARAT,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Male
+4,"Dra. HJ. AYI HODIJAH, S.Ag.",N,Perempuan,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Female
+5,"H. ACEP HUD SYALAHUDIN, A.Md",N,Laki-Laki,BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Male
+6,YANYAN HAERANI,N,Perempuan,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Female
+7,H. DADANG SUMPENA,N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Male
+8,"H. ASEP JAJULI, S.Pd.I",N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Male
+9,"HJ. ROSYE DEWI RUSANTI, S.Pd",N,Perempuan,BANDUNG BARAT,Partai Keadilan Sejahtera,PKS,Jawa Barat II,Jawa Barat,Female
+1,H. ECKY AWAL MUCHARAM,Y,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+2,"Ir. IIM NUROCHIMAH, M.Si",N,Perempuan,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Female
+3,"H. NAJAMUDIN, M.PD.I",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+4,"H. GILAR BUDI RAHARJA, ST., M.SC.",N,Laki-Laki,CIANJUR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+5,"ABUZAR, SE",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+6,"HJ. HUZNI FARHANY, Lc. MA",N,Perempuan,CIANJUR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Female
+7,"TEGUH RIHANANTO, S.AP",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+8,MOHAMMAD KASIF,N,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Male
+9,R. ELA LAYLA MARDIYAH,N,Perempuan,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat III,Jawa Barat,Female
+1,drh. H. SLAMET,Y,Laki-Laki,SUKABUMI,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Male
+2,"FITRI HAYATI, S.Ag",N,Perempuan,KOTA SUKABUMI,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Female
+3,"DR. H. SUKMAWIJAYA, MM",N,Laki-Laki,SUKABUMI,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Male
+4,MUH. NURI,N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Male
+5,Hj. ZAKIAH SYAMSUDIN,N,Perempuan,SUKABUMI,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Female
+6,"Drs. H. SUPARDI, M.Pd.",N,Laki-Laki,SUKABUMI,Partai Keadilan Sejahtera,PKS,Jawa Barat IV,Jawa Barat,Male
+1,"DR. H. FAHMY ALAYDROES, MM., Med.",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Male
+2,TB SOENMANDJAJA,Y,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Male
+3,"Drg. HJ. IS BUDI WIDURI SEKARJATI, MM",N,Perempuan,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Female
+4,"WASTO, S.HUT",N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Male
+5,H. EKO SYAIFUL ROHMAN,N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Male
+6,"ATIKAH SHALIHAT, S.E.I",N,Perempuan,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Female
+7,"Dra. HJ. IDA FARIDA DARWI, MA.",N,Perempuan,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Female
+8,"H. MAMAN NURZAMAN, ME",N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Male
+9,"Hj. DIYAH NUR AENI, S.Sy.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat V,Jawa Barat,Female
+1,"MAHFUDZ ABDURRAHMAN, S.Sos",Y,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Male
+2,"SAPTO WALUYO, S.Sos, M. Sc.",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Male
+3,"HJ. NUR AZIZAH TAMHID, B.A., M.A.",N,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Female
+4,"HJ ERMI YUSFA, S.E., M.E",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Female
+5,Dra. HJ. SRI ENDANG HANDAYANI,N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Female
+6,"H. YANUAR ARIF WIBOWO, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat VI,Jawa Barat,Male
+1,AHMAD SYAIKHU,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+2,"DR. H. SADUDDIN, MM.",N,Laki-Laki,BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+3,"RATNA MULYA MADURANI, S. H",N,Perempuan,BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Female
+4,Drs. THOHA MAHSUN,N,Laki-Laki,PURWAKARTA,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+5,ASEP IRAWAN,N,Laki-Laki,KARAWANG,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+6,"HJ. DWI SEPTIAWATI, S.Pd.",N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Female
+7,"YOYO SUTARYO, S.PKP",N,Laki-Laki,KARAWANG,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+8,"PIPIN SOPIAN, S.Sos., IMRI",N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+9,TIA TRESNAWATI,N,Perempuan,KARAWANG,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Female
+10,H. NANANG IMAM FIRDAUS,N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat VII,Jawa Barat,Male
+1,"Dr. HJ. NETTY PRASETIYANI, M.Si",N,Perempuan,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Female
+2,RADEN BAGUS SURYAMA MAJANA SASTRA,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+3,HARISMAN,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+4,Ir (Insinyur). RUSNO OMBAK RAHARDJO,N,Laki-Laki,INDRAMAYU,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+5,"ROBANI HENDRA PERMANA, ST",N,Laki-Laki,INDRAMAYU,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+6,"ENGKUR, S.IP., ME",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Female
+7,"FATHURRAHMAN, SKM",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+8,"HJ. ARIFIANI, SE., MBA.",N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Female
+9,FAJAR SUYITNO,N,Laki-Laki,CIREBON,Partai Keadilan Sejahtera,PKS,Jawa Barat VIII,Jawa Barat,Male
+1,H. NURHASAN ZAIDI,Y,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Male
+2,Ir. RIDHO BUDIMAN UTAMA,N,Laki-Laki,BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Male
+3,"IKE MEDYAWATI SETIARINI, S.Si., Apt",N,Perempuan,SUMEDANG,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Female
+4,dr. H. ENCEP SUGIANA,N,Laki-Laki,SUBANG,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Male
+5,IR. H. WAHYUDIN MUNAWIR,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Male
+6,ILIN WILYANIE,N,Perempuan,MAJALENGKA,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Female
+7,"BUDIMAN AL IMAN, M.Si",N,Laki-Laki,MAJALENGKA,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Male
+8,"HJ. INNA SAMSUMINAR, S.P.",N,Perempuan,SUMEDANG,Partai Keadilan Sejahtera,PKS,Jawa Barat IX,Jawa Barat,Female
+1,"DR. KH. SURAHMAN HIDAYAT, MA.",Y,Laki-Laki,BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Male
+2,"KH. ACHIDIN NOOR, MA.",N,Laki-Laki,KUNINGAN,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Male
+3,"ANITA SETIYOWATI, S.Pd.",N,Perempuan,KUNINGAN,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Female
+4,Ir. H. ADE BARKAH,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Male
+5,"ICIH MINTARSIH, S.Pd",N,Perempuan,KUNINGAN,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Female
+6,HJ ETY NURHADIYATI,N,Perempuan,KOTA BANJAR,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Female
+7,H. ISMAIL ELYAS,N,Laki-Laki,CIAMIS,Partai Keadilan Sejahtera,PKS,Jawa Barat X,Jawa Barat,Male
+1,H. TATE QOMARUDDIN,N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+2,"KH. TORIQ HIDAYAT, LC",N,Laki-Laki,TASIKMALAYA,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+3,SITI HUZAEMAH,N,Perempuan,KOTA TASIKMALAYA,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Female
+4,"H. ITANG RUSMANA, LC. M.H.",N,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+5,Ir. IRMA SUSANA HANDAYANI,N,Perempuan,INDRAMAYU,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Female
+6,MUCHAMMAD HARIYANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+7,"HJ. YULIDAR ANGGRIA, ST",N,Perempuan,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Female
+8,"GARI PRIMANANDA, S.Si, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+9,"ARIF RAHMAN, A. MA.",N,Laki-Laki,GARUT,Partai Keadilan Sejahtera,PKS,Jawa Barat XI,Jawa Barat,Male
+1,"Dr. H. MARDANI, M.Eng.",N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Male
+2,"Dr. HJ ANIS BYARWATI, S.Ag., M.Si",N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Female
+3,"H. ANDY AZISI AMIN, SE.",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Male
+4,Dr. HJ. ASTRIANA BAITI SINAGA,N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Female
+5,HAMID MURROGHI,N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Male
+6,"ANDRIYANA, S.T.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta I,DKI Jakarta,Male
+1,"DR. H. M. HIDAYAT NUR WAHID, MA",Y,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Male
+2,"Dr. HJ.KURNIASIH MUFIDAYATI, Msi.",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Female
+3,"Dr. NAHARUS SURUR, M. Kes",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Male
+4,"Hj. OFIYATI SOBRIYAH, SH. SpN",N,Perempuan,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Female
+5,"HJ. ZAHRINA NURBAITI, S.Sos, S.Sos.I, MM",N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Female
+6,"FAROUK ABDULLAH ALWYNI, SE., MA., MBA.",N,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Male
+7,"MEUTIA GEUMALA, S.E.",N,Perempuan,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,DKI Jakarta II,DKI Jakarta,Female
+1,"Dra. WIRIANINGSIH, M.Si",N,Perempuan,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Female
+2,Drs. H. ADANG DARADJATUN,Y,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Male
+3,Drs. H. HASAN KIAT,N,Laki-Laki,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Male
+4,"RENOLD DARMASYAH, SSi, MSi.",N,Laki-Laki,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Male
+5,"TARWIYAH, S.Th.I",N,Perempuan,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Female
+6,Dra. HJ. IRMAWATI WARDYAH,N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Female
+7,NITA NURUL HUDA RACHMAN,N,Perempuan,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Female
+8,H. EDY MULYADI,N,Laki-Laki,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,DKI Jakarta III,DKI Jakarta,Male
+1,"KH. BUKHORI, LC. MA",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Male
+2,"H. SRI PRAPTONO, S.Sos., MM",N,Laki-Laki,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Male
+3,Ir. LISTYANA NOOR ROCHAINY,N,Perempuan,KENDAL,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Female
+4,"WISNU WIJAYA ADI PUTRA, SE",N,Laki-Laki,KARANGANYAR,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Male
+5,"SUMINAH, S.Ag",N,Perempuan,SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Female
+6,"H. SUGENG SETIA, SE",N,Laki-Laki,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Male
+7,NUR YULIANTO,N,Laki-Laki,SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Male
+8,JUMIATI,N,Perempuan,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah I,Jawa Tengah,Female
+1,"H. MUHSININ FAUZI, Lc. M.Si",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Tengah II,Jawa Tengah,Male
+2,"H. AHMADI, A. Md",N,Laki-Laki,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah II,Jawa Tengah,Male
+3,"AMANATUL HUSNA, S. Pi",N,Perempuan,DEMAK,Partai Keadilan Sejahtera,PKS,Jawa Tengah II,Jawa Tengah,Female
+4,ADY SUPRATIKTO,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Tengah II,Jawa Tengah,Male
+5,SURTINI,N,Perempuan,KUDUS,Partai Keadilan Sejahtera,PKS,Jawa Tengah II,Jawa Tengah,Female
+1,"H. NAJIB SUBROTO, S E",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Male
+2,"Dr. MARSUDI BUDI UTOMO, B.Eng., M.Eng.",N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Male
+3,"ENDAH ETNAWATI, S.Hut",N,Perempuan,BLORA,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Female
+4,"AHMAD NIZAR, S.IP",N,Laki-Laki,REMBANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Male
+5,"NURYATI, SE",N,Perempuan,BLORA,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Female
+6,SUTRISNO,N,Laki-Laki,PATI,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Male
+7,SITI RUSMIYATI,N,Perempuan,REMBANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Female
+8,"H. DIPO NOTARIANTO, S.H., S.E., M.M., M.B.A., M.Kn.",N,Laki-Laki,PATI,Partai Keadilan Sejahtera,PKS,Jawa Tengah III,Jawa Tengah,Male
+1,"H.M. MARTRI AGOENG, SH",Y,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Male
+2,NURUL RETNO NAWANGSIH,N,Perempuan,KARANGANYAR,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Female
+3,"DRS. HAMID NOOR YASIN, MM",N,Laki-Laki,WONOGIRI,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Male
+4,H. SOLIKHIN,N,Laki-Laki,SRAGEN,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Male
+5,RUDI WAHYONO,N,Laki-Laki,SRAGEN,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Male
+6,NURUL FITHRI ISHVARI,N,Perempuan,KARANGANYAR,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Female
+7,ADI KAHARTI,N,Perempuan,SRAGEN,Partai Keadilan Sejahtera,PKS,Jawa Tengah IV,Jawa Tengah,Female
+1,Dr. H. ABDUL KHARIS ALMASYHARI,Y,Laki-Laki,KOTA SURAKARTA,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Male
+2,"AGUS ABDULATIF, SE",N,Laki-Laki,KLATEN,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Male
+3,MUFIDA BRILIAN NISA,N,Perempuan,KOTA SURAKARTA,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Female
+4,"TUGIMAN, SP",N,Laki-Laki,BOYOLALI,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Male
+5,Ir. H. MUHAMMAD RODHI,N,Laki-Laki,KOTA SURAKARTA,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Male
+6,RETNO WULANSARI,N,Perempuan,KARANGANYAR,Partai Keadilan Sejahtera,PKS,Jawa Tengah V,Jawa Tengah,Female
+1,H. BUDI SANTOSA,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Male
+3,"UMMI AMRIYATUN, S.Si., Apt",N,Perempuan,PURWOREJO,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Female
+4,"H. JAMALUDIN, BA",N,Laki-Laki,MAGELANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Male
+5,"SUSWANTI, S.Pd",N,Perempuan,TEMANGGUNG,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Female
+6,MARKHAMAH AMINI,N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Female
+7,"H. PRIS QOMAR NAJAM WIBAWA, S.Pt",N,Laki-Laki,TEMANGGUNG,Partai Keadilan Sejahtera,PKS,Jawa Tengah VI,Jawa Tengah,Male
+1,ROFIK HANANTO,N,Laki-Laki,PURBALINGGA,Partai Keadilan Sejahtera,PKS,Jawa Tengah VII,Jawa Tengah,Male
+2,"Drs. HADI SUPENO, M.Si",N,Laki-Laki,BANJARNEGARA,Partai Keadilan Sejahtera,PKS,Jawa Tengah VII,Jawa Tengah,Male
+3,SRI RUSUPIATI,N,Perempuan,BANJARNEGARA,Partai Keadilan Sejahtera,PKS,Jawa Tengah VII,Jawa Tengah,Female
+4,"H. AMAD RIYADI, SE",N,Laki-Laki,KEBUMEN,Partai Keadilan Sejahtera,PKS,Jawa Tengah VII,Jawa Tengah,Male
+5,"FINDI DARNA PRATIWI, S. Pd",N,Perempuan,PURBALINGGA,Partai Keadilan Sejahtera,PKS,Jawa Tengah VII,Jawa Tengah,Female
+1,"H. AGOES POERNOMO, SIP",N,Laki-Laki,SLEMAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Male
+2,"H. BAMBANG SUTOPO, SEI, MM",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Male
+3,?AISYAH AMALIA RAMADHANI,N,Perempuan,BANYUMAS,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Female
+4,BAMBANG SUTANTO,N,Laki-Laki,CILACAP,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Male
+5,"Dr. H. WARMAN, S.H , M.SE",N,Laki-Laki,BANYUMAS,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Male
+6,"RATNA PUSPONINGRUM, S.Pd",N,Perempuan,CILACAP,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Female
+7,SALMA RUFAIDA,N,Perempuan,CILACAP,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Female
+8,"TOSSY ARYANTO, SE. MM.",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah VIII,Jawa Tengah,Male
+1,"DR. IR. H. SUSWONO, MMA.",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Male
+2,DR. H. ABDUL FIKRI FAQIH,Y,Laki-Laki,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Male
+3,OFI SOFIATI,N,Perempuan,TEGAL,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Female
+4,"H. ROHMANI, SPd. MA.",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Male
+5,IR. HJ LUWIH LESTARI,N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Female
+6,KARTIKA DWI HAPSARI,N,Perempuan,KOTA TEGAL,Partai Keadilan Sejahtera,PKS,Jawa Tengah IX,Jawa Tengah,Female
+1,Drs. H. SYAMSALIS,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Male
+2,"H. IDRIS SATRIA BUDI, Ak. MBA",N,Laki-Laki,KOTA PEKALONGAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Male
+3,"FAJAR MARTANINGSIH, S. Si., A. Pt",N,Perempuan,BATANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Female
+4,"AHMAD HANAFI, MBA",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Male
+5,"BAYU WIJANARKO, S.E",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Male
+6,"SITI MURTAFIAH, S. Pd",N,Perempuan,PEMALANG,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Female
+7,"MASLIKHAH, S.Pd",N,Perempuan,PEKALONGAN,Partai Keadilan Sejahtera,PKS,Jawa Tengah X,Jawa Tengah,Female
+1,DR. H. SUKAMTA,Y,Laki-Laki,KOTA YOGYAKARTA,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Male
+2,"H. NANDAR WINORO, S.T,M.S.I",N,Laki-Laki,SLEMAN,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Male
+3,"LINDA AFRIANI, SE",N,Perempuan,BANTUL,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Female
+4,"NUR SASMITO, S.T., M.M.",N,Laki-Laki,KULON PROGO,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Male
+5,dr. HJ. RIMA FITRIANI,N,Perempuan,SLEMAN,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Female
+6,"MUHAMMAD ZUHRIF HUDAYA, S. T",N,Laki-Laki,KOTA YOGYAKARTA,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Male
+7,"FAHIMA INDRAWATI, S. TH. I",N,Perempuan,BANTUL,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Female
+8,"HARYO SETYOKO, S.IP, MPA.",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,DI Yogyakarta,DI Yogyakarta,Male
+1,Ir. H. SIGIT SOSIANTOMO,Y,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+2,ISWIYANTI WIDYAWATI,N,Perempuan,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Female
+3,MUHAMMAD AZIZ,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+4,MISBAHUL HUDA,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+5,MANGESTI WALUYO SEDJATI,N,Laki-Laki,SIDOARJO,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+6,HERLIN YULIASTANTI,N,Perempuan,SIDOARJO,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Female
+7,WIDYA ADI SASONGKO,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+8,WAHYU SRIONO,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Male
+9,"LINA ARIANI, S.Si., APl",N,Perempuan,SIDOARJO,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Female
+10,HOIRIYAH,N,Perempuan,SIDOARJO,Partai Keadilan Sejahtera,PKS,Jawa Timur I,Jawa Timur,Female
+1,"dr. H. AGOES KOOSHARTORO, SpPD KKV FINASIM",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Male
+2,MUHAMMAD FIRDAUS,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Male
+3,"IDA ROCHMAWATI, S.Di",N,Perempuan,PASURUAN,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Female
+4,ERMAWATI,N,Perempuan,PASURUAN,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Female
+5,TITIK WULANDARI,N,Perempuan,KOTA PASURUAN,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Female
+6,ABDUL KARIM,N,Laki-Laki,KOTA PASURUAN,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Male
+7,RINI PURA KIRANA,N,Perempuan,BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Timur II,Jawa Timur,Female
+1,"H. SOFYAN SAID, Spd, SE, AK, MBA.",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Male
+2,"FARIED WAHYUDI CAHYO MARDANI, SE",N,Laki-Laki,SITUBONDO,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Male
+3,NURUL KHOTIMAH,N,Perempuan,BONDOWOSO,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Female
+4,SHOHIB QOMAD DILLAH,N,Laki-Laki,KLATEN,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Male
+5,SANTI SETYOWATI,N,Perempuan,BANYUWANGI,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Female
+6,MUHAMMAD ROFIEQ,N,Laki-Laki,MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Male
+7,"WINDA IRIANI, S.T",N,Perempuan,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Timur III,Jawa Timur,Female
+1,"AMIN AK, MM",N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Male
+2,"Dr. H. MOH ROZAQ ASYHARI, SH., MH.",N,Laki-Laki,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Male
+3,JAJUK SITI NURHAQIMAN,N,Perempuan,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Female
+4,RUDI HARTONO,N,Laki-Laki,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Male
+5,DIAH SETYORINI,N,Perempuan,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Female
+6,QOMARIYANTO,N,Laki-Laki,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Male
+7,GELIS RIASARI,N,Perempuan,JEMBER,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Female
+8,MUHAMMAD KHOLID,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Timur IV,Jawa Timur,Male
+1,"Dipl. Ing. H. RADEN AGOENG HARDIANTO WIBOWO, MSc. ME",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Male
+2,"H. IMAM SYAFI?I, LC., S.HI., M.Pd.",N,Laki-Laki,MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Male
+3,WUWUH KANTI UTAMI,N,Perempuan,MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Female
+4,MUHAMAD HAFITZ FRIADI,N,Laki-Laki,KOTA MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Male
+5,RANTALA SIKAYO,N,Laki-Laki,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Male
+6,NISRINA FIRDAUSI,N,Perempuan,KOTA MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Female
+7,"SITI NOORAINI IMMAWATI, SE",N,Perempuan,KOTA MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Female
+8,HERU YUNATAN,N,Laki-Laki,KOTA MALANG,Partai Keadilan Sejahtera,PKS,Jawa Timur V,Jawa Timur,Male
+1,"IR. MEMED SOSIAWAN, ME",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Male
+2,YON TAUFIQ HIDAYAT,N,Laki-Laki,KEDIRI,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Male
+3,LINA RAHMAWATI,N,Perempuan,KOTA KEDIRI,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Female
+4,SIH PENPRI,N,Laki-Laki,TULUNGAGUNG,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Male
+5,DIANA FAJRIYAH,N,Perempuan,BLITAR,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Female
+6,MARENDA DARWIS,N,Laki-Laki,KEDIRI,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Male
+7,MARWIYAH,N,Perempuan,KOTA BLITAR,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Female
+8,Ir. AB. HENDRAWAN,N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Male
+9,LIHAN NAHARI,N,Perempuan,KEDIRI,Partai Keadilan Sejahtera,PKS,Jawa Timur VI,Jawa Timur,Female
+1,JULI WIBOWO S.S,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Male
+2,"IR. H. YUSUF DARDIRI, MPD",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Male
+3,SITI UMUL UMAROH,N,Perempuan,PONOROGO,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Female
+4,GHUFRON ISLAHUDIN LAHORE,N,Laki-Laki,NGAWI,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Male
+5,"NURUS SOLIKAH, SE., AK.",N,Perempuan,TRENGGALEK,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Female
+6,TATAQ MUJIWASONO,N,Laki-Laki,TRENGGALEK,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Male
+7,SUROHMAN,N,Laki-Laki,MAGETAN,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Male
+8,RITA SYARIFAH,N,Perempuan,TRENGGALEK,Partai Keadilan Sejahtera,PKS,Jawa Timur VII,Jawa Timur,Female
+1,Ir. YUSUF ROHANA,N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Male
+2,"Drs. SUYITNO, MM",N,Laki-Laki,JOMBANG,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Male
+3,RETNO INDRAWATI,N,Perempuan,KOTA MADIUN,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Female
+4,"LEWANG HADI SUNARYO, S.Pd",N,Laki-Laki,JOMBANG,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Male
+5,MUSLIHUDDIN,N,Laki-Laki,MOJOKERTO,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Male
+6,NANING POEDJI RAHAYU,N,Perempuan,KOTA MOJOKERTO,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Female
+7,"INDAH MALIKHAH, SPDi",N,Perempuan,MOJOKERTO,Partai Keadilan Sejahtera,PKS,Jawa Timur VIII,Jawa Timur,Female
+1,ILHAM BUDHI PRASETIJA,N,Laki-Laki,BOJONEGORO,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Male
+2,"AGUS ABDULLOHIL WAHID MG, M.Sc",N,Laki-Laki,LAMONGAN,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Male
+3,AMINATUS SHOLICHAH,N,Perempuan,TUBAN,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Female
+4,LUKMAN HAKIM,N,Laki-Laki,BOJONEGORO,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Male
+5,"DANIA NOVITASARI, SE., M.Pd",N,Perempuan,BOJONEGORO,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Female
+6,"HA. SUPRAPTO, SH, MM",N,Laki-Laki,TUBAN,Partai Keadilan Sejahtera,PKS,Jawa Timur IX,Jawa Timur,Male
+1,"Ir. H. AHMAD IQBAL SATRIA UTAMA, MM",N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Male
+2,"BASUKI ABDUL AZIZ, S.Si",N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Male
+3,RATRI HANDAYANI,N,Perempuan,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Female
+4,"ARIF PRASETYO AJI, ST",N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Male
+5,"DARMIDI, SE",N,Laki-Laki,LAMONGAN,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Male
+6,DYAH RETNO SAVITRI,N,Perempuan,LAMONGAN,Partai Keadilan Sejahtera,PKS,Jawa Timur X,Jawa Timur,Female
+1,"AKHMAD, S Sos",N,Laki-Laki,KOTA SURABAYA,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Male
+2,"MUHAMMAD, SE",N,Laki-Laki,BANGKALAN,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Male
+3,"NURUL HIDAYATI, S.Pd, MM",N,Perempuan,PAMEKASAN,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Female
+4,MOH. MUDHAR,N,Laki-Laki,SUMENEP,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Male
+5,HARYONO ABDUL BARI,N,Laki-Laki,SAMPANG,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Male
+6,UMAINAH,N,Perempuan,SAMPANG,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Female
+7,NIHAYATI USSAADAH,N,Perempuan,BANGKALAN,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Female
+8,Drs. EC. HM SUPRIADI,N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Jawa Timur XI,Jawa Timur,Male
+1,"DR. H. R. ACHMAD DIMYATI NATAKUSUMAH, S.H., M.H., M.SI.",N,Laki-Laki,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Male
+2,"KH. AHMAD SADELI KARIM, Lc",N,Laki-Laki,KOTA SERANG,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Male
+3,"NISA AL AZIZAH, BBA (Hons)",N,Perempuan,PANDEGLANG,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Female
+4,"Ir. SYAMSU HILAL, MP",N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Male
+5,"TRI KUSUMASARI, S.S.",N,Perempuan,LEBAK,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Female
+6,"H. SANUJI PENTAMARTA, S.IP.",N,Laki-Laki,LEBAK,Partai Keadilan Sejahtera,PKS,Banten I,Banten,Male
+1,"DR. H. JAZULI JUWAINI, MA",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Male
+2,EI NURUL KHOTIMAH,Y,Perempuan,KOTA SERANG,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Female
+3,"EMAN SUKIRMAN, SE,.MSi.",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Male
+4,YEMMELIA,N,Perempuan,KOTA SERANG,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Female
+5,MOH. FIKRI,N,Laki-Laki,SERANG,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Male
+6,Drs. MOHAMMAD SAFARI,N,Laki-Laki,SERANG,Partai Keadilan Sejahtera,PKS,Banten II,Banten,Male
+1,"DR. H. MULYANTO, M.Eng",N,Laki-Laki,JAKARTA PUSAT,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+2,"INDRA, SH. MH",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+3,IR. HJ. TUTI ELFITA M.SI.,N,Perempuan,KOTA TANGERANG,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Female
+4,"Drs. SUNARDI, MM. Pd",N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+5,"H. ARIF WAHYUDI, ME",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+6,Dra. HJ. KINGKIN ANIDA,N,Perempuan,JAKARTA BARAT,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Female
+7,"ADE MARFUDDIN, M.A.P",N,Laki-Laki,TANGERANG,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+8,"TOTOK SUDARYANTO, SE M.Si",N,Laki-Laki,TANGERANG,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+9,MAS FARLINA LIMAR WANGI,N,Perempuan,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Female
+10,"H. SYARIFULLAH, S.Pd.I",N,Laki-Laki,TANGERANG,Partai Keadilan Sejahtera,PKS,Banten III,Banten,Male
+1,ARYA SANDHIYUDDHA,N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Bali,Bali,Male
+2,"HJ. LILI ANITA BALIANI, S.P, M.M",N,Perempuan,KOTA DENPASAR,Partai Keadilan Sejahtera,PKS,Bali,Bali,Female
+1,"H. JOHAN ROSIHAN, ST",N,Laki-Laki,KOTA MATARAM,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"Dr. HERMAWAN SAPUTRA, SKM., MARS.",N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,"HJ. FERRA AMELIA, SE., MM",N,Perempuan,KOTA BIMA,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,"H. SURYADI JAYA PURNAMA, ST",N,Laki-Laki,KOTA MATARAM,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+2,"Ir. H. LALU SURYADE, Msi",N,Laki-Laki,KOTA BOGOR,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,"BAIQ ARINTA TRISATYANA, SE",N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+4,H. DJAMURIS,N,Laki-Laki,KOTA MATARAM,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+5,"NURWAHIDAH, SH",N,Perempuan,KOTA MATARAM,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+6,"H. USMAR IWAN SURAMBIAN, SE",N,Laki-Laki,LOMBOK TIMUR,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+7,"Ir. LALU KHALID TARMIZI, MT",N,Laki-Laki,LOMBOK TIMUR,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+8,"DWI ANGGRAINI KUSUMA, ST",N,Perempuan,KOTA MATARAM,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+1,MUJTAHID RAHMAN YADI,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,"AGUS ISMAIL, S.Si, M.Eng",N,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,HERMIN SUSANA,N,Perempuan,KOTA KEDIRI,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,"H. FACHRUDIN MUHAMAD, SH, MH",N,Laki-Laki,ENDE,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,"Dr. DAHLAN LAMABAWA, S.Ag, M.Ag",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+6,"HEKSANING RIBUT RAWIT, S.Pd",N,Perempuan,KOTA SEMARANG,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+1,"AHMAD FATHUL BARI, S.Hum., M.S.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,"Dr.Ir. JAMIN HABID, MM",N,Laki-Laki,JAKARTA UTARA,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,"SITI FATIMAH, S.Psi.",N,Perempuan,KOTA KUPANG,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+4,"SYAMSUL SYAMSUDDIN ALI, SH",N,Laki-Laki,KOTA KUPANG,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+5,"RAHAYU HAMZAH, S.Pd",N,Perempuan,KOTA KUPANG,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+6,Ir. JARMUD ASDOD SEMUEL TAHUN,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+1,"H ALIFUDIN, SE, MM",N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Male
+2,"HJ. NUNUNG HUSNUL KHATIMAH, S.P",N,Perempuan,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Female
+3,IRIANSYAH HN RIZAL,N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Male
+4,"Ir. H. KARSONO RUMAWADI, Dipl.GLA, MSi, MM",N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Male
+5,"HARSADI KASIM, S. IP, M.Si",N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Male
+6,HJ. WIWIS SUHARTI,N,Perempuan,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Female
+7,HJ. DIAH LESTARI,N,Perempuan,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Female
+8,"Ir. H. HASANUSI, MM",N,Laki-Laki,SAMBAS,Partai Keadilan Sejahtera,PKS,Kalimantan Barat I,Kalimantan Barat,Male
+1,"Ir. H. FATHAN A. RASYID, M. Ag",N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat II,Kalimantan Barat,Male
+2,"H. SUPARDI, S.Ag",N,Laki-Laki,KOTA PONTIANAK,Partai Keadilan Sejahtera,PKS,Kalimantan Barat II,Kalimantan Barat,Male
+3,HAJRIN FAUZIYAH,N,Perempuan,SINTANG,Partai Keadilan Sejahtera,PKS,Kalimantan Barat II,Kalimantan Barat,Female
+4,"ERLITA DEWI, S.P",N,Perempuan,MELAWI,Partai Keadilan Sejahtera,PKS,Kalimantan Barat II,Kalimantan Barat,Female
+1,"AGUS YULIARTO EKO SUHARTO PUTRO, S.E.",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Kalimantan Tengah,Kalimantan Tengah,Male
+2,MAKHFUD KURNIAWAN HIDAYAT,N,Laki-Laki,KOTA PALANGKARAYA,Partai Keadilan Sejahtera,PKS,Kalimantan Tengah,Kalimantan Tengah,Male
+3,INDASAH,N,Perempuan,KOTA PALANGKARAYA,Partai Keadilan Sejahtera,PKS,Kalimantan Tengah,Kalimantan Tengah,Female
+4,MIMIEN DEWIYANTI,N,Perempuan,KARANGANYAR,Partai Keadilan Sejahtera,PKS,Kalimantan Tengah,Kalimantan Tengah,Female
+5,Ir. MUHAMMAD HASBI,N,Laki-Laki,SUKAMARA,Partai Keadilan Sejahtera,PKS,Kalimantan Tengah,Kalimantan Tengah,Male
+1,"HABIB ABOE BAKAR ALHABSYI, S.E",Y,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,DITA NOVIANTY,N,Perempuan,HULU SUNGAI SELATAN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan I,Kalimantan Selatan,Female
+3,"IWIRIANI, S.Pd.I",N,Perempuan,HULU SUNGAI TENGAH,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,"ABDUSSYUKUR, S.Pd.I",N,Laki-Laki,HULU SUNGAI SELATAN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan I,Kalimantan Selatan,Male
+5,NOVITA SARI,N,Perempuan,HULU SUNGAI SELATAN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,"dr. HASAN ZAIN, Sp. P",N,Laki-Laki,KOTA BANJARMASIN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,"SA'ADAH DAROINI, S.Si",N,Perempuan,KOTA BANJARMASIN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan II,Kalimantan Selatan,Female
+3,HERIYADI,N,Laki-Laki,TANAH LAUT,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan II,Kalimantan Selatan,Male
+4,"LISA LISDIANA, S.Sos",N,Perempuan,KOTA BANJARMASIN,Partai Keadilan Sejahtera,PKS,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,KH. AUS HIDAYAT NUR,Y,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Male
+2,"HJ. PURWINAHYU, S.Psi, M.M Psikolog",N,Perempuan,KOTA SAMARINDA,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Female
+3,"H. ISRO UMARGHANI, S.IP, M.M",N,Laki-Laki,KOTA BONTANG,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Male
+4,"WIWIN RAHMA SURYANTI, M.Pd.",N,Perempuan,PASER,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Female
+5,"dr. H. ABDUL HAKIM, Sp KK",N,Laki-Laki,KOTA BALIKPAPAN,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Male
+6,Ir. REFRIMEN,N,Laki-Laki,KOTA SAMARINDA,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Male
+7,"ENY LISTYAWATI, S.I.P",N,Perempuan,KOTA BALIKPAPAN,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Female
+8,"H. MUHAMMAD SAID, SE",N,Laki-Laki,KOTA BALIKPAPAN,Partai Keadilan Sejahtera,PKS,Kalimantan Timur,Kalimantan Timur,Male
+1,"DWI TRIJONO, SH",N,Laki-Laki,KOTA MALANG,Partai Keadilan Sejahtera,PKS,Sulawesi Utara,Sulawesi Utara,Male
+2,Drs. H. JASMIN DAMOPOLII,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Sulawesi Utara,Sulawesi Utara,Male
+3,MAIMUNAH MOKO,N,Perempuan,KOTA MANADO,Partai Keadilan Sejahtera,PKS,Sulawesi Utara,Sulawesi Utara,Female
+1,"HJ. SAKINAH ALJUFRI, S.Ag",N,Perempuan,KOTA PALU,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Female
+2,"H. AKBAR ZULFAKAR, ST",N,Laki-Laki,KOTA BANDUNG,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Male
+3,"H. MUHAJIR, SH,MM",N,Laki-Laki,KOTA PALU,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Male
+4,"MASRUDIN M, PALAMPANGA",N,Laki-Laki,TOJO UNA-UNA,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Male
+5,"UFIEL DHAMAYANTI, S.Pd.I",N,Perempuan,SIGI,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Female
+6,"EUNIKE WAHYUNINGSIH, S.Pd",N,Perempuan,KOTA PALU,Partai Keadilan Sejahtera,PKS,Sulawesi Tengah,Sulawesi Tengah,Female
+1,"H. ARIADY ARSAL, SP, M. Si",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,"DRS. H. A. MUSTAMAN, MM",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,"HJ. HASNAH CUPPA, SE, MM",N,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Female
+4,"DR. IR. MUHAMMAD ISRADI ZAINAL, M.T., M.H., M.M., CAAE.",N,Laki-Laki,KOTA BALIKPAPAN,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,"Dra. SITTI ARIFAH, M.Si.",N,Perempuan,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Female
+6,SARWANDI EKA SARBINI,N,Laki-Laki,JENEPONTO,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Male
+7,"ANDI RUCHYANI MAPPANYOMPA, S.T.",N,Perempuan,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan I,Sulawesi Selatan,Female
+1,"DR. H. ANDI AKMAL PASLUDDIN, S.P, M.M",Y,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,"H. ABDUL AZIS, S.Ag, M.M.",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,SRI SULASTRI,N,Perempuan,BULUKUMBA,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,"MUH HUSNI HASAN, S.Pd",N,Laki-Laki,MAROS,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,Ir. YULIA AMRIANI DZUHRAH,N,Perempuan,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Female
+6,"RUSTANG UKKAS, SP",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+7,"JAMRA, S. Pd",N,Perempuan,BULUKUMBA,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Female
+8,"MUHAMMAD YAHYA RASYID, SH, MH.",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+9,"ASRIADY SAMAD, A.Md",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,"ZULCHAIDIR, S.Si",N,Laki-Laki,BEKASI,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,"ARIEFYANTO ARSJAD, SE",N,Laki-Laki,KOTA MAKASSAR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,"PRIMA EYZA PURNAMA, A.Md",N,Perempuan,LUWU TIMUR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Female
+4,"BRIGJEN TNI (PURN) MUSLIMIN AKIB, S.E, M.M",N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,"YUNI FITRIYANI NATSIR, ST",N,Perempuan,LUWU TIMUR,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Female
+6,SINAR AHMAD,N,Perempuan,LUWU,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,"ACHMAD, Amd",N,Laki-Laki,LUWU UTARA,Partai Keadilan Sejahtera,PKS,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,LAODE MUHAMMAD RAHMAT ZAADI,N,Laki-Laki,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,"H. LA PILI, S.Pd",N,Laki-Laki,KOTA KENDARI,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,HJ. SYAMSURIATI,N,Perempuan,KOTA KENDARI,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,"YAUDU SALAM AJO, S. Pi.",N,Laki-Laki,KOTA KENDARI,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Male
+5,"HJ. NESTY ZUNIARTI, S.I.K",N,Perempuan,KOTA KENDARI,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Female
+6,"ADI SETIAWAN, SH.,M.EC.DEV",N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,HERMAN D. ISHAK,N,Laki-Laki,GORONTALO,Partai Keadilan Sejahtera,PKS,Gorontalo,Gorontalo,Male
+2,"HJ. SRI ENDANG YAMIN, S.Pd",N,Perempuan,KOTA GORONTALO,Partai Keadilan Sejahtera,PKS,Gorontalo,Gorontalo,Female
+3,"AFIF PRATAMA PUTRA, S.IP",N,Laki-Laki,BONE BOLANGO,Partai Keadilan Sejahtera,PKS,Gorontalo,Gorontalo,Male
+1,H.SYAFARUDDIN,N,Laki-Laki,JAKARTA SELATAN,Partai Keadilan Sejahtera,PKS,Sulawesi Barat,Sulawesi Barat,Male
+2,Dra. ROSDIANI RACHIM,N,Perempuan,MALUKU TENGAH,Partai Keadilan Sejahtera,PKS,Sulawesi Barat,Sulawesi Barat,Female
+3,H. MUHAMMAD ARFIAN,N,Laki-Laki,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Sulawesi Barat,Sulawesi Barat,Male
+1,"SUDARMO, SP. M.Si",N,Laki-Laki,KOTA AMBON,Partai Keadilan Sejahtera,PKS,Maluku,Maluku,Male
+2,"SAADIAH ULUPUTTY, ST",N,Perempuan,MALUKU TENGAH,Partai Keadilan Sejahtera,PKS,Maluku,Maluku,Female
+3,"SAID FAISAL ASSAGAFF, S.Sos",N,Laki-Laki,KOTA AMBON,Partai Keadilan Sejahtera,PKS,Maluku,Maluku,Male
+4,YUNI SYAHRA YOLWAN TAMNGE,N,Perempuan,KOTA TUAL,Partai Keadilan Sejahtera,PKS,Maluku,Maluku,Female
+1,"DR. H. MUHAMMAD KASUBA, MA",N,Laki-Laki,HALMAHERA SELATAN,Partai Keadilan Sejahtera,PKS,Maluku Utara,Maluku Utara,Male
+2,HJ. RATNA H. MUSLIM,N,Perempuan,KOTA TERNATE,Partai Keadilan Sejahtera,PKS,Maluku Utara,Maluku Utara,Female
+3,REVLI,N,Laki-Laki,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Maluku Utara,Maluku Utara,Male
+1,MADDU MALLU,N,Laki-Laki,KOTA JAYAPURA,Partai Keadilan Sejahtera,PKS,Papua,Papua,Male
+2,MUHAMMAD YUDI KOTOUKY,Y,Laki-Laki,BOGOR,Partai Keadilan Sejahtera,PKS,Papua,Papua,Male
+3,HERLINA AGUSTINA GEBZE,N,Perempuan,KOTA DEPOK,Partai Keadilan Sejahtera,PKS,Papua,Papua,Female
+4,"Hj. KARTINI AMIR, SH. MH",N,Perempuan,KOTA BEKASI,Partai Keadilan Sejahtera,PKS,Papua,Papua,Female
+1,"ANNA KURNIAWATI, S.IP., MBA",N,Perempuan,JAKARTA TIMUR,Partai Keadilan Sejahtera,PKS,Papua Barat,Papua Barat,Female
+2,HJ. RATIH ARISANTI,N,Perempuan,MANOKWARI,Partai Keadilan Sejahtera,PKS,Papua Barat,Papua Barat,Female
+1,"M. KASMAN KARIM, SE, M. Si",N,Laki-Laki,NUNUKAN,Partai Keadilan Sejahtera,PKS,Kalimantan Utara,Kalimantan Utara,Male
+2,"WIDYA LUDFITAWATI, SP., M. Pd",N,Perempuan,KOTA TARAKAN,Partai Keadilan Sejahtera,PKS,Kalimantan Utara,Kalimantan Utara,Female
+3,"HASSAN ALJUFRIE, SH, MH, MM",N,Laki-Laki,BULUNGAN,Partai Keadilan Sejahtera,PKS,Kalimantan Utara,Kalimantan Utara,Male

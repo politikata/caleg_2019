@@ -1,0 +1,574 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,H. KARIMUN USMAN,N,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Male
+2,RAMOND DONY ADAM,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Male
+3,DWI LUHNUARI JUMWATI,N,Perempuan,KOTA BANDA ACEH,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Female
+4,"MUSLAHUDDIN DAUD, S.Ag",N,Laki-Laki,KOTA BANDA ACEH,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Male
+5,"TITI WIDYAWATI, S.P.",N,Perempuan,KOTA PALANGKARAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Female
+6,NASRAN AB,N,Laki-Laki,ACEH SINGKIL,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Male
+7,LIRA AMALIA,N,Perempuan,KOTA BANDA ACEH,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh I,Aceh,Female
+1,Ir. H. TAGORE ABU BAKAR,Y,Laki-Laki,BENER MERIAH,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Male
+2,"HJ. MARIA KARSIA, S.S.",N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Female
+3,"GUNTARAYADI, S.P.",N,Laki-Laki,BENER MERIAH,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Male
+4,HUSAINI MH,N,Laki-Laki,KOTA LHOKSEUMAWE,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Male
+5,MUHAMMAD SUFI,N,Laki-Laki,KOTA LANGSA,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Male
+6,"LISNAWATI GINTING, S.H., M.H.",N,Perempuan,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Aceh II,Aceh,Female
+1,"YASONNA H. LAOLY, Ph.D",N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+2,Dr. SOFYAN TAN,Y,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+3,"ENDAH SRICAHYANI SUCIPTO, S.Pt., M.Si.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Female
+4,H. IRMADI LUBIS,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+5,"RAHMAT HIDAYAT, S.E.",N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+6,"LIDYA OCTAVIANA SIANIPAR, S.H.",N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Female
+7,Ir. JANVIAR PAULUS SARAGIH,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+8,APRILIA RATNANINGSIH,N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Female
+9,RIO SAHALA SIAGIAN,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+10,"BALTASAR TARIGAN, S.E.",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara I,Sumatera Utara,Male
+1,"TRIMEDYA PANJAITAN, S.H., M.H.",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+2,SIHAR P.H SITORUS,N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+3,HOTMAIDA TAMPUBOLON,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Female
+4,IRJEN POL. (PURN) ALBERTO P. SIMANJUNTAK,N,Laki-Laki,TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+5,"TURUNAN GULO, S.P., M.SP.",N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+6,"WAHYU M.A. SITOMPUL, S.T.",N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Female
+7,"YODBEN SILITONGA, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+8,"MANGONTANG SIMANJUNTAK, S.P.",N,Laki-Laki,KOTA BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+9,"SRI ATI MULYANI, S.E., M.M.",N,Perempuan,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Female
+10,Ir. H. HARRIS SIMBOLON,N,Laki-Laki,PADANG LAWAS,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara II,Sumatera Utara,Male
+1,"Drs. DJAROT SAIFUL HIDAYAT, M.S.",N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+2,"Dr. JUNIMART GIRSANG, S.H, MBA., M.H.",Y,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+3,R MAWARNI PUTRI TAMPUBOLON,N,Perempuan,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Female
+4,"BOB ANDIKA MAMANA SITEPU, S.H.",N,Laki-Laki,KOTA BINJAI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+5,"BRIGJEN TNI (PURN) TARIDA H. SINAMBELA, S.IP",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+6,"HJ. ALIA MAISARAH, S.IP., M.Si.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Female
+7,"WESLY SILALAHI, S.H., M.Kn",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+8,HAJI EDDI RANGKUTI,N,Laki-Laki,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+9,"WIWI YUNIARTI, S.E.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Female
+10,"JENRI SINAGA, S.E, M.M.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Utara III,Sumatera Utara,Male
+1,H. ALEX INDRA LUKMAN,Y,Laki-Laki,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Male
+2,RISMAN SIRANGGI,N,Laki-Laki,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Male
+3,YENI S. TANJUNG,N,Perempuan,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Female
+4,RICKY MAHENDRI,N,Laki-Laki,PESISIR SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Male
+5,Ir. H. RIZALDI ALGAMAR,N,Laki-Laki,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Male
+6,YULI FARIDA SIHOMBING,N,Perempuan,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Female
+7,TUKIMAN,N,Laki-Laki,DHARMASRAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Male
+8,ANISATUL HUSNA,N,Perempuan,PASAMAN BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat I,Sumatera Barat,Female
+1,Ir. H. ZOLA PANDU,N,Laki-Laki,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Male
+2,"SELPI KUSUMA DEWI, A.Md",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Female
+3,"AGUS SUSANTO, S.H., M.H.",Y,Laki-Laki,PASAMAN BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Male
+4,"BRIGJEN TNI (PURN) YUDI SATRIYONO, S.H.",N,Laki-Laki,KOTA CIMAHI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Male
+5,"EVA SALMAH, S.H.",N,Perempuan,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Female
+6,Ir. MAYADI,N,Laki-Laki,PADANG PARIAMAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Barat II,Sumatera Barat,Male
+1,"T. RUSLI AHMAD, S.E.",N,Laki-Laki,KOTA PEKANBARU,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Male
+2,Ir. EFFENDI SIANIPAR,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Male
+3,"HJ. MIMI LUTMILA, S.Si",N,Perempuan,KOTA PEKANBARU,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Female
+4,IAN P. SIAGIAN,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Male
+5,"MUKAROM, S.Sos.I., M.M.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Male
+6,"DEWI JULIANI, S.H.",N,Perempuan,KOTA PEKANBARU,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Female
+7,RITA TRIANA,N,Perempuan,PURBALINGGA,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau I,Riau,Female
+1,"MARSIAMAN SARAGIH, S.H.",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Male
+2,WIDYA FATTAH ALMIS,N,Perempuan,PELALAWAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Female
+3,"SAEFUL BAHRI, S.T.",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Male
+4,"Dr. M. KAPITRA AMPERA, S.H., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Male
+5,"H. SURYADI KHUSAINI, S.Sos., M.M.",N,Laki-Laki,KOTA PEKANBARU,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Male
+6,"YUSTINA DORLAN SIMBOLON, S.H., M.Kn",N,Perempuan,KOTA PEKANBARU,Partai Demokrasi Indonesia Perjuangan,PDIP,Riau II,Riau,Female
+1,M.R. IHSAN YUNUS,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Male
+2,AGUSTIANI TIO FRIDELINA,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Female
+3,"CHUMAIDI ZAIDI, S.E",N,Laki-Laki,KOTA JAMBI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Male
+4,H. TAFYANI KASIM,N,Laki-Laki,KOTA PADANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Male
+5,"HENNI ASTUTI, S.H., M.H.",N,Perempuan,KOTA JAMBI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Female
+6,R.H.M BENNY SUBAGIA,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Male
+7,YOPI MUTHALIB,N,Laki-Laki,KOTA JAMBI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Male
+8,"LILI PIORITA, S.Pd",N,Perempuan,KOTA JAMBI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jambi,Jambi,Female
+1,Ir. H. NAZARUDIN KIEMAS,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Male
+2,"H. DARMADI DJUFRI, S.H., M.H.",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Male
+3,"RIEZKY APRILIA, S.H., M.H.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Female
+4,DIAH OKTA SARI,N,Perempuan,KOTA PALEMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Female
+5,"DODDY JULIANTO SIAHAAN, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Male
+6,"HARUN MASIKU, S.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Male
+7,"Dra. SRI SUHARTI, M.Si",N,Perempuan,KOTA BENGKULU,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Female
+8,"IRWAN TONGARI, S.E.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan I,Sumatera Selatan,Male
+1,"YULIAN GUNHAR, S.H, M.H.",Y,Laki-Laki,KOTA PALEMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+2,"ERWIN MOESLIMIN SINGAJURU, S.H,. M.H.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+3,"HJ. SEPTIATIRIN, S.E., M.M.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Female
+4,"M.A. GANTADA, S.H, M.Hum",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+5,SOFIAN SALEH,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+6,"DEWI YUNIAR, S.H, M.H.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Female
+7,ANGGIAT U SIMATUPANG,N,Laki-Laki,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+8,"Ir. RICKY SITORUS, M.Si",N,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Male
+9,"ANNA SAGITA, S.H, M.Kn.",N,Perempuan,KOTA PALEMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sumatera Selatan II,Sumatera Selatan,Female
+1,"HJ. ELVA HARTATI MURMAN, S.IP, M.M.",Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Bengkulu,Bengkulu,Female
+2,RESTUTY APRILLIA,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Bengkulu,Bengkulu,Female
+3,"MUSPANI, S.H.",N,Laki-Laki,KOTA BENGKULU,Partai Demokrasi Indonesia Perjuangan,PDIP,Bengkulu,Bengkulu,Male
+4,TRIO ARSEFTO SAKUT,N,Laki-Laki,KOTA CIMAHI,Partai Demokrasi Indonesia Perjuangan,PDIP,Bengkulu,Bengkulu,Male
+1,SUDIN,Y,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+2,"Ir. H. ENDRO S. YAHMAN, M.Sc",Y,Laki-Laki,KOTA TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+3,"SITI NOOR LAILA, S.H.",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Female
+4,Drs. Hi. MUKHLIS BASRI,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+5,BRIGITA MANOHARA,N,Perempuan,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Female
+6,"Hi. HANDITYA NARAPATI SZP, S.H.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+7,"KOL. INF. (PURN). S. MARZUKI, S.Sos., M.Si",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+8,"JUNAIDI SYAMSURI, S.Sos",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+9,PRIMARI PUTERI WIDANTI,N,Perempuan,KOTA SURAKARTA,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Female
+10,"Drs. Hi. ZAINAL ABIDIN, M.M.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung I,Lampung,Male
+1,"BAMBANG SURYADI, S.H., M.H.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+2,"ITET TRIDJAJATI SUMARIJANTO, MBA",Y,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Female
+3,"ASRORU MAULA, S.Ag",N,Laki-Laki,BANYUMAS,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+4,"IRJEN POL (PURN) Dr. Drs. H. M. RASYID RIDHO, S.H.,M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+5,"Hi. DEDI AFRIZAL, S.Kep.NS., M.H.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+6,"EMI SULYUWATI, S.E.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Female
+7,"H. KRH. HENRY YOSODININGRAT, S.H., M.H.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+8,GARDA MAHARSI,N,Laki-Laki,SLEMAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+9,LUKITA SARI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Female
+10,"I KOMANG KOHERI, S.E.",N,Laki-Laki,LAMPUNG TENGAH,Partai Demokrasi Indonesia Perjuangan,PDIP,Lampung II,Lampung,Male
+1,"HJ. DWI RIA LATIFA, S.H., M.Sc",Y,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kepulauan Riau,Kepulauan Riau,Female
+2,"MAYJEN TNI MAR. (PURN) STURMAN PANJAITAN, S.H.",N,Laki-Laki,SIDOARJO,Partai Demokrasi Indonesia Perjuangan,PDIP,Kepulauan Riau,Kepulauan Riau,Male
+3,INDRIYATI,N,Perempuan,KOTA BATAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Kepulauan Riau,Kepulauan Riau,Female
+4,"IRWANSYAH SALEH KUSUMA, S.E.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Kepulauan Riau,Kepulauan Riau,Male
+1,Ir. RUDIANTO TJEN,Y,Laki-Laki,BANGKA,Partai Demokrasi Indonesia Perjuangan,PDIP,Bangka Belitung,Bangka Belitung,Male
+2,"H. RUSTAM EFFENDI, S.E.",N,Laki-Laki,BELITUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Bangka Belitung,Bangka Belitung,Male
+3,"IRMA FIKA ADITA, S.Kom",N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Bangka Belitung,Bangka Belitung,Female
+1,"H. AANG HAMID SUGANDA, S.Sos",N,Laki-Laki,KUNINGAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Male
+2,JUNICO BP SIAHAAN,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Male
+3,KIRANA LARASATI HANAFIAH,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Female
+4,Ir. KETUT SUSTIAWAN,Y,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Male
+5,DJENDRI DJUSMAN,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Male
+6,LENNY MARLIANI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Female
+7,RETNO AYU SETIOWATI,N,Perempuan,KOTA CIMAHI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat I,Jawa Barat,Female
+1,H. YADI SRIMULYADI,Y,Laki-Laki,BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+2,"Dr. KH. JALALUDDIN RAKHMAT, M.Sc",Y,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+3,"Dr. R. ADJENG RATNA SUMINAR, S.H., M.M.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Female
+4,H. YAYAT T. SOEMITRA,N,Laki-Laki,BANDUNG BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+5,YOHANES VIANEY FEOH,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+6,"Ir. NOVIATI, MURP",N,Perempuan,KOTA MANADO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Female
+7,"ADITYA INDRADJAJA, Dipl. Ing",N,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+8,DEDY RACHMADI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+9,LITA ZEN,N,Perempuan,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Female
+10,"Dr. H. AGUNG SURYA TRIYANA, M.Pd",N,Laki-Laki,BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat II,Jawa Barat,Male
+1,"DIAH PITALOKA, S.Sos., M.Si",Y,Perempuan,KOTA BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Female
+2,"H. ANTONI WIJAYA, S.H.",N,Laki-Laki,KOTA SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+3,Drs. BUDIYONO,N,Laki-Laki,CIANJUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+4,Ir. YULISTIAN IMAM TARYUDI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+5,SANIUS ABASTARI,N,Laki-Laki,KARAWANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+6,"SURYANTI, S.Psi",N,Perempuan,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Female
+7,H. ACHMAD TEDDY RISANDI,N,Laki-Laki,KOTA BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+8,SOFIA YULINAR,N,Perempuan,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Female
+9,MARUARAR SIRAIT,Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat III,Jawa Barat,Male
+1,"dr. RIBKA TJIPTANING PROLETARIYATI, A.AK",Y,Perempuan,KOTA TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Female
+2,"KH. M NOVA ANDIKA, S.E., M.E.",N,Laki-Laki,KOTA SUKABUMI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Male
+3,KIKI TAHER,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Male
+4,"Dr. Iur. LIONA NANANG SUPRIATNA, S.H., M.Hum",N,Laki-Laki,KOTA CIMAHI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Male
+5,Ir. A. BAGUS PEKIK. H,N,Laki-Laki,KOTA SUKABUMI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Male
+6,MARSILIA ST KRENATA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IV,Jawa Barat,Female
+1,ADIAN YUNUS YUSAK NAPITUPULU,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Male
+2,AZMAH SHOOBIROH,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Female
+3,INDAH PERTIWI NATAPRAWIRA,N,Perempuan,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Female
+4,"NURMANSAH E. TANJUNG, S.E., M.Si",Y,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Male
+5,H. BAMBANG GUNAWAN,N,Laki-Laki,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Male
+6,HJ. S. DEWI AMBARWATI,N,Perempuan,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Female
+7,EGI GUNADHI WIBHAWA,N,Laki-Laki,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Male
+8,"NANI KUSUMAWARDANI, S.Pd",N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Female
+9,H. ADEK ERFIL MANURUNG,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat V,Jawa Barat,Male
+1,"SUKUR H. NABABAN, ST",Y,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Male
+2,"RISA MARISKA, SH",Y,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Female
+3,"H. IRVANSYAH, S.IP, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Male
+4,ANGEL KARAMOY,N,Perempuan,KOTA TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Female
+5,"Prof., dr. HASBULLAH THABRANY, MPH., DrPH.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Male
+6,NURYAMAN HARIYANTO,N,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VI,Jawa Barat,Male
+1,RIEKE DIAH PITALOKA,Y,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Female
+2,DANIEL LUMBAN TOBING,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+3,DEDEN DARMANSAH,N,Laki-Laki,KARAWANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+4,ADITYAWARMAN GINTING,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+5,"HARGO YUWONO, S.Sos., M.Si",N,Laki-Laki,PURWAKARTA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+6,"INDAH WITMIATI, S.H., M.Kn",N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Female
+7,KARNA WIJAYA,N,Laki-Laki,CIREBON,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+8,Ir. ALEXANDER DOLOKASRIBU,N,Laki-Laki,BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+9,NINDY ELLESSE,N,Perempuan,BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Female
+10,ANDREAU MISANTA PRIBADI,N,Laki-Laki,BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VII,Jawa Barat,Male
+1,"ONO SURONO, S.T.",Y,Laki-Laki,INDRAMAYU,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+2,DWISUNU HANUNG NUGRAHANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+3,"SELLY ANDRIANY GANTINA, A.Md",N,Perempuan,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Female
+4,H. ISKANDAR ZULKARNAIN T.,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+5,"Drs. YOSEPH UMARHADI, M.Si., M.A.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+6,"HJ. SITI MARIANI, S.Sos., M.M.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Female
+7,"KOL. CPM (P). AGUS ZULKARNAIN, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+8,Ir. KIAGUS ABDUL AZIZ MUSLIM,N,Laki-Laki,CIREBON,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Male
+9,"VINDY FARADILAH, S.E.",N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat VIII,Jawa Barat,Female
+1,"Dr. H. HASANUDDIN, S.E., M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Male
+2,Drs. H. BAMBANG SURYADI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Male
+3,"HJ. DENNY JAYA ABRI YANI, SE., MBA",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Female
+4,"Dr. H. SUTRISNO, SE., M.Si",N,Laki-Laki,MAJALENGKA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Male
+5,"AFIFAH ALIA, S.T.",N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Female
+6,HUMBUL KRISTIAWAN,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Male
+7,INDAH KURNIAWATI,Y,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat IX,Jawa Barat,Female
+1,"Drs. MUHAMAD NURDIN, M.M.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Male
+2,"Ir. H. GATOT TJAHYONO, M.M.",N,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Male
+3,AUGUSTINA CONNIE,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Female
+4,YAYAN SOPYANI,N,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Male
+5,"LUTHFI FAUZI, S.HI., M.M.",N,Laki-Laki,PANGANDARAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Male
+6,"Dr. ETIN NURHAETIN NINGRUM, S.Ag., M.M., M.Si",N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Female
+7,"YESSY DIYANTARI, S.TP., M.M.",N,Perempuan,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat X,Jawa Barat,Female
+1,"Irjen. Pol (Purn). Dr. Drs. H. ANTON CHARLIYAN, M.P.K.N",N,Laki-Laki,KOTA TASIKMALAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+2,DONY MARYADI OEKON,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+3,"HJ.VIVI ROVIANA, S.I.Kom",N,Perempuan,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Female
+4,"DEDI HASAN, S.E.",N,Laki-Laki,GARUT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+5,"H. EDY KUSCAHYANTO, S.Si",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+6,"ELLSYE LYDIA, S.H.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Female
+7,IWA GUNAWAN,N,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+8,"YUDI KURNIA, S.H., M.H.",N,Laki-Laki,GARUT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+9,"R. HJ. LINA HERLIANA, S.IP., M.Si",N,Perempuan,KOTA TASIKMALAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Female
+10,"AGUS WELIANTO SANTOSO, S.H.",N,Laki-Laki,SUMEDANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Barat XI,Jawa Barat,Male
+1,Dra. HJ. SB. WIRYANTI SUKAMDANI,Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Female
+2,PUTRA NABABAN,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Male
+3,"WILLIAM YANI, S.H. CLA",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Male
+4,CHICHA KOESWOYO,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Female
+5,MAYJEN TNI (PURN) ANDRIE TARDIWAN UTAMA,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Male
+6,SONDANG TIAR DEBORA TAMPUBOLON,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta I,DKI Jakarta,Female
+1,Ir. ERIKO SOTARDUGA B.P.S.,Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Male
+2,ZUHAIRI B. MISRAWI,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Male
+3,dr. Hj. AMENDI NASUTION,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Female
+4,"MASINTON PASARIBU, S.H.",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Male
+5,HERMAN TJI'DIN,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Male
+6,"NURAINI, M.Si",N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Female
+7,SETIANA WIDJAJA,N,Perempuan,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta II,DKI Jakarta,Female
+1,DARMADI DURIANTO,Y,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Male
+2,CHARLES HONORIS,Y,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Male
+3,M.M. RESTU HAPSARI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Female
+4,PULUNG AGUSTANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Male
+5,Dr. EFFENDI MS SIMBOLON,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Male
+6,IIS SUGIANTO,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Female
+7,SONY KUSUMO,N,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Male
+8,"ARNITA, S.H.,M.H.",N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,DKI Jakarta III,DKI Jakarta,Female
+1,JULIARI P. BATUBARA,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Male
+2,TUTI N. ROOSDIONO,Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Female
+3,MOCHAMAD HERVIANO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Male
+4,HANJAYA SETIAWAN,N,Laki-Laki,TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Male
+5,BANTENG PRINGGODANI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Male
+6,Dr. MARGARETA MARIA SINTORINI,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Female
+7,WIDIA NINGSIH,N,Perempuan,PEMALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Female
+8,YULIUS SETIARTO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah I,Jawa Tengah,Male
+1,DARYATMO MARDIYANTO,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Male
+2,"GILANG DHIELAFARAREZ, S.H., LL.M.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Male
+3,Ir. HERU MULYATI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Female
+4,H. MUSTHOFA,N,Laki-Laki,KUDUS,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Male
+5,TAMARA GERALDINE,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Female
+6,R. YANNE YOLANDARI ACHMAD,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Female
+7,INDRA AULIA NUGRAHA,N,Perempuan,WONOGIRI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah II,Jawa Tengah,Female
+1,"Dr. EVITA NURSANTY, M.Sc",Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Female
+2,"Dr. Drs. HR. PERMADI MULAJAYA, M.Si., M.Pd",N,Laki-Laki,KOTA SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+3,"Dr. H. EDY WURYANTO, S.KP., M.Kep",N,Laki-Laki,GROBOGAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+4,"RIYANTA, S.H.",N,Laki-Laki,JEPARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+5,MAYJEN TNI (PURN) BAMBANG HARYANTO,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+6,ASRIZIA SHAVILLA,N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Female
+7,"H. IMAM SUROSO, S.H. S.Sos. M.M.",Y,Laki-Laki,PATI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+8,RIYANTO WUJARSO,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Male
+9,"EMA PRATNYA PARAMITA, S.T.",N,Perempuan,JOMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah III,Jawa Tengah,Female
+1,"Ir. BAMBANG WURYANTO, MBA",Y,Laki-Laki,BANTUL,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Male
+2,AGUSTINA WILUJENG PRAMESTUTI,Y,Perempuan,KOTA SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Female
+3,DOLFIE O.F.P.,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Male
+4,KATARINA IDA ROKHAYATI,N,Perempuan,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Female
+5,"PARYONO, S.H., M.H.",N,Laki-Laki,KARANGANYAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Male
+6,ZAHRA NASIHAH FATIN PUTRI NINDI,N,Perempuan,SRAGEN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Female
+7,DANAR RAHMANTO,N,Laki-Laki,WONOGIRI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IV,Jawa Tengah,Male
+1,PUAN MAHARANI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Female
+2,ARIA BIMA,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Male
+3,ALFIA REZIANI,Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Female
+4,"FAOZAN AMAR, S.Ag, M.M.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Male
+5,"RAHMAD HANDOYO, S.Pi., M.M.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Male
+6,WINIE AYU LESTARI,N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Female
+7,"MUCHAMAD NABIL HAROEN, S.Pd., M.Hum",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Male
+8,LATANZA SHIMA DAYYANA,N,Perempuan,INDRAMAYU,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah V,Jawa Tengah,Female
+1,"NUSYIRWAN SOEJONO, S.T.",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Male
+2,Ir. SUDJADI,Y,Laki-Laki,SUKOHARJO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Male
+3,"VITA ERVINA, S.E.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Female
+4,"Drs. RUKMA SETYABUDI, M.M.",N,Laki-Laki,KOTA SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Male
+5,ANDIN BAHTIAR,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Male
+6,YENI PUJI KRISTIYANIE,N,Perempuan,WONOGIRI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Female
+7,BAMBANG BARATA AJI,N,Laki-Laki,BANYUMAS,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Male
+8,EVY ROSRIANI,N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VI,Jawa Tengah,Female
+1,Drs. UTUT ADIANTO,Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Male
+2,"Drs. H. HERU SUDJATMOKO, M.Si",N,Laki-Laki,PURBALINGGA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Male
+3,dr. DIAH DEFAWATI ANDE,N,Perempuan,KOTA BATAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Female
+4,RAHMAT SAHID,N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Male
+5,"H. KEN RAGIL TURYONO, S.H.",N,Laki-Laki,PURBALINGGA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Male
+6,"DYAH ARUM SAYEKTI, S.Sos",N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Female
+7,DIAH WULANSARI,N,Perempuan,MAGELANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VII,Jawa Tengah,Female
+1,ADISATRYA SURYO SULISTO,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Male
+2,"H. SUNARNA, S.E., M.HUM",N,Laki-Laki,KLATEN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Male
+3,"NADRAH IZAHARI, S.H., M.Kn",N,Perempuan,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Female
+4,TASWAN,N,Laki-Laki,CILACAP,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Male
+5,"Drs. H. TRIYONO BUDI SASONGKO, S.H., M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Male
+6,"Dr. DIAH ARIMBI, S.ST., M.H.",N,Perempuan,SLEMAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Female
+7,IDA RESMI NURANI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Female
+8,"DENNY DARJAMAN, S.E.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah VIII,Jawa Tengah,Male
+1,Ir. MUHAMMAD PRAKOSA,Y,Laki-Laki,KOTA BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Male
+2,"Dr. Ir. HARRIS TURINO, M.Si., M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Male
+3,"PARAMITHA WIDYA KUSUMA, S.E.",N,Perempuan,BREBES,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Female
+4,"Dr. DEWI ARYANI, M.Si",Y,Perempuan,TEGAL,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Female
+5,NOK FARKHATUN,N,Perempuan,TEGAL,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Female
+6,HARI APRIATNO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Male
+7,"H. ABDUL NASIR, S.Ag.",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Male
+8,ARITYA PRAPDANINGRUM,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah IX,Jawa Tengah,Female
+1,Prof. Dr. HENDRAWAN SUPRATIKNO,Y,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Male
+2,"DEDE INDRA PERMANA, S.H.",N,Laki-Laki,KOTA SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Male
+3,"SITI FIKRIYAH KHURIYATI, S.H., M.Si",N,Perempuan,TEMANGGUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Female
+4,SIKMA REJIK MARTINO,N,Laki-Laki,PEMALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Male
+5,dr. PRIH BUDI ARYATMOKO,N,Laki-Laki,BANTUL,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Male
+6,PUJI SRI HASTUTI,N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Female
+7,ELLEN TAROREH,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Tengah X,Jawa Tengah,Female
+1,Drs. H. MOHAMMAD IDHAM SAMAWI,Y,Laki-Laki,KOTA YOGYAKARTA,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Male
+2,"Drs. BAMBANG PRASWANTO, M.Sc",N,Laki-Laki,SLEMAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Male
+3,MY ESTI WIJAYATI,Y,Perempuan,SLEMAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Female
+4,KATON BAGASKARA,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Male
+5,"MARSDA TNI (PURN) Dr. BENEDICTUS WIDJANARKO, M.Si (Han)",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Male
+6,"SARASJATIE ANINGKUSUMA PARMONO, S.H.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Female
+7,DEWI ARUM NAWANG WUNGU,N,Perempuan,BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Female
+8,"YOHANNIS HADIYANTO RIWU KAHO, S.H., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,DI Yogyakarta,DI Yogyakarta,Male
+1,BAMBANG DH,N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Male
+2,"PUTI GUNTUR SOEKARNO, S.IP",Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Female
+3,"LAKSDA TNI (Purn) Ir. YUHASTIHAR, M.M.",N,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Male
+4,INDAH KURNIAWATI,N,Perempuan,SIDOARJO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Female
+5,ANDRE HEHANUSSA,N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Male
+6,"SRI WURYANI, S.IP",N,Perempuan,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Female
+7,"Drs. J.B. AMIRANTO, M.Si., Ak., C.A",N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Male
+8,"CITRA OKTAVIA MOCHTAR, S.E.",N,Perempuan,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Female
+9,FIRMAN JAYA DAELY,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Male
+10,PARAMITA WIRA RIA NUGRAHANI,N,Perempuan,WONOGIRI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur I,Jawa Timur,Female
+1,"Prof. Dr. H. HAMKA HAQ, M.A.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Male
+2,"RINA YUNARTI, S.H., M.Kn.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Female
+3,dr. H. MUFTI A.N. ANAM,N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Male
+4,Ir. FEBRI WIBAWA PARSA SIHOMBING,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Male
+5,"Ir. ACHMAD DJUNAIDI PURNAMA JAYA, S.H.",N,Laki-Laki,SIDOARJO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Male
+6,ISNUANSA MAHARANI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Female
+7,"Dr. SRI IMAWATI, S.Pd, M.Pd",N,Perempuan,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur II,Jawa Timur,Female
+1,SONNY T. DANAPARAMITA,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Male
+2,GANISA PRATIWI RUMPOKO,N,Perempuan,KOTA BATU,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Female
+3,BANYU BIRU DJAROT,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Male
+4,"K.H. M. MUHARROM MUSA., Lc.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Male
+5,BRIGJEN TNI (PURN) SYUKRAN HAMBALI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Male
+6,DESAK K. KUTHA AGUSTINI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Female
+7,WIWIK PUJIYATI,N,Perempuan,BANYUWANGI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur III,Jawa Timur,Female
+1,ARIF WIBOWO,Y,Laki-Laki,KOTA MADIUN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Male
+2,"DONNY TRI ISTIQOMAH, S.H., M.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Male
+3,SINTA JULIANI,N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Female
+4,UMAR BASHOR,N,Laki-Laki,LUMAJANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Male
+5,SETIO UTOMO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Male
+6,ANAK AGUNG AYU ARI WIDHYASARI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Female
+7,MARTINE DIAN LISAWATI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Female
+8,DADOES SOEMARWANTO,N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IV,Jawa Timur,Male
+1,Dr. AHMAD BASARAH,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Male
+2,KRISDAYANTI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Female
+3,MAYJEN TNI (PURN) SAKKAN TAMPUBOLON,N,Laki-Laki,BANDUNG BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Male
+4,"Ir. ANDREAS EDDY SUSETYO, M.M",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Male
+5,MARKUWAT,N,Laki-Laki,GARUT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Male
+6,SASE DYAH SRI ANDAYANI,N,Perempuan,KOTA MALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Female
+7,"Ir. H. MUCHAMMAD NU'MAN, MBA",N,Laki-Laki,KOTA MALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Male
+8,NIKEN LESTARI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur V,Jawa Timur,Female
+1,Dra. SRI RAHAYU,N,Perempuan,KOTA MALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Female
+2,"GURUH SUKARNO PUTRA, S.AP.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+3,"H. ARTERIA DAHLAN, S.T., S.H., M.H.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+4,"BAKTINENDRA PRAWIRO, M.Sc., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+5,EVA KUSUMA SUNDARI,Y,Perempuan,NGANJUK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Female
+6,RONNIE SIANTURI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+7,PURWENDAH SEKAR HAPSARI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Female
+8,MARJOKO,N,Laki-Laki,KOTA KEDIRI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+9,"Ir. BUDI YUWONO, Dipl. SE",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VI,Jawa Timur,Male
+1,JOHAN BUDI SAPTO PRIBOWO,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Male
+2,INA AMMANIA,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Female
+3,"BUDIMAN SUDJATMIKO, M.Sc, M.Phil",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Male
+4,MUHAMAD CHOIRUL AMRI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Male
+5,"SAYED MUHAMMAD MULIADY, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Male
+6,ERNA SUGIARTI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Female
+7,NURSUHUD,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Male
+8,DEWI SUSANTI,N,Perempuan,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VII,Jawa Timur,Female
+1,Ir. MINDO SIANIPAR,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+2,"MARSDA TNI (PURN) WARSONO, S.Sos",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+3,"HJ. SADARESTUWATI, S.P., M.MA",Y,Perempuan,JOMBANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Female
+4,SALEH ISMAIL MUKADAR,N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+5,"Drs. HENKY KURNIADI, S.H., M.H.",Y,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+6,FITRI ROCHAYATI,N,Perempuan,SUKOHARJO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Female
+7,"ARIO INDRASWORO CAHYONO AJI, S.E., M.E.",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+8,LENI RODIAH,N,Perempuan,JEMBER,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Female
+9,"SONNY SEWANTON SARAGIH, S.IP",N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+10,"Dr. SYAFIIN, S.H., M.M., M.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur VIII,Jawa Timur,Male
+1,"H. ABIDIN FIKRI, S.H., M.H.",Y,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Male
+2,SETYO HARTONO,N,Laki-Laki,BOJONEGORO,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Male
+3,SARI KOESWOYO,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Female
+4,MARSMA TNI (PURN) JOHANES URIP UTOMO,N,Laki-Laki,KOTA YOGYAKARTA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Male
+5,MUDIANI,N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Female
+6,SUHARI,N,Laki-Laki,KOTA SURABAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur IX,Jawa Timur,Male
+1,"H. NASYIRUL FALAH AMRU, S.E.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Male
+2,"Prof. dr. PURNAWAN JUNADI, MPH., Ph.D",N,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Male
+3,"ESTINING GUNITARUKMI, S.I.P., M.I.P",N,Perempuan,MALANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Female
+4,SUBANGKIT,N,Laki-Laki,PASURUAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Male
+5,SYAHDATUL KAHFI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Male
+6,LIDIA SISKARINI,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur X,Jawa Timur,Female
+1,MH SAID ABDULLAH,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Male
+2,MOH. MONIB,N,Laki-Laki,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Male
+3,"DIAH ASTUTY, M.Pd",N,Perempuan,GRESIK,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Female
+4,"TRI WAHYUDIONO, S.T.",N,Laki-Laki,BANYUWANGI,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Male
+5,HARYANTO WALUYO,N,Laki-Laki,PAMEKASAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Male
+6,"MURNI KAMARIYAH, S.H.",N,Perempuan,TUBAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Female
+7,"H. ACHMAD KHADAFI MUNIR, S.H., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Male
+8,WIWIN KARIMAH,N,Perempuan,PEKALONGAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Jawa Timur XI,Jawa Timur,Female
+1,"MOCHAMAD HASBI ASYIDIKI JAYABAYA, S.H.",Y,Laki-Laki,LEBAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Male
+2,"TIA RAHMANIA, M.Psi Psikolog",N,Perempuan,KOTA SERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Female
+3,R. ARIYADI PADMANEGARA,N,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Male
+4,MUHADI TUKIJO,N,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Male
+5,"YUYI ROHMATUNISA, S.Pd",N,Perempuan,KOTA SERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Female
+6,"SANDY CHUSAN JACINTA MANUHUTU, M.P.",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten I,Banten,Female
+1,ICHSAN SOELISTIO,Y,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Male
+2,H. NANA SUMARNA,N,Laki-Laki,KOTA CILEGON,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Male
+3,"DEWI WAHYUNI, S.H.",N,Perempuan,KOTA SERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Female
+4,REZA NURUDDIN A BARMAWI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Male
+5,"RONNY BERTY TALAPESSY, S.H.,M.H.",N,Laki-Laki,KOTA TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Male
+6,MELFA ROSDIANA ULI MANULLANG,N,Perempuan,KOTA SERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten II,Banten,Female
+1,"RANO KARNO, S.IP",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+2,"ST. ANANTA WAHANA, S.H.",N,Laki-Laki,TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+3,"EMMY LUMBAN RAJA, S.E.,M.Si",N,Perempuan,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Female
+4,"MARINUS GEA, S.E.,M.AK",Y,Laki-Laki,KOTA TANGERANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+5,"WANTO SUGITO, S.Sos",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+6,"Dra. MEIDYA AMORA. I, S.IP.,M.Si",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Female
+7,"Drs. H. EDDY KUSUMA WIJAYA, S.H., M.H., M.M.",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+8,dr. LINA SULISTIAWATI,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Female
+9,"Drs. H. ARSID, M.Si",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+10,SANTO WIDJAJA,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Banten III,Banten,Male
+1,"Drs. I MADE URIP, M.Si",Y,Laki-Laki,TABANAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+2,"I G. N. KESUMA KELAKAN, S.T,. M.Si",N,Laki-Laki,KOTA DENPASAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+3,"Dra. I G. AGUNG PUTRI ASTRID K., M.A.",Y,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Female
+4,"I GUSTI AGUNG RAI WIRAJAYA, S.E., M.M.",Y,Laki-Laki,KOTA DENPASAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+5,"I KETUT KARIYASA ADNYANA, S.P.",N,Laki-Laki,BULELENG,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+6,KOMANG DIAH KARTIKASARI,N,Perempuan,KOTA DENPASAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Female
+7,"I NYOMAN PARTA, S.H.",N,Laki-Laki,GIANYAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+8,"LUH PUTU SUWANDEWI AESCHLIMANN, S.Sos,. M.M.",N,Perempuan,KOTA DENPASAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Female
+9,"I WAYAN SUDIRTA, S.H.",N,Laki-Laki,KARANGASEM,Partai Demokrasi Indonesia Perjuangan,PDIP,Bali,Bali,Male
+1,"Dra. HJ. E. ENDANG YULIATY, M.Si",N,Perempuan,LOMBOK BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+2,"H. SUPARDI, S.H., M.Si",N,Laki-Laki,KOTA MATARAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,"DHARMASENA WIJANEGARA, S.E., M.M.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+1,"H. RACHMAT HIDAYAT, S.H.",Y,Laki-Laki,KOTA MATARAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+2,EDY SUKSMONO,N,Laki-Laki,KOTA MATARAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,"Dr. E.Y. WENNY ASTUTI ACHWAN, M.Kes",N,Perempuan,KOTA MATARAM,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+4,"HAKAM ALI NIAZI, S.E.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+5,ROSPITA DENING AYU,N,Perempuan,LOMBOK UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+6,SUPARDI RAMLI,N,Laki-Laki,LOMBOK TENGAH,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+7,"SUJI HARDIANI, S.Pd",N,Perempuan,LOMBOK TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+8,"KAMARWAN HADI, A.Md",N,Laki-Laki,LOMBOK BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+1,Dr. ANDREAS HUGO PAREIRA,Y,Laki-Laki,KOTA BANDUNG,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,"VALENS DAKI-SOO, S.H.",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,"M. JASHINTA E. HAMBOER., S.Ikom., M.Ikom",N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,Drs. FRANS LEBU RAYA,N,Laki-Laki,KOTA KUPANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,"ANNA MARLINDA M.B., S.Sos",N,Perempuan,NAGEKEO,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+6,"MAKARIUS PASKALIS BAUT, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+1,HERMAN HERRY,Y,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,"YOHANIS FRANSISKUS LEMA, S.IP., M.SI",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,AMELIA MELIANA MUSKANAN,N,Perempuan,KOTA KUPANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+4,RAYENDIE ROHY PONO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+5,Drs. UMBU SAPPI PATEDUK,N,Laki-Laki,SUMBA TENGAH,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+6,"AGUSTINA WADU, S.E., MM",N,Perempuan,KUPANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+7,NINA YERMINA YULIANA HERE BALOE,N,Perempuan,KUPANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+1,"Drs. CORNELIS, M.H.",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Male
+2,"Ir. G. MICHAEL JENO, M.M.",Y,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Male
+3,"MARIA LESTARI, S.Pd",N,Perempuan,LANDAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Female
+4,"M. JIMI, S.H.",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Male
+5,IRJEN POL (PURN) Drs. ERWIN TPL TOBING,Y,Laki-Laki,KOTA DEPOK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Male
+6,SITI JUBAIDAH,N,Perempuan,LANDAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Female
+7,"Dr. ALEXIUS AKIM, M.M.",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Male
+8,WIDYA NINGSIH,N,Perempuan,LANDAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat I,Kalimantan Barat,Female
+1,"LASARUS, S.Sos, M.Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat II,Kalimantan Barat,Male
+2,"KRISANTUS KURNIAWAN, S.IP, M.Si",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat II,Kalimantan Barat,Male
+3,"YULISTIA HARTY, S.H, M.H.",N,Perempuan,MELAWI,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat II,Kalimantan Barat,Female
+4,MUJIWATI,N,Perempuan,SINTANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Barat II,Kalimantan Barat,Female
+1,"Dr. Ir. WILLY MIDEL YOSEPH, M.M.",N,Laki-Laki,KOTA PALANGKARAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Male
+2,"RINAWATI LIMONU, S.HUT",N,Perempuan,KOTA PALANGKARAYA,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Female
+3,"H. AGUSTIAR SABRAN, S.Kom",N,Laki-Laki,KOTAWARINGIN BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Male
+4,"ASDY NARANG, SH, M.Comm.Law",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Male
+5,"Dr. RAHMAT NASUTION HAMKA, S.H, M.Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Male
+6,ENDAH PRATIWI,N,Perempuan,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Tengah,Kalimantan Tengah,Female
+1,H.M RIFQINIZAMY KARSAYUDA,N,Laki-Laki,KOTA BANJARMASIN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,IAN KASELA,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Male
+3,"Dr. HJ. ROSIYATI MH THAMRIN, S.E, M.M.",N,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,Drs. H.M DARDIANSYAH,Y,Laki-Laki,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Male
+5,"BERRY NAHDIAN FORQAN, S.P, M.S",N,Laki-Laki,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Male
+6,"MASRIAH, S, Si",N,Perempuan,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,dr. H. SULAIMAN UMAR,N,Laki-Laki,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,"HJ. AIDA MUSLIMAH, S.E.",N,Perempuan,KOTA BANJARMASIN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan II,Kalimantan Selatan,Female
+3,"SYAFRUDDIN H. MAMING, S.Sos",N,Laki-Laki,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan II,Kalimantan Selatan,Male
+4,"NOVRI OMPUSUNGU, S.H.",N,Laki-Laki,TANAH BUMBU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan II,Kalimantan Selatan,Male
+5,ELLYSA KURNIA HANDAYANI,N,Perempuan,TANAH LAUT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,H. SAFARUDDIN,N,Laki-Laki,KOTA BALIKPAPAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Male
+2,"HJ. RINI GUSTIANA, S.Psi",N,Perempuan,KOTA SAMARINDA,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Female
+3,"Dr. Ir. H. RUSMADI, M.S.",N,Laki-Laki,KOTA SAMARINDA,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Male
+4,"HERMANTO KEWOT, S.P.",N,Laki-Laki,PASER,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Male
+5,"ISMAIL THOMAS, S.H, M.Si",N,Laki-Laki,KUTAI BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Male
+6,CAHYA NURAINI LUBIS,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Female
+7,ANDHIKA HASAN,N,Laki-Laki,KOTA BALIKPAPAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Male
+8,MURNI HARTININGSIH,N,Perempuan,KOTA SAMARINDA,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Timur,Kalimantan Timur,Female
+1,"Dra. ADRIANA CHARLOTTE DONDOKAMBEY, M.Si",N,Perempuan,MINAHASA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Female
+2,"H. HERSON MAYULU, S.IP",N,Laki-Laki,BOLAANG MONGONDOW SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Male
+3,"Drs. JANTJE W.SAJOW, M, Si",N,Laki-Laki,MINAHASA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Male
+4,"DJENRI ALTING KEINTJEM, S.H., M.H.",Y,Laki-Laki,KOTA MANADO,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Male
+5,VANDA SARUNDAJANG,Y,Perempuan,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Female
+6,"Dr. JEFFRY J. WURANGIAN, S.E., M.Sc",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Utara,Sulawesi Utara,Male
+1,Ir. RENDY M AFFANDY LAMADJIDO,Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Male
+2,"MATINDAS J RUMAMBI, S.Sos",N,Laki-Laki,KOTA PALU,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Male
+3,"IKA FATMAWATI, S.E., M.Si., M.M.",N,Perempuan,SIGI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Female
+4,MOHAMMAD NURUL HAQ,N,Laki-Laki,SIGI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Male
+5,DWI TJIPTODHARMONO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Male
+6,WA ODE FARIDA SILVIA DJARUDJU,N,Perempuan,KOTA PONTIANAK,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tengah,Sulawesi Tengah,Female
+1,"H. RIDWAN ANDI WITTIRI, S.H.",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,"Prof. Dr. dr. ABDUL RAZAK THAHA, M.Sc",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,"Dr. ULFAH MAWARDI, M.Pd",N,Perempuan,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Female
+4,Drs. H. ZAINAL TAHIR,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,"Dr. SUBHAN DJAYA M, S.IP, S.E, M.Si",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Male
+6,"GOLDA TITING, S.Si",N,Perempuan,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Female
+7,Ir. ABDUL RAZAK WAWO,N,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Male
+8,"Dr. HJ. ASMAENY AZIS, M.Si., M.H.",N,Perempuan,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan I,Sulawesi Selatan,Female
+1,"Drs. H. SAMSU NIANG, M.Pd",Y,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,"Dr. H.A.M. YAGKIN PADJALANGI, APT., M.Kes",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,ANDI CITTA MARIOGI,N,Perempuan,BARRU,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,"H. MUH. SUDIRMAN HR, S.E.",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,"H. HUSBIANNAS ALSI, S.Sos",N,Laki-Laki,BULUKUMBA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,"ROSMAYANTI NAIM, S.Pd",N,Perempuan,GOWA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Female
+7,"HERMAN OPY SANDA, S.IP",N,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+8,RUKKAYAH MALIK,N,Perempuan,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Female
+9,"MUHAMMAD SAPRI PAMULU, Ph.D",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,JACOBUS K. MAYONG PADANG,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,"SARCE BANDASO TANDIASIK, S.H.",N,Perempuan,LUWU TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Female
+3,"Ir. EDWARD TANARI, M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Male
+4,"Drs. NUHUNG SULEMAN, S.T, M.T.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,Ir. H.ABDULLAH TAPPARENG,N,Laki-Laki,KOTA MAKASSAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Male
+6,DYAH HAYU KUMARAWATI,N,Perempuan,SEMARANG,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,"PASKARIA TOMBI, S.H., M.H.",N,Perempuan,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Selatan III,Sulawesi Selatan,Female
+1,Ir. HUGUA,N,Laki-Laki,WAKATOBI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,MUHAMMAD OHEO SINAPOY,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,"HJ. NIRNA LACHMUDDIN, S.Pd",N,Perempuan,KOTA KENDARI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,FAJAR B.S. LASE,N,Laki-Laki,JAKARTA BARAT,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+5,MARIA MAGDALENA BLEGUR,N,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Female
+6,"T.M. ERWIN USMAN, S.H.",N,Laki-Laki,BOGOR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,YUSUF PAKAYA,N,Laki-Laki,KOTA GORONTALO,Partai Demokrasi Indonesia Perjuangan,PDIP,Gorontalo,Gorontalo,Male
+2,SUWIRYO ISMAIL,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Gorontalo,Gorontalo,Male
+3,FAUZIAH EDDYONO,N,Perempuan,KOTA MEDAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Gorontalo,Gorontalo,Female
+1,"MARSDA TNI (PURN) MASMUN YAN MANGGESA, SE., MBA",N,Laki-Laki,KOTA BEKASI,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Barat,Sulawesi Barat,Male
+2,"HJ.HERNY AGUS AMBO DJIWA, S.Sos, M.Si",N,Perempuan,MAMUJU UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Barat,Sulawesi Barat,Female
+3,"H. ARWAN M. ARAS T, S. Kom",N,Laki-Laki,MAMUJU,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Barat,Sulawesi Barat,Male
+4,HJ. JUMRIAH,N,Perempuan,POLEWALI MANDAR,Partai Demokrasi Indonesia Perjuangan,PDIP,Sulawesi Barat,Sulawesi Barat,Female
+1,"MERCY CHRIESTY BARENDS, S.T.",Y,Perempuan,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku,Maluku,Female
+2,"HJ. SAFITRI MALIK SOULISA, S.IP",N,Perempuan,BURU SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku,Maluku,Female
+3,JEFFRY DANIEL WAWORUNTU,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku,Maluku,Male
+4,MARIAM NURAINI SOLISA,N,Perempuan,BURU,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku,Maluku,Female
+1,"IRINE YUSIANA ROBA PUTRI, S.Sos. MComn&MediaST",Y,Perempuan,KOTA YOGYAKARTA,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku Utara,Maluku Utara,Female
+2,"Dr. H. SIDIK DERO SIOKONA, M.Pd",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku Utara,Maluku Utara,Male
+3,"RUSDI MINANGKABAU, S.T.",N,Laki-Laki,KOTA TERNATE,Partai Demokrasi Indonesia Perjuangan,PDIP,Maluku Utara,Maluku Utara,Male
+1,"KAMARUDIN WATUBUN, S.H, M.H.",Y,Laki-Laki,KOTA JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+2,MAYJEN TNI (PURN) CHRISTIANUS H. SIDABUTAR,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+3,"ANNA MARTHA KARUBUY, S.Sos., M.M.",N,Perempuan,JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Female
+4,"Drs. FRANS BOB OHEE, M.A.",N,Laki-Laki,JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+5,TONY WARDOYO,Y,Laki-Laki,JAKARTA UTARA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+6,"REGINA M. MUABUAY, S.Pd",N,Perempuan,KOTA JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Female
+7,"ALBERTH YOGI, S.Pd",N,Laki-Laki,KOTA JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+8,"YAHYA L. RADO, S.H, M.H.",N,Laki-Laki,KOTA JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+9,"LILIK HARI PURWANINGSIH, S.KM",N,Perempuan,KOTA JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Female
+10,"LA ODE RABA'ALI, S.H.",N,Laki-Laki,JAYAPURA,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua,Papua,Male
+1,HARVEY B. MALAIHOLLO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua Barat,Papua Barat,Male
+2,"JIMMY DEMIANUS IJIE, S.H.",Y,Laki-Laki,MANOKWARI,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua Barat,Papua Barat,Male
+3,"IDA NOVELINA, S.E.",N,Perempuan,MANOKWARI,Partai Demokrasi Indonesia Perjuangan,PDIP,Papua Barat,Papua Barat,Female
+1,"Ir. DEDDY YEVRI HANTERU SITORUS, M.A.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Utara,Kalimantan Utara,Male
+2,"MERIYANTI YK PONGMAKAMBA, S.IP",N,Perempuan,MALINAU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Utara,Kalimantan Utara,Female
+3,"Drs. JHONNY LAING IMPANG, M.Si",N,Laki-Laki,MALINAU,Partai Demokrasi Indonesia Perjuangan,PDIP,Kalimantan Utara,Kalimantan Utara,Male

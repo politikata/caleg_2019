@@ -1,0 +1,575 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,ANDI HS,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Aceh I,Aceh,Male
+2,"M. SALIM FAKHRY, M.M.",Y,Laki-Laki,ACEH TENGGARA,Partai Golongan Karya,Golkar,Aceh I,Aceh,Male
+3,CUT SRI MAINITA,N,Perempuan,KOTA BANDA ACEH,Partai Golongan Karya,Golkar,Aceh I,Aceh,Female
+4,"Drs. H. SULAIMAN ABDA, M.Si",N,Laki-Laki,KOTA BANDA ACEH,Partai Golongan Karya,Golkar,Aceh I,Aceh,Male
+5,Drs. H.T. ZULKARNAINI,N,Laki-Laki,NAGAN RAYA,Partai Golongan Karya,Golkar,Aceh I,Aceh,Male
+6,"NENI RUMIANTI DAULAY, S.E.",N,Perempuan,KOTA BANDA ACEH,Partai Golongan Karya,Golkar,Aceh I,Aceh,Female
+7,"CUT NURMALAHAYATI U, S.E.",N,Perempuan,KOTA BANDA ACEH,Partai Golongan Karya,Golkar,Aceh I,Aceh,Female
+1,ILHAM PANGESTU,N,Laki-Laki,KOTA LANGSA,Partai Golongan Karya,Golkar,Aceh II,Aceh,Male
+2,DRS. H. MARZUKI DAUD,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Aceh II,Aceh,Male
+3,"CUT RIZKA SEPTIANI, M.Si",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Aceh II,Aceh,Female
+4,"FIRMANDEZ, S.E., Ak.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Aceh II,Aceh,Male
+5,"REDUK NILAWARNI, S.Pd",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Aceh II,Aceh,Female
+6,T. YUSNI,N,Laki-Laki,ACEH TAMIANG,Partai Golongan Karya,Golkar,Aceh II,Aceh,Male
+1,MEUTYA HAFID,Y,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Female
+2,ROLEL HARAHAP,N,Laki-Laki,KOTA TANJUNG BALAI,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+3,"LAWRENCE T.P. SIBURIAN, S.H., M.H.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+4,"ROBI ANUGRAH MARPAUNG, S.H., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+5,"H. ADLIN UMAR YUSRI TAMBUNAN, S.T., M.S.P.",N,Laki-Laki,KOTA MEDAN,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+6,"Ir. NETTY FARIDA SILALAHI, M.M.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Female
+7,"CAMELLIA PANDUWINATA LUBIS, S.E., M.I.Kom",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Female
+8,"RUDDIN AKBAR LUBIS, S.H., M.H.",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+9,"ROBINSAR SINAGA, S.E.",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Male
+10,HADIATY MAHALINDA,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara I,Sumatera Utara,Female
+1,"RAMBE KAMARUL ZAMAN, M.Sc., M.M.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+2,LAMHOT SINAGA,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+3,"Dr.drg. REGINA TETTY MARY, M.Sc.",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Female
+4,Ir. DOLI SINOMBA SIREGAR,N,Laki-Laki,KOTA MEDAN,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+5,"ZULFIDA RANGKUTI, B.A",N,Perempuan,KOTA MEDAN,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Female
+6,"Ir. AHMAD HUSIN SIREGAR, M.M.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+7,"Dr. Ir. MOMBANG SIHITE, M.M",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+8,"RUMBUNG PASARIBU, SH, MH",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Female
+9,"BENNI ADVIS DAELI, S.E",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+10,H. ASWIN,N,Laki-Laki,MANDAILING NATAL,Partai Golongan Karya,Golkar,Sumatera Utara II,Sumatera Utara,Male
+1,H. AHMAD DOLI KURNIA TANDJUNG,N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+2,Dr. CAPT ANTHON SIHOMBING,Y,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+3,"IRAMA ANGKAT, S.Sos.I., M.Si",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Female
+4,"DJAFAR RULIANSYAH LUBIS, M.H",N,Laki-Laki,KOTA MEDAN,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+5,Ir. ALIWONGSO HALOMOAN SINAGA,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+6,"DELIA PRATIWI BR. SITEPU, S.H.",Y,Perempuan,LANGKAT,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Female
+7,"ADHERIE ZULFIKRI, S.H.",N,Laki-Laki,KOTA TANGERANG,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+8,"CHATRINE ANGELLA TJUATJA, S.E",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Female
+9,Ir. TENGKU M. NURHAFIDZ,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+10,"ANGGIAT BARIS MANGISI MANALU, S.Pd., S.H",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Utara III,Sumatera Utara,Male
+1,Drs. H. DARUL SISKA,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Male
+2,"H. YAN HIKSAS DT TAN ALI, M.Si",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Male
+3,"ANANTA TRIA NURWITA Y, S.E",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Female
+4,"H. ZULHENDRI HASAN, S.H., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Male
+5,"SAIDAL MASFIYUDDIN, S.H",N,Laki-Laki,PESISIR SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Male
+6,"EVELINDA, S.E., M.M",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Female
+7,Ir. WENO AULIA,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Male
+8,"Dra. NANA MAZNAH PRASETYO, M.Si",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Barat I,Sumatera Barat,Female
+1,"H. JOHN KENEDY AZIS, S.H",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Male
+2,"H.M. YAMIN FERRIANTO TARA, S.E.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Male
+3,"HJ. DHIFLA WIYANI, S.H., M.H.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Female
+4,"EDI HERMAN, S.E.",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Male
+5,"DOREL ALMIR, S.H., M.Kn",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Male
+6,"YUNITA, M.Pd",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Barat II,Sumatera Barat,Female
+1,Ir. SUDIRMAN ALMUN,N,Laki-Laki,KOTA TANJUNGPINANG,Partai Golongan Karya,Golkar,Riau I,Riau,Male
+2,"Ir. H. ARSYADJULIANDI RACHMAN, MBA",N,Laki-Laki,KOTA PEKANBARU,Partai Golongan Karya,Golkar,Riau I,Riau,Male
+3,"EMMALIA NATAR, S.E., M.M",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Riau I,Riau,Female
+4,TABRANI MAAMUN,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Riau I,Riau,Male
+5,Drg. HJ RINI RAHMADHANI,N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Riau I,Riau,Female
+6,"SANTI SUPRIYANTI, S.Si",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Riau I,Riau,Female
+7,"SUPIRMAN, S.Kom.",N,Laki-Laki,KOTA PEKANBARU,Partai Golongan Karya,Golkar,Riau I,Riau,Male
+1,Ir. H. MOHAMAD IDRIS LAENA,Y,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Riau II,Riau,Male
+2,"HJ. SUPRIATI, S.Sos",N,Perempuan,KOTA PEKANBARU,Partai Golongan Karya,Golkar,Riau II,Riau,Female
+3,"MASNUR, S.H",N,Laki-Laki,KAMPAR,Partai Golongan Karya,Golkar,Riau II,Riau,Male
+4,"H. NASARUDIN, S.H., M.H.",N,Laki-Laki,PELALAWAN,Partai Golongan Karya,Golkar,Riau II,Riau,Male
+5,"HJ. NURLIAH, S.H., M.H.",N,Perempuan,KOTA PEKANBARU,Partai Golongan Karya,Golkar,Riau II,Riau,Female
+6,H. RUSPAN AMAN,N,Laki-Laki,KOTA PEKANBARU,Partai Golongan Karya,Golkar,Riau II,Riau,Male
+1,H. HASAN BASRI AGUS,N,Laki-Laki,KOTA JAMBI,Partai Golongan Karya,Golkar,Jambi,Jambi,Male
+2,"HJ. SANIATUL LATIVA, S.E., M.M.",Y,Perempuan,TEBO,Partai Golongan Karya,Golkar,Jambi,Jambi,Female
+3,"SUFARDI NURZAIN, M.Si",N,Laki-Laki,KOTA JAMBI,Partai Golongan Karya,Golkar,Jambi,Jambi,Male
+4,"SELINA GITA, S.E.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jambi,Jambi,Female
+5,"KHABRI MOEIS, M.E",N,Laki-Laki,KOTA JAMBI,Partai Golongan Karya,Golkar,Jambi,Jambi,Male
+6,LUKMANUROHIM,N,Laki-Laki,TANJUNG JABUNG BARAT,Partai Golongan Karya,Golkar,Jambi,Jambi,Male
+7,"FITRI YANTI, S.E",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jambi,Jambi,Female
+8,HARRY WALUYO SAJATI,N,Laki-Laki,KOTA MEDAN,Partai Golongan Karya,Golkar,Jambi,Jambi,Male
+1,DRS. H. KAHAR MUZAKIR,Y,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Male
+2,"H. ISKANDAR SYAMWELL, S.E.",N,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Male
+3,"ANDI MARAIDA, SP",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Female
+4,WASISTA B.UTOYO,Y,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Male
+5,"AHMAD FUAD, S.H",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Male
+6,"NURFITRI SUSILAWATY, A.Md",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Female
+7,"SYAPARUDDIN, S.H., M.H",N,Laki-Laki,MUSI BANYUASIN,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Male
+8,HJ. LURY ELZA ALEX NOERDIN,N,Perempuan,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan I,Sumatera Selatan,Female
+1,"BOBBY ADHITYO RIZALDI, S.E.Ak., M.B.A., CFE",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+2,H. ALEX NOERDIN,N,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+3,RIA SRI WOELANDARI,N,Perempuan,KOTA BEKASI,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Female
+4,"BENNY MARTHA BENYAMIN, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+5,"Dr., Ir. NUR AHMADI, M.S",N,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+6,"SULASTRI, S.Sos.",N,Perempuan,KOTA PRABUMULIH,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Female
+7,TOFAN MAULANA,N,Laki-Laki,OGAN KOMERING ULU SELATAN,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+8,"DR. HJ. TELLY P ULVIANA, M.Si",N,Perempuan,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Female
+9,"FACHRUZAR, S.H",N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Sumatera Selatan II,Sumatera Selatan,Male
+1,"Drs. TAUFIQ HIDAYAT, M.Si",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Bengkulu,Bengkulu,Male
+2,"TRISNA ANGGRAINI, S.IP., M.M",N,Perempuan,KOTA BENGKULU,Partai Golongan Karya,Golkar,Bengkulu,Bengkulu,Female
+3,ALISYA FIANNE JANNE,N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Bengkulu,Bengkulu,Female
+4,"MOHAMMAD SALEH, S.E",N,Laki-Laki,KOTA BOGOR,Partai Golongan Karya,Golkar,Bengkulu,Bengkulu,Male
+1,Hi. LODEWIJK F. PAULUS,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+2,"EFIN NURTJAHJA G, S.E., M.Si.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Lampung I,Lampung,Female
+3,"Ir. H. INDRA S. ISMAIL, M.M.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+4,"DWIE AROEM HADIATIE, S.I.Kom",Y,Perempuan,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung I,Lampung,Female
+5,"H. RIZA MIRHADI, S.H.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+6,DENDY DERRIAN AZIS,N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+7,"ERWIN EKA KURNIAWAN, S.E., M.Si.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+8,"GIOVANI ANGGASTA, S.H.",N,Perempuan,BANDUNG BARAT,Partai Golongan Karya,Golkar,Lampung I,Lampung,Female
+9,"SEPTI INDIAH RAHAYU, S.H., M.H",N,Perempuan,KOTA TANGERANG,Partai Golongan Karya,Golkar,Lampung I,Lampung,Female
+10,"ABDUL RAHMAN SOLEH FAUZI, S.S",N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Lampung I,Lampung,Male
+1,DR. AZIS SYAMSUDDIN,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+2,Drs. H. RISWAN TONY DK,N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+3,ETTY MUSNIHATTY,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Lampung II,Lampung,Female
+4,"Ir. HANAN A. ROZAK, M.S.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+5,"SUBHAN EFENDI, S.H",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+6,"Dra. HJ. ISTIQOMAH BAHARUDDIN, M.Ag",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung II,Lampung,Female
+7,"HERI WARDOYO, M.H",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+8,"HR. SUNARYO, S.H., M.M",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+9,"SITI ATHIRAH ZAHRA, S.H",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Lampung II,Lampung,Female
+10,"DEDI IRAWAN, A.Md.",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Golongan Karya,Golkar,Lampung II,Lampung,Male
+1,"H. ANSAR AHMAD, SE., M.M.",N,Laki-Laki,KOTA TANJUNGPINANG,Partai Golongan Karya,Golkar,Kepulauan Riau,Kepulauan Riau,Male
+2,RAJA ASTAGENA,N,Perempuan,KOTA TANJUNGPINANG,Partai Golongan Karya,Golkar,Kepulauan Riau,Kepulauan Riau,Female
+3,ZULBAHRI. M,N,Laki-Laki,KOTA BATAM,Partai Golongan Karya,Golkar,Kepulauan Riau,Kepulauan Riau,Male
+4,CEN SUI LAN,N,Perempuan,KOTA BATAM,Partai Golongan Karya,Golkar,Kepulauan Riau,Kepulauan Riau,Female
+1,"SYAHRIAL RIDHO, S.H., M.H",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Bangka Belitung,Bangka Belitung,Male
+2,MELDA ADDRIANI,Y,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Bangka Belitung,Bangka Belitung,Female
+3,"BAMBANG PATIJAYA, S.E., M.M.",N,Laki-Laki,BANGKA,Partai Golongan Karya,Golkar,Bangka Belitung,Bangka Belitung,Male
+1,"Dr. HAPPY BONE ZULKARNAIN, M.S",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Male
+2,"TETTY KADI BAWONO, S.IP",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Female
+3,GAYA KARTASASMITA,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Female
+4,NURUL ARIFIN,N,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Female
+5,"Dr. H. ASEP SAPSUDIN, S.H., M.H., M.M",N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Male
+6,Drs. RAHMAT SULAEMAN. H,N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Male
+7,"BOYKE FEBRIAN MOHAMMAD, S.E.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat I,Jawa Barat,Male
+1,"Dr. TB. H. ACE HASAN SYADZILY, M.Si.",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+2,"Dr. M. SABIL RACHMAN, M.Si",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+3,SANDRA INDRIATI NOHOLO,N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Female
+4,"Ir. H. LILI ASDJUDIREDJA, S.E.",Y,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+5,"Ir. H. ANANG SUSANTO, M.Si",N,Laki-Laki,BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+6,"Dr. IKKE DEWI SARTIKA, Dra., M.Pd",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Female
+7,"H. AGUS MAKMUR SANTOSO, S.Kom., M.M",Y,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+8,"FAZWAN KUSUMADINATA, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+9,NUNKI JUNIARTI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Female
+10,"Ir. H. DODDY IMRON CHOLID, M.S",N,Laki-Laki,BANDUNG BARAT,Partai Golongan Karya,Golkar,Jawa Barat II,Jawa Barat,Male
+1,BUDHY SETIAWAN,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+2,EKA SASTRA,Y,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+3,"AMRIYATI AMIN, M.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Female
+4,"Dr. H. DEDING ISHAK, S.H., M.M.",Y,Laki-Laki,BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+5,"Ir. LUCKY ALI MOERFIQIN, M.M",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+6,"WIEKE WIANA, M. Si",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Female
+7,"AFRIAN BONDJOL, S.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+8,"H. TB RADITYA INDRAJAYA, S.E",N,Laki-Laki,BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Male
+9,Ir. HJ. METTY TRIANTIKA,N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat III,Jawa Barat,Female
+1,"HJ. DEWI ASMARA, S.H., M.H.",Y,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Female
+2,"HERU HERLAMBANG, S.AP",N,Laki-Laki,SUKABUMI,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Male
+3,"Dr. drg. TONNY APRILANI, M.Sc",N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Male
+4,"H.HEROL AL HUDRI, S.I.P",N,Laki-Laki,SUKABUMI,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Male
+5,"RADITYA DWI PUTRA KAGISWANA, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Male
+6,"DINA WAHYUNINGRUM, S.E",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat IV,Jawa Barat,Female
+1,"RAVINDRA AIRLANGGA, M.S.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+2,ICHSAN FIRDAUS,Y,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+3,"Hj. ATTIE D. ANDJAR RACHMAN, S.H., M.Si",N,Perempuan,KOTA CIMAHI,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Female
+4,ILHAM PERMANA,N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+5,"Drs. KH. NAWAFIE SALEH, S.E., M.M.",Y,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+6,ASTRID KRISANDA,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Female
+7,"Ir. SULHAJJI JOMPA, MSc",N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+8,"H. AGUS HITOPA SUKMA, SH, MSI",N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Male
+9,"RATIH AYU SYAFRIZA, S.Hut",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat V,Jawa Barat,Female
+1,"Dra. WENNY HARYANTO, S.H.",Y,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat VI,Jawa Barat,Female
+2,"ZAINUL MIFTAH, S.Sos.I",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat VI,Jawa Barat,Male
+3,Dr. SITI AISYAH,N,Perempuan,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VI,Jawa Barat,Female
+4,"HERI SUKO MARTONO, S.E., M.B.A.",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VI,Jawa Barat,Male
+5,"SYAMSURACHMAN, S.T., M.S.M.",N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat VI,Jawa Barat,Male
+1,"DEDI MULYADI, S.H",N,Laki-Laki,PURWAKARTA,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+2,PUTERI KOMARUDIN,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Female
+3,Drs. DADANG S MUCHTAR,Y,Laki-Laki,KARAWANG,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+4,"TUTI NURCHOLIFAH YASIN, S.ked",N,Perempuan,BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Female
+5,"Drs. JENRI M.P PANJAITAN, M.H",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+6,"RINA DWI ANDINI, S.H., M.H.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Female
+7,NURUL ATIQ TAJUDDIN,N,Laki-Laki,BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+8,MOH. SUAIB,N,Laki-Laki,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+9,"MOHAMMAD AMIN FAUZI, S.H., M.Si",N,Laki-Laki,BEKASI,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+10,Drs. R. HADYMARTOMO,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat VII,Jawa Barat,Male
+1,"DAVE AKBARSHAH FIKARNO, M.E.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+2,"H. DANIEL MUTAQIEN SYAFUDDIN, S.T",Y,Laki-Laki,INDRAMAYU,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+3,"NOVINDA PUTRI UTAMI, S.IP., M.I.P",N,Perempuan,INDRAMAYU,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Female
+4,"BAMBANG HERMANTO, S.E",N,Laki-Laki,INDRAMAYU,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+5,ABD. RAZAK SAID,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+6,"IIS AISAH, S.E.I., M.Si.",N,Perempuan,CIREBON,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Female
+7,"PULIHONO, S.E.",N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+8,Drs. SISWANDI,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Male
+9,"YULIANI WAHYUNINGSIH, Amd. Keb",N,Perempuan,CIREBON,Partai Golongan Karya,Golkar,Jawa Barat VIII,Jawa Barat,Female
+1,"Ir. ARNANTO NURPRABOWO, M.P",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Male
+2,VENNY DEVIANTI,Y,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Female
+3,"HENDRIK KURNIAWAN, S.Pd.I",N,Laki-Laki,SUMEDANG,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Male
+4,"HJ ITJE SITI DEWI KURAESIN, S.Sos., M.M",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Female
+5,"H. HERMANSYAH, S.H",N,Laki-Laki,SUBANG,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Male
+6,"H. TAUFIQ GUNAWANSYAH, S.I.P., M.Si",N,Laki-Laki,SUMEDANG,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Male
+7,"LACKIE SUWANDIE, S.E",N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Male
+8,"MEDINA WIRANATAKUSUMAH, S.E.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat IX,Jawa Barat,Female
+1,"Drs. AGUN GUNANDJAR SUDARSA, Bc.IP., M.Si.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Male
+2,KHOLIS MALIK,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Male
+3,HJ. RENNY SOEDIRO,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Female
+4,"ENGKUS KUSNADI, S.H",N,Laki-Laki,PANGANDARAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Male
+5,"AYUNINGTYAS WIDARI RAMDHANIAR, S.I.A.",N,Perempuan,KUNINGAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Female
+6,"DENI YUSUP, S.Ag., M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Male
+7,"ETTY ROBIAH AFDHAL, M.A",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Barat X,Jawa Barat,Female
+1,"FERDIANSYAH, S.E., M.M.",Y,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+2,H. MQ. ISWARA,N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+3,"RIKA MUSTIKA S, S.E., M.M",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Female
+4,Drs. H. AHMAD ZACKY SIRADJ,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+5,FAKHRI PRAWIRA,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+6,TINI KARTINI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Female
+7,MUHAMAD SURYAWIJAYA,N,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+8,"RENDY RONALDY BIMANTARA, S.Adm",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+9,"PATRIANI PARAMITA MULIA, S.H., LL.M",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Female
+10,"H. IMAN ALIRAHMAN, S.H., M.Si",N,Laki-Laki,GARUT,Partai Golongan Karya,Golkar,Jawa Barat XI,Jawa Barat,Male
+1,"BAMBANG ATMANTO WIYOGO, S.E.",Y,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Male
+2,"ERWIN RICARDO, S.E.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Male
+3,"CHRISTINE N PANJAITAN, S.S",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Female
+4,"AKHMAD GOJALI, S.Ag., M.Si.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Male
+5,"ARDIMA RAMA PUTRA, S.AP",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Male
+6,ANGELINA CHRISTI SANGEROKI,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DKI Jakarta I,DKI Jakarta,Female
+1,"CHRISTINA ARYANI, S.E., S.H., M.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Female
+2,"PUPUT NOVEL, S.S",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Female
+3,MUSTHAFA BAKRI,N,Laki-Laki,KOTA MEDAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Male
+4,"Ir. GATOT SUDARIYONO, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Male
+5,"Dra. RETNO SUSILOWATI AMIR, S.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Female
+6,"ROBY KURNIAWAN, S.P.W.K",N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Male
+7,"H. M. IKHSAN INGRATUBUN, S.E., S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta II,DKI Jakarta,Male
+1,H. ANDI RUKMAN NURDIN,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Male
+2,"AZIMAH, S.Sos., M.Si., M.B.A",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Female
+3,"LYNSEY AFSARI PUTERI, S.T",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Female
+4,IVAN DOLY,Y,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Male
+5,"OLSU BABAY, S.Kom",N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Male
+6,"SUCIANTI SUAIB SAENONG, S.E",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Female
+7,ANDI BACHTIAR SIRANG,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Male
+8,Ir. CYRILLUS I. KERONG,N,Laki-Laki,KOTA DEPOK,Partai Golongan Karya,Golkar,DKI Jakarta III,DKI Jakarta,Male
+1,"Drs. H.A. MUJIB ROHMAT, M.H.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Male
+2,"AMINULLAH, S.H.I",N,Laki-Laki,KOTA SEMARANG,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Male
+3,"Dr. DIAH SULISTYANI RATNA SEDIATI, S.H., C.N., M.Hum",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Female
+4,"MUHAMMAD ABDUL IDRIS, M.IKom",N,Laki-Laki,KOTA MALANG,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Male
+5,"ADE WARDANA, S.E",N,Laki-Laki,KOTA SEMARANG,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Male
+6,PINILIH PANGESTININGRUM,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Female
+7,DICO M GANINDUTO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Male
+8,LIGHA NABILA JAYASARI,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah I,Jawa Tengah,Female
+1,DANY SOEDARSONO,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Female
+2,"H. BOWO SIDIK PANGARSO, S.E.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Male
+3,"NUR YAHMAN, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Male
+4,"BUDIANTO TARIGAN, S.Sos., S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Male
+5,RATIH DEWANTI IRIANTINA,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Female
+6,HERLINAWATI,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Female
+7,NUSRON WAHID,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah II,Jawa Tengah,Male
+1,H. FIRMAN SOEBAGYO,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+2,"HJ. RATIH WIDYAWATI, S.E.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Female
+3,"SIRAJUDDIN, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+4,"NURIKASARI, S.E",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Female
+5,"EKANANTA NIKKY INDRAGIRI, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+6,AHMAD A?INUT TAUFIQ,N,Laki-Laki,PATI,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+7,RENGGA KRISTIANTO,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+8,YANI SITI JUANDANI,N,Perempuan,BEKASI,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Female
+9,"MOHAMAD WAHYUDI PUTRA, S.T",N,Laki-Laki,PATI,Partai Golongan Karya,Golkar,Jawa Tengah III,Jawa Tengah,Male
+1,"ENDANG MARIA ASTUTI, S.Ag., S.H., M.H",Y,Perempuan,WONOGIRI,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Female
+2,"AGUS FATCHUR RAHMAN, S.H., M.H.",N,Laki-Laki,SRAGEN,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Male
+3,BERLIAN BENYAMINA RUNGKAT,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Female
+4,FIRLIE HANGGODO GANINDUTO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Male
+5,"ENDANG SULASTRI, M.M",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Female
+6,"SAKINAH, S.H",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Female
+7,"BAYU WIRAWAN PRAYOGO, S.Pd.I",N,Laki-Laki,WONOGIRI,Partai Golongan Karya,Golkar,Jawa Tengah IV,Jawa Tengah,Male
+1,"ENDANG SRIKARTI HANDAYANI, S.H., M.Hum.",Y,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Female
+2,"Dr. H. AGUSTIAN BUDI PRASETYA, M.P.A",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Male
+3,"H. SINGGIH JANURATMOKO, S.KH., M.M",N,Laki-Laki,KLATEN,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Male
+4,"DINA HIDAYANA, S.P., M.Sc",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Female
+5,"DR. EKO SARJONO PUTRO, MM",N,Laki-Laki,KOTA SEMARANG,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Male
+6,HENRY M KAILOLA,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Male
+7,"EVANDRA R P SUBAGYO, S.I.A",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Male
+8,ANUGRAH AMALIA CAHYANI,N,Perempuan,BEKASI,Partai Golongan Karya,Golkar,Jawa Tengah V,Jawa Tengah,Female
+1,"Ir. PANGGAH SUSANTO, M.M",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Male
+2,ACHMAD PRASETYA PUTRA SYAILENDRA,N,Laki-Laki,KOTA SEMARANG,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Male
+3,RA CANDRI MAHANANI PUSPITASARI,N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Female
+4,"SAIDAH SAKWAN, M.A",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Female
+5,Ir. BAMBANG SUTRISNO,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Male
+6,RINA FITRI,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Female
+7,"ASRORI WIDARTO, S.K.M., M.Kess",N,Laki-Laki,MAGELANG,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Male
+8,"AKHMAD JUNAIDI, S.I.P., M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VI,Jawa Tengah,Male
+1,"H. BAMBANG SOESATYO, S.E.",Y,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Male
+2,"SEKARWATI, S.Sos., M.Si",N,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Female
+3,"RIA FITRIANA, S.Fil",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Female
+4,"ARYA ANUGRAH PRATAMA, B.A., MPP",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Male
+5,BEJO RUDIANTORO,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Male
+6,"Ir. AHMAD BAKRI PUTRA, M.B.A.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Male
+7,LUTFIAH,N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Tengah VII,Jawa Tengah,Female
+1,DITO GANINDUTO,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Male
+2,"TETI ROHATININGSIH, S.Sos",N,Perempuan,CILACAP,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Female
+3,"WIRENDRA TJAKRAWERDAJA, S.T",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Male
+4,"HASIM NASUTION, S.H",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Male
+5,"DEWA TARUNA NUGRAHA, S.Ked",N,Laki-Laki,BREBES,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Male
+6,HELSI HERLINDA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Female
+7,"ANGGA ARIFIAN, A.Md",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Male
+8,"ENDANG ANJARSARI, S.E",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah VIII,Jawa Tengah,Female
+1,"AGUNG WIDYANTORO, S.H., M.Si.",Y,Laki-Laki,BREBES,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Male
+2,"H. FATCHUDDIN, S.E",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Male
+3,"SITI NURHAYATI, S.Sos.I., M.I.Kom.",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Female
+4,"R. PURWOKO JULISASONGKO, S.H., M.Hum",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Male
+5,"MERRY TIFFANI, S.K.M",N,Perempuan,BREBES,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Female
+6,"ARIFHIJRAH SAPUTRA, S.H.",N,Laki-Laki,PEMALANG,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Male
+7,"YUNITA HENDRAWATI, S.Hut",N,Perempuan,BANYUMAS,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Female
+8,"ALI IRFANI, S.Ag, M.HI",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah IX,Jawa Tengah,Male
+1,"Ir. HERU DEWANTO, M.Sc. (Eng), IPU",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Male
+2,"Dr. MARLINDA IRWANTI, S.E., M.SI.",Y,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Female
+3,"ANDRIYANTO JOHAN SYAH, S.T., M.M",N,Laki-Laki,PEMALANG,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Male
+4,"DONI AKBAR, S.E",N,Laki-Laki,KOTA PALEMBANG,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Male
+5,"FANNY FATWATI PUTRI, S.H",N,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Female
+6,"SARAH SYAFITRI, S.Ikom",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Female
+7,"Ir. JUNAIDI ELVIS, M. Hum",N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Jawa Tengah X,Jawa Tengah,Male
+1,"Drs. H. M. GANDUNG PARDIMAN, M.M",Y,Laki-Laki,GUNUNGKIDUL,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Male
+2,"YANTO WIBOWO, S.T",N,Laki-Laki,SLEMAN,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Male
+3,"GENESIA WULANDARI, M.M",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Female
+4,RIZAL RINALDI,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Male
+5,"Drs. JULIANTO, M.Si",N,Laki-Laki,SLEMAN,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Male
+6,ITA SAHERNI GUMAY,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Female
+7,JUSTINO DJOGO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Male
+8,IVY PURWITA HESTUTI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,DI Yogyakarta,DI Yogyakarta,Female
+1,ADIES KADIR,Y,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+2,"Dr. H. ANDI BUDI SULISTIJANTO, S.H., M.IKom",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+3,"FARAH TAMALIA, S.E.Ak",N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Female
+4,ERNA RAHMAWATI,N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Female
+5,"ABRAHAM SRIDJAJA, S.H., M.H",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+6,"AGUNG SANTOSO, S.P",N,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+7,"RADEN BESSE KARTONINGRAT, S.H., M.H.",N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Female
+8,"BHIROWO SENO ADJI, S.T",N,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+9,SITI HANIFA,N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Female
+10,"ERWIN SIREGAR, S.H., M.H",N,Laki-Laki,KOTA DENPASAR,Partai Golongan Karya,Golkar,Jawa Timur I,Jawa Timur,Male
+1,"H. MUKHAMAD MISBAKHUN, S.E., M.H.",Y,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Male
+2,Ir. H. KUSUMA JUDI LEKSONO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Male
+3,KAMILA,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Female
+4,"ADI HARNOWO, S.Sos",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Male
+5,SYLVIA SULTANA,N,Perempuan,KOTA SUKABUMI,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Female
+6,MARLYNA EFFRIDAWATI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Female
+7,"LUKMAN YANI, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur II,Jawa Timur,Male
+1,"ZULFIKAR ARSE SADIKIN, S.IP., M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Male
+2,"Ir. GESANG BUDIARSO, M.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Male
+3,"DENNY YUNIANDARI, S.H., M.Kn",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Female
+4,H. HARDISOESILO,Y,Laki-Laki,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Male
+5,Ir. BAMBANG IRIANTO,N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Male
+6,"CISILIA MAULINA ENDIYANI, S.I.kom",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Female
+7,LOVITA TAMAMI RANIA,N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur III,Jawa Timur,Female
+1,MUHAMAD NUR PURNAMASIDI,Y,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Male
+2,DWI PRIYO ATMOJO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Male
+3,"AMANDA SEPTIANY CALISTA, S.H",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Female
+4,Drs. EDDIE BUDI PRABOWO,N,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Male
+5,"AGUS MARZUKI, S.PdI",N,Laki-Laki,BANGKALAN,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Male
+6,"WIJAYANTI, S.Sos",N,Perempuan,MALANG,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Female
+7,BASUKI RAKHMAD,N,Laki-Laki,LUMAJANG,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Male
+8,AYUT JAMAK INDRAWATI,N,Perempuan,LUMAJANG,Partai Golongan Karya,Golkar,Jawa Timur IV,Jawa Timur,Female
+1,Ir. H. M. RIDWAN HISJAM,Y,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Male
+2,"ENDANG AGUSTINI, S.I.P",N,Perempuan,BOGOR,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Female
+3,"Drs. M HARIS SUBAGIO, M.M",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Male
+4,"EVI AYUNITA, S.H., M.H",N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Female
+5,"AHMAD IRAWAN, S.H",N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Male
+6,"HARIYATUL ASNA, S.H., Sp.N",N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Female
+7,"FADHLY, S.T",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Male
+8,"Ir. SISWOTO, M.M",N,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur V,Jawa Timur,Male
+1,"M. SARMUJI, S.E., M.Si.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Male
+2,"DIANA WIDYASTUTI, M.LS",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Female
+3,YULIANTORO,N,Laki-Laki,KEDIRI,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Male
+4,"YULI ANDRIYANI, S.H",N,Perempuan,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Female
+5,"SUDJONO TEGUH WIDJAJA, S.E.",N,Laki-Laki,KOTA KEDIRI,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Male
+6,"SITI MAHMUDAH, S.E",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Female
+7,"R.SYAHLUKMAN PANJI S, S.H",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Male
+8,KURNIASIH,N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Female
+9,"MAULANA SUMARLIN, S.H",N,Laki-Laki,LAMONGAN,Partai Golongan Karya,Golkar,Jawa Timur VI,Jawa Timur,Male
+1,"Dr. H. GATOT SUDJITO, M.Si.",Y,Laki-Laki,KOTA SURABAYA,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Male
+2,ARYA RIZQI DARSONO,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Male
+3,"Dr. Dra. EVA DESEMBRIANITA, M.M",N,Perempuan,SIDOARJO,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Female
+4,"Dr. ALI MUFTHI, S.Ag., M.Si.",N,Laki-Laki,PONOROGO,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Male
+5,"SUMIHAR PANJAITAN, S.IP",N,Laki-Laki,PONOROGO,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Male
+6,"ALMIRA ADELLIA DAMAYANTI, S.T",N,Perempuan,PACITAN,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Female
+7,Drs. SUPRAPTO,N,Laki-Laki,NGAWI,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Male
+8,"BAYU WIKANARTININGSIH, S.E",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur VII,Jawa Timur,Female
+1,"MOHAMMAD SURYO ALAM, Ak., MBA.",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+2,"M. YAHYA ZAINI, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+3,dr. DEWI EMA ANINDIA,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Female
+4,"Drs. GANJAR RAZUNI, S.H., M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+5,"AHMAD ZULKIFLI, S.S.T.Par",N,Laki-Laki,KOTA TANGERANG,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+6,RATIH SUKMO ARIYANTI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Female
+7,Drs. SOEMITRO SAMADIKOEN,N,Laki-Laki,NGANJUK,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+8,"ERNADI, S.H.I",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+9,"NURHIDAYATI, S.T",N,Perempuan,NGANJUK,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Female
+10,"BAGUS RIZKI DINARWAN, S.Si, M.T",N,Laki-Laki,MADIUN,Partai Golongan Karya,Golkar,Jawa Timur VIII,Jawa Timur,Male
+1,"HJ. ADDE ROSI KHOERUNNISA, S.Sos,. M.SI",N,Perempuan,KOTA SERANG,Partai Golongan Karya,Golkar,Banten I,Banten,Female
+2,"H. DADAN MUCHAMMAD R., S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten I,Banten,Male
+3,"SUKMAWATI SULTAN, A.Md",N,Perempuan,KOTA BEKASI,Partai Golongan Karya,Golkar,Banten I,Banten,Female
+4,"GOUSTA FERIZA, S.H., M.H",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Banten I,Banten,Male
+5,"A. DADAN SURYANA, S.Sos",N,Laki-Laki,PANDEGLANG,Partai Golongan Karya,Golkar,Banten I,Banten,Male
+6,"SHANTY ALDA NATHALIA, S.H",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Banten I,Banten,Female
+1,"H. TUBAGUS HAERUL JAMAN, S.E",N,Laki-Laki,KOTA SERANG,Partai Golongan Karya,Golkar,Banten II,Banten,Male
+2,Drs. H. MOHAMAD ALY YAHYA,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten II,Banten,Male
+3,DEWI PARAMATASARI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten II,Banten,Female
+4,"GIOFEDI, S.H.,M.H.",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Banten II,Banten,Male
+5,H. FAKIH USMAN,N,Laki-Laki,KOTA CILEGON,Partai Golongan Karya,Golkar,Banten II,Banten,Male
+6,"HJ. RINIE AMALUDDIN, S.H., M.Si",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten II,Banten,Female
+1,"H. ANDI ACHMAD DARA, S.E.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+2,"RATU DIAN HATIFAH, S.Ag., M.Pd",N,Perempuan,KOTA BEKASI,Partai Golongan Karya,Golkar,Banten III,Banten,Female
+3,H. ABDUL SYUKUR,N,Laki-Laki,KOTA TANGERANG,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+4,EVA ELISA WIBISONO,N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Banten III,Banten,Female
+5,"Dra. TRI IRIASTUTI, M.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Banten III,Banten,Female
+6,FREDDY R. NAPITUPULU,N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+7,"BAHRUDIN, S.H",N,Laki-Laki,TANGERANG,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+8,"ARNOD SIHITE, S.E",N,Laki-Laki,TANGERANG,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+9,"Dra. HJ. SITI UBAIDAH, M.M",N,Perempuan,INDRAMAYU,Partai Golongan Karya,Golkar,Banten III,Banten,Female
+10,DHANY MARLEN,N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Banten III,Banten,Male
+1,"GDE SUMARJAYA LINGGIH, S.E, M.A.P.",Y,Laki-Laki,BULELENG,Partai Golongan Karya,Golkar,Bali,Bali,Male
+2,A.A. BAGUS ADHI MAHENDRA PUTRA,Y,Laki-Laki,BADUNG,Partai Golongan Karya,Golkar,Bali,Bali,Male
+3,"I GUSTI AGUNG AYU SRI PUSPA DEWI, S.T",N,Perempuan,BANGLI,Partai Golongan Karya,Golkar,Bali,Bali,Female
+4,Drs. I KETUT SUDIKERTA,N,Laki-Laki,BADUNG,Partai Golongan Karya,Golkar,Bali,Bali,Male
+5,"I WAYAN GEREDEG, S.H., M.A.P",N,Laki-Laki,KARANGASEM,Partai Golongan Karya,Golkar,Bali,Bali,Male
+6,"DIAN FATMAYANTY, S.H",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Bali,Bali,Female
+7,"I MADE WIJAYA, S.Kom",N,Laki-Laki,KLUNGKUNG,Partai Golongan Karya,Golkar,Bali,Bali,Male
+8,dr. G. AYU AMELINDA HANJANI,N,Perempuan,KOTA BEKASI,Partai Golongan Karya,Golkar,Bali,Bali,Female
+9,"I GEDE ARIAWAN, S.I.P., M.I.P",N,Laki-Laki,LAMPUNG TENGAH,Partai Golongan Karya,Golkar,Bali,Bali,Male
+1,"FATAHILLAH RAMLI, S.E., M.H",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"Ir. H. BADRUL MUNIR, M.M",N,Laki-Laki,KOTA MATARAM,Partai Golongan Karya,Golkar,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,"Dra. HJ. SRI UTHARI SALMAN FARIS, M.A",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,"Ir. HJ SARI YULIATI, M.T",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+2,Drs. H. HUMAIDI,N,Laki-Laki,LOMBOK TENGAH,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,Drs. H. LALU WIREGINAWANG,N,Laki-Laki,LOMBOK TENGAH,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+4,ADI PUTRA DARMAWAN TAHIR,Y,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+5,Dra. PURWANINGSIH SUTIARTI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+6,ADI BAIQUNI,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+7,Drs. H. SAHAFARI ASYARI,N,Laki-Laki,LOMBOK BARAT,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+8,Ir. NURHANI HM,N,Perempuan,KOTA MATARAM,Partai Golongan Karya,Golkar,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+1,MELCHIAS MARKUS MEKENG,Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,HONING SANNY,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,ADEODATA TRIDECIMA,N,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,"H. ANWAR PUA GENO, S.H",N,Laki-Laki,KOTA KUPANG,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,IRENE RATNA KARTIKA SAPTI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+6,"SEBASTIANUS KM SALANG, S.H., M.M",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+1,EMANUEL MELKIADES LAKA LENA,N,Laki-Laki,KOTA TANGERANG,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,"Ir. PAULUS VICTOR ROLLAND MELLA, M.Si",N,Laki-Laki,TIMOR TENGAH SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,"Dra. SYLVIA A ANGGRAENI, M.S",N,Perempuan,BOGOR,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+4,"Drs. JULIANUS POTE LEBA, M.Si.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+5,MERRY.S.A.H.LENGGOE,N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+6,"Drs. AYUB TITU EKI, MS., Ph.D",N,Laki-Laki,KUPANG,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+7,"APRILIA JOHANA MANUKOA, M.Pd",N,Perempuan,KOTA KUPANG,Partai Golongan Karya,Golkar,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+1,"MAMAN ABDURRAHMAN, S.T.",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Male
+2,"Ir. HAZAIRIN, M.S.",N,Laki-Laki,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Male
+3,DEBBY EMELIA,N,Perempuan,KOTA DEPOK,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Female
+4,"SUBHAN NOVIAR, S.E.",N,Laki-Laki,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Male
+5,"Ir. INDRAWAN, M.M",N,Laki-Laki,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Male
+6,"RIA RESTI, S.E.",N,Perempuan,KUBU RAYA,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Female
+7,ELMA AGUSTIN,N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Female
+8,"H. DUDUNG AGUS SUHARTO, S.Sos",N,Laki-Laki,MEMPAWAH,Partai Golongan Karya,Golkar,Kalimantan Barat I,Kalimantan Barat,Male
+1,"Dr. Drs. ADRIANUS ASIA SIDOT, M.Si",N,Laki-Laki,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat II,Kalimantan Barat,Male
+2,"FIRMAN MUNTACO, S.H., M.H.",N,Laki-Laki,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat II,Kalimantan Barat,Male
+3,"SRI SOELASTRI AS, S.E.",N,Perempuan,KOTA PONTIANAK,Partai Golongan Karya,Golkar,Kalimantan Barat II,Kalimantan Barat,Female
+4,"YOVITA LASTI HANDINI, M. Sc.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Barat II,Kalimantan Barat,Female
+1,Drs. MUKHTARUDIN,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Male
+2,"HJ. AGATI SULIE MAHYUDIN, S.E.",Y,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Female
+3,"MUHAMMAD BALYAH, S.H.",N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Male
+4,OVI DEWI YANTI,N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Female
+5,H. A. MAS?AD IKHSAN,N,Laki-Laki,KOTAWARINGIN TIMUR,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Male
+6,"PUTRI ILMIA DZIKRI ANINDHITA, S.H.",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Kalimantan Tengah,Kalimantan Tengah,Female
+1,"GUSTI ISKANDAR SA, S.E., M.H.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,Ir. AHMADI NOOR SUPIT,Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Male
+3,"MIRZA PRAMESWARI SAIFUDDIN, S.Sos., M.M.",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,"Drs. H. BAMBANG HERI PURNAMA, S.T., S.H., M.H.",Y,Laki-Laki,KOTA BANJARMASIN,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Male
+5,"NURUL AISATU RIDA, S.S.",N,Perempuan,KOTA BANJARBARU,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Female
+6,"NAWANG WIJAYATI, S.H.",N,Perempuan,KOTA BANJARMASIN,Partai Golongan Karya,Golkar,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,"H. HASNURYADI SULAIMAN, M.A.B.",Y,Laki-Laki,KOTA BANJARMASIN,Partai Golongan Karya,Golkar,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,"HJ. SYARIFAH SANTIYANSYAH, S.H.",N,Perempuan,TANAH BUMBU,Partai Golongan Karya,Golkar,Kalimantan Selatan II,Kalimantan Selatan,Female
+3,"Dr. H. BARDIYANSYAH, M.M.",N,Laki-Laki,KOTA BANJARMASIN,Partai Golongan Karya,Golkar,Kalimantan Selatan II,Kalimantan Selatan,Male
+4,"MERY ROSIANTI, S.H",N,Perempuan,KOTA BANJARMASIN,Partai Golongan Karya,Golkar,Kalimantan Selatan II,Kalimantan Selatan,Female
+5,NASIB ALAMSYAH,N,Laki-Laki,KOTA BANJARBARU,Partai Golongan Karya,Golkar,Kalimantan Selatan II,Kalimantan Selatan,Male
+1,"Dr. Ir. HETIFAH SJAIFUDIAN, MPP",Y,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Female
+2,M. ARIEF PAHLEVI PANGERANG,N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Male
+3,"DACHLIA HARAHAP, S.H",N,Perempuan,PENAJAM PASER UTARA,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Female
+4,"RUDY MAS'UD, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Male
+5,"DEWI SARTIKA, S.H., M.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Female
+6,"DAHRI YASIN, S.H., M.H",N,Laki-Laki,KOTA SAMARINDA,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Male
+7,"Ir. ADI DARMA, M.Si",N,Laki-Laki,KOTA BONTANG,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Male
+8,"Dra. RINA LADEN, M.M",N,Perempuan,KOTA SAMARINDA,Partai Golongan Karya,Golkar,Kalimantan Timur,Kalimantan Timur,Female
+1,DR. JERRY SAMBUAGA,N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Male
+2,"IMELDA DIANA RONDONUWU, S.E., M.Si",N,Perempuan,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Female
+3,"Ir. MARHANY VICTOR POLY PUA, M.A",N,Laki-Laki,KOTA MANADO,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Male
+4,ADRIAN JOPIE PARUNTU,N,Laki-Laki,MINAHASA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Male
+5,Drs. Hi. DJELANTIK MOKODOMPIT,N,Laki-Laki,KOTA KOTAMOBAGU,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Male
+6,Dra. HERMIN RIRISWATI,N,Perempuan,KEPULAUAN SANGIHE,Partai Golongan Karya,Golkar,Sulawesi Utara,Sulawesi Utara,Female
+1,H. MUHIDIN MOHAMMAD SAID,Y,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Male
+2,"NURMAWATI DEWI BANTILAN, S.E., M.H.",N,Perempuan,SIGI,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Female
+3,"SUKRISNANTO SETJOADI, M.A., Sc.",N,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Male
+4,WISNU WAHYUDIN PETTALOLO,N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Male
+5,FRANSISCA RISTRIA JAYA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Female
+6,"AGUSTINA HAYATI DUPA MELAHA, S.T.",N,Perempuan,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Female
+7,"SUPRIANUS KANDOLIA, S.H",N,Laki-Laki,KOTA PALU,Partai Golongan Karya,Golkar,Sulawesi Tengah,Sulawesi Tengah,Male
+1,"Drs. HAMKA B. KADY, M.S.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,"ERNAWATI TAHANG, S.E",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Female
+3,HAKIM KAMARUDDIN,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Male
+4,ST. DIZA RASYID ALI,N,Perempuan,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Female
+5,MOESTAPA MR,N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Male
+6,"Dr.dr. ULLA NUCHRAWATY, M.M.",N,Perempuan,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Female
+7,HOIST ZULKARNAIN BACHTIAR,N,Laki-Laki,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Male
+8,MUHAMMAD RISMAN PASIGAI,N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Selatan I,Sulawesi Selatan,Male
+1,"H. ANDI RIO IDRIS PADJALANGI, S.H., M.Kn.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,"H.A.NURSYAM HALID, S.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,"HJ ERNA RASYID TAUFAN, S.E., M.Pd",N,Perempuan,KOTA PARE PARE,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,"SYAMSUL BACHRI, M.Sc.",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,"MUH YASIR, S.E., M.M",N,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,HJ. RISMAYANI,N,Perempuan,PANGKAJENE DAN KEPULAUAN,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Female
+7,"SUPRIANSA, S.H., M.H",N,Laki-Laki,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+8,"ILHAM NOER PUTRI, S.H",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Female
+9,"YASIR MACHMUD, S.E",N,Laki-Laki,BONE,Partai Golongan Karya,Golkar,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,"drg. HJ. ANDI FAUZIAH PUJIWATIE HATTA, S.K.G.",Y,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Female
+2,Ir. ABDILLAH NATSIR,N,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,Dra. ANDI ASTUTY ATTAS,N,Perempuan,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Female
+4,"EMIR BARAMULI, M.B.A",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,"HASRUL, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Male
+6,"ALBERTIEN ENANG PIRADE, S.E., M.Sc",N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,"MUHAMMAD FAUZI, S.E",N,Laki-Laki,LUWU UTARA,Partai Golongan Karya,Golkar,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,"Ir. RIDWAN, BAE",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,AMIN NGABALIN,N,Laki-Laki,MANOKWARI,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,"YULIANA, S.E., M.Si",N,Perempuan,KOTA KENDARI,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,"ABDUL RAHMAN FARISI, S.E., M.S.E.",N,Laki-Laki,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Male
+5,"FARID BAKRI, S.Psi.",N,Laki-Laki,BOMBANA,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Male
+6,"LENI ANDRIANI, B.Bus., M.Com",N,Perempuan,JAKARTA UTARA,Partai Golongan Karya,Golkar,Sulawesi Tenggara,Sulawesi Tenggara,Female
+1,Drs. H. ROEM KONO,Y,Laki-Laki,JAKARTA BARAT,Partai Golongan Karya,Golkar,Gorontalo,Gorontalo,Male
+2,"Dra. HJ. IDAH SYAHIDAH RUSLI HABIBIE, M.H",N,Perempuan,KOTA GORONTALO,Partai Golongan Karya,Golkar,Gorontalo,Gorontalo,Female
+3,Ir. ETHON PARMAN LIHAWA,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Gorontalo,Gorontalo,Male
+1,"Drs. H. IBNU MUNZIR, M.AP",Y,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Sulawesi Barat,Sulawesi Barat,Male
+2,FAJRIANA FATNA. FS,N,Perempuan,KOTA MAKASSAR,Partai Golongan Karya,Golkar,Sulawesi Barat,Sulawesi Barat,Female
+3,IMELDA LILIANA,N,Perempuan,KOTA PALU,Partai Golongan Karya,Golkar,Sulawesi Barat,Sulawesi Barat,Female
+4,"ARSAD IDRUS, S.Sos",N,Laki-Laki,MAMUJU TENGAH,Partai Golongan Karya,Golkar,Sulawesi Barat,Sulawesi Barat,Male
+1,"EDISON BETAUBUN, S.H., M,H.",Y,Laki-Laki,KOTA BEKASI,Partai Golongan Karya,Golkar,Maluku,Maluku,Male
+2,RAYMOND C. SYAUTA,N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Maluku,Maluku,Male
+3,"MARLEEN.J PETTA, S.H",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Maluku,Maluku,Female
+4,"VIDIA MAYASARI, B.Sc.",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Maluku,Maluku,Female
+1,ALIEN MUS,N,Perempuan,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Maluku Utara,Maluku Utara,Female
+2,"HASANUDDIN MOCHDAR, S.H., Sp.N",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Maluku Utara,Maluku Utara,Male
+3,"Dr. SAIFUL BAHRI RURAY, S.H., M.Si.",Y,Laki-Laki,KOTA TERNATE,Partai Golongan Karya,Golkar,Maluku Utara,Maluku Utara,Male
+1,"PASKALIS KOSSAY, S.Pd., M.M",N,Laki-Laki,KOTA JAYAPURA,Partai Golongan Karya,Golkar,Papua,Papua,Male
+2,"TRIFENA M TINAL, B.Sc",N,Perempuan,MIMIKA,Partai Golongan Karya,Golkar,Papua,Papua,Female
+3,"ELION NUMBERI, S.Th.",Y,Laki-Laki,KOTA JAYAPURA,Partai Golongan Karya,Golkar,Papua,Papua,Male
+4,"SYAHMUD BASRI NGABALIN, S.T",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Papua,Papua,Male
+5,S. ADOLF. T. P. SIBURIAN,N,Laki-Laki,KOTA JAYAPURA,Partai Golongan Karya,Golkar,Papua,Papua,Male
+6,Ir. TUTIK KOESMINING,N,Perempuan,KOTA JAYAPURA,Partai Golongan Karya,Golkar,Papua,Papua,Female
+7,"AZIS SAMUAL, S.Sos., M.Si",N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Papua,Papua,Male
+8,H.M. RUDY JUNDANI,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Papua,Papua,Male
+9,"Dra. HULDA IDA IMBIRI, M.M",N,Perempuan,SUPIORI,Partai Golongan Karya,Golkar,Papua,Papua,Female
+10,"YAKOBUS JAGONG, S.T.P",N,Laki-Laki,BOGOR,Partai Golongan Karya,Golkar,Papua,Papua,Male
+1,"ROBERT J. KARDINAL, S.AB",Y,Laki-Laki,JAKARTA UTARA,Partai Golongan Karya,Golkar,Papua Barat,Papua Barat,Male
+2,"ORIGENES NAUW, S.Pd",N,Laki-Laki,KOTA SORONG,Partai Golongan Karya,Golkar,Papua Barat,Papua Barat,Male
+3,"EMY MARIYATI, S.H",N,Perempuan,KOTA KEDIRI,Partai Golongan Karya,Golkar,Papua Barat,Papua Barat,Female
+1,"H. M. ARSYAD THALIB, S.E., M.Si",N,Laki-Laki,NUNUKAN,Partai Golongan Karya,Golkar,Kalimantan Utara,Kalimantan Utara,Male
+2,"KUNTOMO JENAWI, S.E., M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Kalimantan Utara,Kalimantan Utara,Male
+3,"AMIRAH KACA, S.T., M.P.A.",N,Perempuan,KOTA BANDUNG,Partai Golongan Karya,Golkar,Kalimantan Utara,Kalimantan Utara,Female
+1,"Ir. H. S.W. YUDHA, M.Sc.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Male
+2,"Dra. HJ. HAENY RELAWATI R.W, M.Si.",N,Perempuan,TUBAN,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Female
+3,"GUNAWAN HIDAYAT, S.T., M.T.",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Male
+4,"Ir. RUSNILAWATI, M.M",N,Perempuan,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Female
+5,"HEPPY DWI BAYU WAHONO, S.I.P",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Male
+6,JOKO PURWANTO,N,Laki-Laki,BOJONEGORO,Partai Golongan Karya,Golkar,Jawa Timur IX,Jawa Timur,Male
+1,PRIHADI SANTOSO,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Male
+2,Ir. EDDY KUNTADI,N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Male
+3,"NURNAVIA MALIK ARROSYIDAH, S.H",N,Perempuan,BOGOR,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Female
+4,"AHMAD LABIB, S.H.I., M.H.",N,Laki-Laki,GRESIK,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Male
+5,ABD HAFID BASO,N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Male
+6,"DYAH RORO ESTI W.P, B.A., M.Sc",N,Perempuan,KOTA TANGERANG SELATAN,Partai Golongan Karya,Golkar,Jawa Timur X,Jawa Timur,Female
+1,H. ZAINUDIN AMALI,Y,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Male
+2,"ARMAN AMIR, S.E",N,Laki-Laki,JAKARTA SELATAN,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Male
+3,"MUAYYANAH, S.Pd.I",N,Perempuan,SUMENEP,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Female
+4,"RIYONO ASNAN, S.E., M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Male
+5,"ACHMAD SUHAWI, S.T., M.Si",N,Laki-Laki,JAKARTA PUSAT,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Male
+6,"RACHMA ERNA WATI, S.Sos",N,Perempuan,SIDOARJO,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Female
+7,MUHAMMAD ALI RIDHA,N,Laki-Laki,JAKARTA TIMUR,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Male
+8,HOIRUN NISAK,N,Perempuan,SAMPANG,Partai Golongan Karya,Golkar,Jawa Timur XI,Jawa Timur,Female

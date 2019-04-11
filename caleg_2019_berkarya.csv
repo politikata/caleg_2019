@@ -1,0 +1,553 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,"NURCHALIS, SP., MSi.",N,Laki-Laki,KOTA BANDA ACEH,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Male
+2,"Dr. Ir. JAMIL ANSARI, SH, MM",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Male
+3,"IRA HADIATI, SH",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Female
+4,"H. JUNAIDI, SE",N,Laki-Laki,KOTA BANDA ACEH,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Male
+5,SUMIATI,N,Perempuan,KOTA BANDA ACEH,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Female
+6,DASLELIATI,N,Perempuan,KOTA BANDA ACEH,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Female
+7,"H. SAYED FUAD ZAKARIA, SE",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Aceh I,Aceh,Male
+1,Drs. TEUKU BUSTAMI UMAR,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Male
+2,"Drs. T.A. RAHMAN ALBA, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Male
+3,SELVI OKTARICA,N,Perempuan,ACEH UTARA,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Female
+4,"H. NASRUL FUAD, SE, AK",N,Laki-Laki,KOTA BOGOR,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Male
+5,SUNDARI,N,Perempuan,KOTA BANDA ACEH,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Female
+6,HAMDANI IDRIS,N,Laki-Laki,KOTA LHOKSEUMAWE,Partai Berkarya,Partai Berkarya,Aceh II,Aceh,Male
+1,"RAJAMIN SIRAIT, SE",N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+2,"IRJEN POL. (PURN) Drs. H. WISJNU AMAT S., SH",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+3,ALDANALIA DELVI,N,Perempuan,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Female
+4,"BOBBY APRILIANO SYAM LUBIS, SE",N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+5,"MURNI ABRIDAYANI NST, S.PDI",N,Perempuan,SERDANG BEDAGAI,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Female
+6,JUNAIDI SIBUEA,N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+7,Drs. H. ZAINAL ARIFIN,N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+8,YANNI,N,Perempuan,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Female
+9,RAMLAN,N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Sumatera Utara I,Sumatera Utara,Male
+1,"Prof. ZAINAL ARIFIN HASIBUAN, Ph.D",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+2,"RIMSO MARULI SINAGA, SH, MH",N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+3,DEVA RUFI AGNESTIN,N,Perempuan,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Female
+4,"PDT AMI HARI HONDO, S.TH",N,Laki-Laki,DELI SERDANG,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+5,Drs. ALAMAT SINAMBELA,N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+6,RAMAYANTI LUBIS,N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Female
+7,Dra. JULITA INDIANI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Female
+8,MUHAMMAD SULAIMAN BUDI NASUTION,N,Laki-Laki,PADANG LAWAS,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+9,ONDIHON DOLI YOHANES P,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Sumatera Utara II,Sumatera Utara,Male
+1,"EKA HADI SUCIPTO, SE.",N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Male
+2,"AHMAD BAY LUBIS, S.H., M.H.",N,Laki-Laki,KOTA MEDAN,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Male
+3,ERVINA,N,Perempuan,NIAS,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Female
+4,"WINTER EDUWARD SITUMORANG, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Male
+5,JASMINE RAVASIA,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Female
+6,Ir. NEFONTA SEMBIRING,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Sumatera Utara III,Sumatera Utara,Male
+1,WARTINI,N,Perempuan,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Female
+2,Ir. INDRA SYARIF,N,Laki-Laki,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Male
+3,Hj. FRISNI TANTRI,N,Perempuan,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Female
+4,"ANDI TASWIN, SH, MM",N,Laki-Laki,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Male
+5,"KHADIJAH, S.PD.I., M.PD.",N,Perempuan,SOLOK,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Female
+6,"AHMAD RIANTO, A.Md",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Male
+7,ISMAIL NOVENDRA,N,Laki-Laki,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat I,Sumatera Barat,Male
+1,DONALD,N,Laki-Laki,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Male
+2,ANDRI YANI SANUSI,N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Male
+3,FITRIA,N,Perempuan,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Female
+4,"SYAFRIJON, SH, MM",N,Laki-Laki,PASAMAN BARAT,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Male
+5,"ENDRIJON, B.Sc.",N,Laki-Laki,LIMA PULUH KOTA,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Male
+6,SUSI FIRDIANINGSIH,N,Perempuan,KOTA PADANG,Partai Berkarya,Partai Berkarya,Sumatera Barat II,Sumatera Barat,Female
+1,FAJAR MENANTI SIMANJUNTAK,N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Male
+2,"Hj. HAFSYAH, SE",N,Perempuan,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Female
+3,PRESTASI PRAJA,N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Male
+4,"T. ALMIRA VANESA HELDY, MBA",N,Perempuan,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Female
+5,Drs. H. FAHRULLAZI,N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Male
+6,TENGKU AFUARAHIM,N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau I,Riau,Male
+7,MARSELIA ROSADILA,N,Perempuan,ROKAN HILIR,Partai Berkarya,Partai Berkarya,Riau I,Riau,Female
+1,"H. ERWAN ARDIAN SIMBOLON, SH",N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau II,Riau,Male
+2,JERRY SAPUTRA,N,Laki-Laki,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau II,Riau,Male
+3,MEYLINA PATRICIA BEATRIX TAMBA,N,Perempuan,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau II,Riau,Female
+4,"Dr. R. SRI HANDAYANI, SE, MM",N,Perempuan,INDRAGIRI HILIR,Partai Berkarya,Partai Berkarya,Riau II,Riau,Female
+5,MISBAH NASUTION,N,Perempuan,KOTA PEKANBARU,Partai Berkarya,Partai Berkarya,Riau II,Riau,Female
+6,"YANTI MARIA, SH",N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Riau II,Riau,Female
+1,"Dr. Ir. Hj. HARIATIA, ME, M.Si.",N,Perempuan,KOTA JAMBI,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Female
+2,SABRISAL,N,Laki-Laki,KOTA JAMBI,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Male
+3,"BAMBANG HARYANTO, S.Sos.",N,Laki-Laki,KARAWANG,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Male
+4,"H. ABBAS ABUBAKAR, SH",N,Laki-Laki,KOTA JAMBI,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Male
+5,"Dr. FIRDAUS NUR, SE, MM",N,Laki-Laki,KOTA JAMBI,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Male
+6,"YULI ENDAH WULAN SARI, SH",N,Perempuan,KOTA JAMBI,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Female
+7,"DESSIANA SAVITRI, SH",N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jambi,Jambi,Female
+1,Drs. MUHAMMAD SAJID,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Male
+2,"H.F.R GHANTY SJAHABUDIN, SH, MM",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Male
+3,SITI SUNDARI,N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Female
+4,"ISMAIL ABUBAKAR, SE",N,Laki-Laki,BANYUASIN,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Male
+5,AGUSNAN,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Male
+6,RA. AZIZAH,N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Female
+7,"ELLYA INDAH LESTARI, S.Ikom",N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Female
+8,RATNA NOVI HARTATI,N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan I,Sumatera Selatan,Female
+1,H. ROSIHAN ARSYAD,N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+2,"RAHMAT, SH",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+3,"ELYU CHOMISAH, S.IP, M.KES",N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Female
+4,"H. ZAINUL BACHRI HAZ, S.IP",N,Laki-Laki,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+5,"TARMIZI, ST, MM",N,Laki-Laki,KOTA PAGAR ALAM,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+6,"Dr. SUNDA ARIANA, M.Pd., M.M",N,Perempuan,KOTA PALEMBANG,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Female
+7,NINING SARTIKA,N,Perempuan,OGAN KOMERING ILIR,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Female
+8,"ADI GUNA, SST",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+9,YUDI AFRIANDI,N,Laki-Laki,OGAN KOMERING ILIR,Partai Berkarya,Partai Berkarya,Sumatera Selatan II,Sumatera Selatan,Male
+1,"AZWAR BOERHAN, M. ENG. SC",N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Bengkulu,Bengkulu,Male
+2,"SEPTI EFIYETI, SH",N,Perempuan,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Bengkulu,Bengkulu,Female
+3,DRS. HENDARMIN AFANDI,N,Laki-Laki,KOTA BENGKULU,Partai Berkarya,Partai Berkarya,Bengkulu,Bengkulu,Male
+1,"ADE IRMA JAZULI, SH",N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Female
+2,Drs. NATA BUANA,N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Male
+3,"Hj. EVA KARLENA, SE",N,Perempuan,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Female
+4,ARDIANSYAH AMRI,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Male
+5,IDA FARIDA,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Female
+6,ARIF BUDIMAN,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Male
+7,"Dr. Hj. ZULIANA ABIDIN, SE, M.Si.",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Female
+8,AZWAN SAPRANI,N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Male
+9,"DEDY SETIAWAN, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Male
+10,NURDIANA HASANAH,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Lampung I,Lampung,Female
+1,"GUNTHAR HENRI GAMAL BACHROEMSJAH, SH",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+2,"H. SUGENG RUSMAN, SE, MM",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+3,FITRIYAH,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Female
+4,"M. OKI UDAYANA, SE",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+5,"ANDI EFFENDI, SE",N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+6,"IRMA, SE",N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Female
+7,"DION HARDI, BA",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+8,"KODARI, SE",N,Laki-Laki,LAMPUNG UTARA,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+9,IRMA HANDAYANI,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Female
+10,Ir. ANDI BOHAR ALAM,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Lampung II,Lampung,Male
+1,"SUPANDI AR, S.Sos, M. Hum",N,Laki-Laki,KOTA BATAM,Partai Berkarya,Partai Berkarya,Kepulauan Riau,Kepulauan Riau,Male
+2,MUHAMMAD NAS,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Kepulauan Riau,Kepulauan Riau,Male
+3,SRI TARIATUN AMPERANINGSIH,N,Perempuan,KOTA BATAM,Partai Berkarya,Partai Berkarya,Kepulauan Riau,Kepulauan Riau,Female
+1,Ir. MUHAMMAD SAMUEL WIDONO,N,Laki-Laki,KOTA PANGKALPINANG,Partai Berkarya,Partai Berkarya,Bangka Belitung,Bangka Belitung,Male
+2,"HAFIZ NURALDIN BENJAMIN, S.Kom",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Bangka Belitung,Bangka Belitung,Male
+3,MULYANI MEMEN SASMINTA,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Bangka Belitung,Bangka Belitung,Female
+1,"H. DADANG S. EKADIREJA, S.IP",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Male
+2,TB TRIYATNA DJAJASANTOSA,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Male
+3,"FITRISNA, SSi, Apt",N,Perempuan,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Female
+4,"Drs. H. AZHARI, MM",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Male
+5,"YODI RUSTANDI, S.Sos.",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Male
+6,"ENNI ERYANI, SH., MBA.",N,Perempuan,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Female
+7,"YULIA RAMALIA, SH",N,Perempuan,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat I,Jawa Barat,Female
+1,"Drs. H. MARWAN EFFENDI, SH., M.Si.",N,Laki-Laki,BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+2,"Ir. H. ROESTANTO W D, M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+3,"Dr. Hj. NENENG NENIH, MP., S.Pd",N,Perempuan,BANDUNG BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Female
+4,RACHMA SUTANTY,N,Perempuan,BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Female
+5,DENNY SHARIEFFUDIN,N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+6,"Dra. ALIDA HANDAU LAMPE G., M.Si.",N,Perempuan,BANDUNG BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Female
+7,HILMAN BUDI BADARUSUHADA,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+8,"IWAN RIDWAN, SH",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+9,Drs. MUCHTAR SOLI,N,Laki-Laki,BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Male
+10,FITRIAH LINDAWATI,N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat II,Jawa Barat,Female
+1,"IYET RACHMAWATI, SH",N,Perempuan,KOTA BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Female
+3,PEPPY BADRU FATAHILLAH,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Male
+4,R.D. NAULITA D. SIAGIAN,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Female
+5,"DJOKO WISENO, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Male
+6,"H. ALVIN NUGRAHA, S.H., MKn., LLM",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Male
+7,"KH. AM. SAEPUDIN, MA",N,Laki-Laki,SUKABUMI,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Male
+8,INDAH LESTARI,N,Perempuan,BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Female
+9,MUAMAR TORIK,N,Laki-Laki,KOTA BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat III,Jawa Barat,Male
+1,RITA IRAWATI PRIATNA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Female
+2,MUHAMAD ARAFAH,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Male
+3,EDDY MUNZIRRIAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Male
+4,VIDYA WIDYASTUTI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Female
+5,"ERWIN S.H., MH",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Male
+6,"Dr. dr. MARULI MANGUNSONG, SpS, M.Epid",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IV,Jawa Barat,Male
+1,"AHMAD MUHAJIR, SE.MM",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+2,"Hj. TINTIN HENDRAYANI, S.IP",N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Female
+3,"Mayjen TNI (Purn). MALIKI MIFT, SIP, M.H.",N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+4,Ir. H. GUNAWAN HASAN,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+5,"NAZARUDIN, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+6,ELLY KARLINA,N,Perempuan,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Female
+7,"YONSAH MINANDA, SH., MH",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+8,"DONY ENDRASSANTO, SH",N,Laki-Laki,KOTA BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Male
+9,NONI LISDIANA SARI,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat V,Jawa Barat,Female
+1,"RADEN ANDREAS NANDIWARDHANA, SE",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Male
+2,Drs. BASRI CAKO,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Male
+3,YANTI OCTAVIA,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Female
+4,H. ACEP SAEPUDIN,N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Male
+5,Ir. H. SORDANG NASUTION,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Male
+6,"NANDA SAFITRI LUBIS, SH",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VI,Jawa Barat,Female
+1,"INDIRAYANI KOSTININGTYAS, SE",N,Perempuan,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Female
+2,"Dr. Ir. H. NASEP RACHMAT, MM., M.Si.",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+3,Drs. BAMBANG ABIMANYU,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+4,"SONYA RIZKY, SE",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Female
+5,"ASEP AGUSTIAN, SH, MH",N,Laki-Laki,KARAWANG,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+6,Drs. ASEP ISHAK,N,Laki-Laki,KARAWANG,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+7,H. ABU BAKAR,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+8,"Dra. ASMAULHUSNA ADAM, M.Pd.",N,Perempuan,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Female
+9,"HARTONO SINGGIH, S.IP, MM",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+10,"BADRUL MUNIR, SE",N,Laki-Laki,KARAWANG,Partai Berkarya,Partai Berkarya,Jawa Barat VII,Jawa Barat,Male
+1,"LETJEN.TNI (Purn). YAYAT SUDRAJAT, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Male
+2,RATU RAJA ARIMBI NURTINA,N,Perempuan,KOTA CIREBON,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Female
+3,TATY SUHARTATY,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Female
+4,"ANDRIAN LAMEMUHAR, SE",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Male
+5,MIVA FAYROOZKA IRNANTIA,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Female
+6,DENNY SUPRIATNA,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Male
+7,SULTAN PASHA DJORGHI,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Male
+8,"FAUZIAH, S.Sos.",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Female
+9,LESINDAHETI MARSUDI,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat VIII,Jawa Barat,Female
+1,Dr. H. RM. PUPUNG SUHARIS,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Male
+2,"Ir. H. DEDI NURYANA FIRDAUS, MH",N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Male
+3,DWI SURYAWATI SAID,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Female
+4,Drs. H. TJUTJU SACHRUM,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Male
+5,R. LILY HILDA,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Female
+6,"Dr. Drs. H. EMAN SUDIRMAN, MS",N,Laki-Laki,MAJALENGKA,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Male
+7,"Ir. CECEP RUKMANA R., MM",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Male
+8,APNI YULIA SARI,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat IX,Jawa Barat,Female
+1,Drs. H. EKA SANTOSA,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Male
+2,"Hj. LESTARI YUSENO, SH",N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Female
+3,SIR JOHN,N,Laki-Laki,BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Male
+4,AHMAD JAYA ADIGUNA,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Male
+5,MULYADI ELHAN ZAKARIA,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Male
+6,NUNI HARMAYANTI,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Female
+7,AVERINA OKTAVIA MENGKO,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat X,Jawa Barat,Female
+1,Hj. SARIMAYA SE,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Female
+2,HASANUDDIN SIBUEA,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+3,"ASEP HERU ROCHIMAT, S.Kom",N,Laki-Laki,KOTA TASIKMALAYA,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+4,H. CEP MIMIT,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+5,VELLY KRISTIANTI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Female
+6,Ir. DADUN NAJMU ZAMAN,N,Laki-Laki,KOTA TASIKMALAYA,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+7,DONNY KESUMA,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+8,"MONALISA, S.Si, M.Si",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Female
+9,"Drs. H. JAJANG SUHERMAN, MBA, MM",N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+10,RUDI ENDANG KURNIAWAN,N,Laki-Laki,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Barat XI,Jawa Barat,Male
+1,MUHAMMAD ALI REZA,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Male
+2,"OKTOBERIANDI, SH",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Male
+3,Hj. MEIZA TURRIDA ILHAM,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Female
+4,"Ir. AZWARDY AZHAR, S.E., M.Si.",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Male
+5,"Dr. ZAHARA TUSSOLEHA RONY, M.M.",N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Female
+6,HENCE CARLOS KAPARANG,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,DKI Jakarta I,DKI Jakarta,Male
+1,VASKO RUSEIMY,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Male
+2,"NINA KRISNAWATI, SE",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Female
+3,SRI NURHANDAYANI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Female
+4,"INDRA DUWILA, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Male
+5,Drs. H. MAHFUDZ DJAELANI,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Male
+6,MUHAMMAD AMIN BN.APPA,N,Laki-Laki,,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Male
+7,Dra. H. NURFITRIA FARHANA,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta II,DKI Jakarta,Female
+1,RASLINNA RASIDIN,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Female
+2,"INDIRA RATNA NINGSIH, SH",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Female
+3,Dr. ESTHER RYAN M MANDALAWATI,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Female
+4,MUHAMMAD RIDWAN,N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Male
+5,"PUTU KAMIANI, SH",N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Female
+6,Ir. KH. ERMAS ANDICO SYAMDA,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Male
+7,ELIZE MARIA TUWAHATU,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Female
+8,RANTO M.H. MANIK,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,DKI Jakarta III,DKI Jakarta,Male
+1,"Ir. HM. SLAMET WARSITO, MT",N,Laki-Laki,PATI,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Male
+2,JUANDA SETIA KIAI DEMAK,N,Laki-Laki,KOTA SEMARANG,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Male
+3,"RETNO BEKTI LESTARI, SH",N,Perempuan,KOTA SALATIGA,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Female
+4,"RIVER CHANDRA KUSUMA WINTIO, S.T",N,Laki-Laki,KOTA SEMARANG,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Male
+5,R.M. A. SYARIF HIDAYAT,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Male
+6,MEUTIA DEWI,N,Perempuan,KUDUS,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Female
+7,SITI ANISSA TRI HAPSARI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Female
+8,"EDY MULYANTO, S.Si.T.,M.Si.,M.MAR",N,Laki-Laki,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah I,Jawa Tengah,Male
+1,"PANDUWINATA FN ARIFIN, S.Si., MT",N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Jawa Tengah II,Jawa Tengah,Male
+2,ROCHMIYATI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah II,Jawa Tengah,Female
+3,ARIS TIANTO,N,Laki-Laki,KUDUS,Partai Berkarya,Partai Berkarya,Jawa Tengah II,Jawa Tengah,Male
+4,RENI HARDITA GUNAWATI,N,Perempuan,BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Tengah II,Jawa Tengah,Female
+5,"KRT. CHRISNA ATMADJI, SE",N,Laki-Laki,KOTA SEMARANG,Partai Berkarya,Partai Berkarya,Jawa Tengah II,Jawa Tengah,Male
+1,"H. SUWITO, SH",N,Laki-Laki,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Male
+2,"Dr. WULAN WAHYUNING, M.Pd.",N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Female
+3,FAIZAL HANIF,N,Laki-Laki,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Male
+4,"ADITYA RUDI HERMAWAN, S.E.",N,Laki-Laki,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Male
+5,GALUH KARTIKA,N,Perempuan,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Female
+6,MAWARDI,N,Laki-Laki,CIANJUR,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Male
+7,"NURAINI TASRIFANTI, S.T",N,Perempuan,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Female
+8,"BAYU SAKTIAWAN, S.Si.",N,Laki-Laki,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Male
+9,SYAFIRA ZALZA BELLA GUPITA,N,Perempuan,GROBOGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah III,Jawa Tengah,Female
+1,"KPAA. SURO AGUL AGUL H. BEGUG POERNOMOSIDI, SH., MM., Ph.D",N,Laki-Laki,KOTA SURAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Male
+2,EDDY BASUKI,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Male
+3,"NINIK WIDAYANINGSIH ERMA WAHYUNI, SE.,M.Si.",N,Perempuan,KOTA SURAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Female
+4,IRENE MAYA SADARINDAH,N,Perempuan,BOYOLALI,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Female
+5,HARIS FIRMANSYAH TANJUNG,N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Male
+6,KARNI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah IV,Jawa Tengah,Female
+1,"PURWANTO, SE, M.Par",N,Laki-Laki,KOTA SURAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Male
+2,RADIYANTO WIBOWO,N,Laki-Laki,KOTA SURAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Male
+3,"RA. RETNO PUSPITA MANDRAWATI KUSUMOWARDANI, S.E., M.M",N,Perempuan,KOTA YOGYAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Female
+4,DANI WIDYOTOMO SARWONO,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Male
+5,PRASATYA NINDITIA PUTRA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Male
+6,"WIWIK ISMUHARTI, SE, MM",N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Female
+7,"YULIANA SETIADI, SH",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Female
+8,REINNESE SUPIT POLII,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah V,Jawa Tengah,Male
+1,"MILASARI KUSUMO ANGGRAINI, SE",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Female
+2,"ALI MA'RUF, SH",N,Laki-Laki,TEMANGGUNG,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Male
+3,"RA. RETNO SETYOBOMA SAVITRI KUSUMO PUTRI, S.H.,M.M.,MBA",N,Perempuan,KOTA YOGYAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Female
+4,MUH TOYIB,N,Laki-Laki,MAGELANG,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Male
+5,DIDI HARMADI MOEDJONO,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Male
+6,"Hj. WINARNI, SH., M.Hum.",N,Perempuan,BANYUMAS,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Female
+7,SUPRIYANTO,N,Laki-Laki,WONOSOBO,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Male
+8,DHINAR AJENG FITRIANY,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah VI,Jawa Tengah,Female
+1,DWI HANDAYANI,N,Perempuan,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Female
+2,"CUNCUN KUSWENDA, S.Pd",N,Laki-Laki,KEBUMEN,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Male
+3,ADE ROSIYANA ULFAH,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Female
+4,AGUS WIDIARTO,N,Laki-Laki,KOTA SURAKARTA,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Male
+5,BISMA WIRANEGARA,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Male
+6,RUSMINAH YURVINA SALMAH,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Female
+7,AHMAD ZAKI NUR IHSAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah VII,Jawa Tengah,Male
+1,SRI RENGGA WIDIJARETNA,N,Perempuan,BANYUMAS,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Female
+2,EDWARD RAYMOND PAKASI,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Male
+3,BIN SUBIYANTO,N,Laki-Laki,KUDUS,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Male
+4,MUSAFA,N,Laki-Laki,BANYUMAS,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Male
+5,SHINTA GESTIRA,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Female
+6,"GATOT WIBOWO, S.T.",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Male
+7,SITI MUSLIMAH AMPERAWATI,N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Female
+8,Dr. ENDANG KAMARUDIN,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Jawa Tengah VIII,Jawa Tengah,Male
+1,Marsda TNI (Purn). HARYANTOYO,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Male
+2,Dr. H. TAUFIQ ABDUL HAKIM,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Male
+3,"Dra. IKA SARAWATI SARAH, MM.",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Female
+4,Ir. MOHAMMAD AEDY,N,Laki-Laki,KOTA BANJAR,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Male
+5,YASER ARAFAT,N,Laki-Laki,BREBES,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Male
+6,ALEMANTIS,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Female
+7,"ARMAN HUMONGGIO, SE, AK",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Male
+8,YAYANG NURHIKMAH,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Tengah IX,Jawa Tengah,Female
+1,SUMIHARJO P,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Male
+2,Drs. SUPRAYITNO,N,Laki-Laki,KOTA PEKALONGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Male
+3,ENDANG PURWANINGSIH,N,Perempuan,PEMALANG,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Female
+4,IWAN SETIAWAN,N,Laki-Laki,PEMALANG,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Male
+5,NUR CHASANAH,N,Perempuan,PEMALANG,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Female
+6,DEWI KHOTIJAH,N,Perempuan,PEKALONGAN,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Female
+7,SUYANTO,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Tengah X,Jawa Tengah,Male
+1,"SITI HEDIATI SOEHARTO, SE",N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Female
+2,"Ir. RACHMAD WIDIYANTO, M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Male
+3,MOCHAMAD SOLEH,N,Laki-Laki,SLEMAN,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Male
+4,"ANDIKA INDAH PURNAMASARI, SE.,M.Sc",N,Perempuan,BANTUL,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Female
+5,"DJOKO SETIJONO, S.IP.",N,Laki-Laki,KOTA YOGYAKARTA,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Male
+6,GESTY PROBOWATI W,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Female
+7,"Ir. HR. ENDRO WALUYO, M.Si",N,Laki-Laki,BANTUL,Partai Berkarya,Partai Berkarya,DI Yogyakarta,DI Yogyakarta,Male
+1,"Drs. H. PRIYO BUDI SANTOSO, M.AP",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+2,"Dr. AAD HARHARAH, MHA., FS.",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+3,Hj. PATRIA MUTIARA NUSA,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Female
+4,"Drs. EC. H. M. IMRON SYUKUR, MM",N,Laki-Laki,SIDOARJO,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+5,"Ir. H. BAMBANG SUTONO, M.Si",N,Laki-Laki,SIDOARJO,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+6,MARDIANA,N,Perempuan,BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Female
+7,Drs. MUBTADI,N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+8,"ROBERT MANTINIA, SE, SH, M.HUM.",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+9,YULIA PUSPITASARI ABADY,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Female
+10,"EKA SEPTIA DARMAWAN, SE",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur I,Jawa Timur,Male
+1,RIANG KULUP PRAYUDA,N,Laki-Laki,PASURUAN,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Male
+2,H. DIAN KOESWEDI,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Male
+3,"DEA MELANIE, SH",N,Perempuan,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Female
+4,MOH. SOFIE A. HASAN,N,Laki-Laki,PASURUAN,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Male
+5,"ABDUL KHALIQ, LC.",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Male
+6,ALIYAH QORI FARHARAN,N,Perempuan,PASURUAN,Partai Berkarya,Partai Berkarya,Jawa Timur II,Jawa Timur,Female
+1,"Ir. H. ACHMAD WAHYUDI, SH., MH.",N,Laki-Laki,BANYUWANGI,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Male
+2,"Drs. H. SUYANTO, S.IP., MA.",N,Laki-Laki,KOTA MALANG,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Male
+3,NURHAYATI,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Female
+4,AGUSTIAR DAMHURI,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Male
+5,Dra. MEISKE PAATH,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Female
+6,"H. DENI APRIANDI, SE, MH",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Male
+7,NOVRIDHA SHELLY NOOR AMALIA,N,Perempuan,BANYUWANGI,Partai Berkarya,Partai Berkarya,Jawa Timur III,Jawa Timur,Female
+1,"Drs. ANTON SETIADJI, S.H., M.H",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Male
+2,"ZAINUL HASAN, S.Sos.",N,Laki-Laki,JEMBER,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Male
+3,"Dr. Hj. ZAWIAH RAMLIE, S.K.M, S.H, M.Sc., M.H.",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Female
+4,Drs. H. AUNUL HAKIM,N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Male
+5,"RIZKY PUTRA YUDHAPRADANA, S.H",N,Laki-Laki,KOTA BATU,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Male
+6,YULISDA DEA AGISTA,N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur IV,Jawa Timur,Female
+1,"SONNY PUDJISASONO, SH",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Male
+2,"Dr. JOKO NUGROHO, S.PAK., MA.",N,Laki-Laki,MALANG,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Male
+3,WINA MAGRIET,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Female
+4,"GUNADI HANDOKO, SH., MM., M.HUM., C.L.A",N,Laki-Laki,KOTA MALANG,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Male
+5,JOEL STEVE O TICOALU,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Male
+6,RUSMINI,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Female
+7,AGUS SUGIANTO,N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Male
+8,REVALIA,N,Perempuan,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Jawa Timur V,Jawa Timur,Female
+1,"Hj. AISYAH ULFA SYAFII, M.Kom",N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Female
+2,ABDUL KHALEK LUBIS,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+3,"SOEBAGIJO, SH, M.Hum.",N,Laki-Laki,KOTA KEDIRI,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+4,"LAMAT SUBJAKTO, SH",N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+5,ARI SUKMA WATI,N,Perempuan,KEDIRI,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Female
+6,CHERRY GAUTIER FRANESIA,N,Laki-Laki,KOTA BOGOR,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+7,NADEA LAZUARDANI ZAHRA,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Female
+8,"DWI PUTRO MUDJIWIDODO, SH.",N,Laki-Laki,KOTA BLITAR,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+9,SOFYAN AMINULLOH,N,Laki-Laki,KOTA KEDIRI,Partai Berkarya,Partai Berkarya,Jawa Timur VI,Jawa Timur,Male
+1,Dra. MARDIANA INDRASWATI,N,Perempuan,SLEMAN,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Female
+2,"Ir. HARUN SUNARSO, M.Si",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Male
+3,"H. HERMAN SETIABUDI, SE",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Male
+4,SELLY ERNAWATI SURYANI,N,Perempuan,BOGOR,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Female
+5,Drs. H. A. HALIM RIADI,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Male
+6,SUWARNI,N,Laki-Laki,TRENGGALEK,Partai Berkarya,Partai Berkarya,Jawa Timur VII,Jawa Timur,Male
+1,"Dra. Hj. SITI FATIMAH, MM",N,Perempuan,JOMBANG,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Female
+2,Ir. H. SISWO IRYANA,N,Laki-Laki,JOMBANG,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+3,HANAPI ISHARYANTO,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+4,"NETRI UTAMI, SH.",N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Female
+5,WAHYUDIN SOFYAN,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+6,MOCHAMAD IRFAN YUSUF,N,Laki-Laki,JOMBANG,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+7,"YUSUF WIBISONO, SH, MM, MH",N,Laki-Laki,NGANJUK,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+8,"KUSNIARTIN FATIMAH, SH",N,Perempuan,MOJOKERTO,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Female
+9,"SUNTOKO, S.Sos., M.Si.",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+10,Drs. MUHAMMAD YUNAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur VIII,Jawa Timur,Male
+1,"MUHAMMAD YUSUF, SE",N,Laki-Laki,TUBAN,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Male
+2,KH. SYAIFUDIN NAWAWI,N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Male
+3,NUNIK TABAH ANDAYANI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Female
+4,H. SOEPARMO,N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Male
+5,"M. DWIYOGA KURNIAWAN, SH.",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Male
+6,NINA YUNIARSIH,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur IX,Jawa Timur,Female
+1,"Ir. ARIEF SOEMARTO, SH, MH",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Male
+2,"ARIEF CHANDRA, SH",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Male
+3,"FAHMA FARIHAH, A.Md.Far",N,Perempuan,NGAWI,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Female
+4,ASWIL DT. R. BILANG,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Male
+5,RETNO TRI MINARNI,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Female
+6,"RICKY WIBOWO TJAHJADI, ST., MM.",N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Jawa Timur X,Jawa Timur,Male
+1,"DJOKO EDHI SOETJIPTO ABDRAHMAN, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Male
+2,"FAIZ RAMZY RACHBINI, SE.",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Male
+3,ANA SUNARTI,N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Female
+4,HIDAYATULLAH NILAM,N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Male
+5,"ABDIL HALIMS STANI, ST., M.Sc.",N,Laki-Laki,BANGKALAN,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Male
+6,AYU DWI KURNIASARI,N,Perempuan,KOTA SEMARANG,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Female
+7,SYUKUR,N,Laki-Laki,BANGKALAN,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Male
+8,Hj. LYSTIANI DEWI NOVI ERTARINI,N,Perempuan,KOTA SEMARANG,Partai Berkarya,Partai Berkarya,Jawa Timur XI,Jawa Timur,Female
+1,"H. ANHAR, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Banten I,Banten,Male
+2,H. E. SYAMSUL BACHRI ARSUDIN,N,Laki-Laki,LEBAK,Partai Berkarya,Partai Berkarya,Banten I,Banten,Male
+3,"Dr. ELIYA, MARS",N,Perempuan,SERANG,Partai Berkarya,Partai Berkarya,Banten I,Banten,Female
+4,"TUBAGUS JIB MUHIBBUDIN, SH, MM, MBA",N,Laki-Laki,KOTA SERANG,Partai Berkarya,Partai Berkarya,Banten I,Banten,Male
+5,"Dra. RUSDIANA BARDIAN, MM",N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Banten I,Banten,Female
+6,"ILHAM AM., SH",N,Laki-Laki,KOTA SERANG,Partai Berkarya,Partai Berkarya,Banten I,Banten,Male
+1,H. R. S. PURBO ASMORO,N,Laki-Laki,SERANG,Partai Berkarya,Partai Berkarya,Banten II,Banten,Male
+2,"Drs. DIDI SUNARDI, M.Si",N,Laki-Laki,KOTA SERANG,Partai Berkarya,Partai Berkarya,Banten II,Banten,Male
+3,"Laksma TNI (Purn). YUTTI S HALILIN, SH",N,Perempuan,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Banten II,Banten,Female
+4,Laksmana Muda TNI (Purn) Drs. SONY SANTOSO,N,Laki-Laki,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Banten II,Banten,Male
+5,H. TB. LUCKY KAKING,N,Laki-Laki,KOTA SERANG,Partai Berkarya,Partai Berkarya,Banten II,Banten,Male
+6,"JULLYA FERONICA, SE",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Banten II,Banten,Female
+1,"SYAEFUNNUR MASZAH, SH, MM",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+2,KH. BAHANA JAALHAQ TAQWALLAH,N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+3,"RIA DAHLIA, S.Sos.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Banten III,Banten,Female
+4,"MUHAMMAD SIROT, SH, S.IP",N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+5,"Dr. ARIUS KARMAN, MARS",N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+6,"R. Ay. DEVI ANGGRAENI, Amd.TrU",N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Banten III,Banten,Female
+7,RHAZES FAZA ASRINDRA,N,Laki-Laki,TANGERANG,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+8,"TOMI SYAVITRA, S.Si, MM",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+9,"CATHY AHADIANTY, ST",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Banten III,Banten,Female
+10,"MUHAMAD ARYA WIJAYA, SH., S.Ag., M.Si., MH.",N,Laki-Laki,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Banten III,Banten,Male
+1,"Drs. DEWA BAGUS MADE SUHARYA, SH",N,Laki-Laki,KOTA DENPASAR,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+2,I WAYAN KUSMINTHA DUSAK,N,Laki-Laki,BOGOR,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+3,"NYOMAN PARTINI, SH., MH.",N,Perempuan,KOTA DENPASAR,Partai Berkarya,Partai Berkarya,Bali,Bali,Female
+4,I WAYAN WETHA,N,Laki-Laki,BADUNG,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+5,MADE KARTHA WIRATAMA,N,Laki-Laki,BULELENG,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+6,"LINA TRI WIJAYANTI, SE",N,Perempuan,KOTA DENPASAR,Partai Berkarya,Partai Berkarya,Bali,Bali,Female
+7,"IDA BAGUS PUTU PARTA, SE.",N,Laki-Laki,BADUNG,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+8,Ir. H. SULISTIYONO,N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Bali,Bali,Male
+9,NI KETUT TRISNAWATI,N,Perempuan,BADUNG,Partai Berkarya,Partai Berkarya,Bali,Bali,Female
+1,"Drs. H. SYAMSUDIN, MK",N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"Drs. H. IBRAHIM ISHAKA, M.M.",N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,"Dra. Hj. SYAMSIAH RAHIM, M.M.",N,Perempuan,BOJONEGORO,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,"DHARWATI PRATAMA SARI, ST, MT, M.Sc",N,Perempuan,KOTA MATARAM,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+2,"HAJI LALU WIRATMAJA, SH",N,Laki-Laki,LOMBOK TENGAH,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,"MUHAMMAD MASRI, S.T",N,Laki-Laki,KOTA MATARAM,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+4,"MAHMUDAWATI, ST",N,Perempuan,KOTA MATARAM,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+5,"BAMBANG SUJATMIKO, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+6,"ASIH ROSILAWATI, SE",N,Perempuan,KOTA MATARAM,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+7,"Drs. SYARAFUDDIN, SH, MM",N,Laki-Laki,KOTA MATARAM,Partai Berkarya,Partai Berkarya,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+1,"Dr. STEPHANUS PELOR, SH, MH",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,"Dr. Drs. FREDERIK FERNANDEZ, M.Pd.",N,Laki-Laki,KOTA SURABAYA,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,MARIE AVELIN KONTERIUS,N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,"Dr. CHRISTOFEL BAGAISAR, S.Pd., SS., M.Pd.",N,Laki-Laki,KOTA KUPANG,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,YOHANES JIMMY SILIMALAR,N,Laki-Laki,MANGGARAI BARAT,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+6,ANITA JEANNETTE PAATH,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+1,MARIA LILYANA MEKO,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+2,YOSEP FALENTINUS DELASALLE KEBO,N,Laki-Laki,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,"Drs. JAN CHRISTOFEL BENYAMIN, M.Si.",N,Laki-Laki,KOTA KUPANG,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+4,NUR INDAH SETIAWATI,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+5,"JOHN O SAITAKELA, S.T.",N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+6,LILIS LUSIANA,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+7,MUHAMAD LUDFY,N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+1,"SABLI AWALUDIN, SE, M.Si",N,Laki-Laki,MEMPAWAH,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Male
+2,"H. YASSIRLY BA'BUD, SE., MM",N,Laki-Laki,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Male
+3,LINDA FERDHITA KAUNANG,N,Perempuan,MEMPAWAH,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Female
+4,ACHMAD HAMID,N,Laki-Laki,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Male
+5,AWALUDIN,N,Laki-Laki,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Male
+6,HERTY VUSPITA,N,Perempuan,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Female
+7,"MUHAMMAD ADI CAHYONO, SH",N,Laki-Laki,KUBU RAYA,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Male
+8,EVELYN,N,Perempuan,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat I,Kalimantan Barat,Female
+1,"H. MUHAMMAD ALI ANAFIA, SH, M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Kalimantan Barat II,Kalimantan Barat,Male
+2,Dr. LAMBOK SIAHAAN,N,Laki-Laki,SANGGAU,Partai Berkarya,Partai Berkarya,Kalimantan Barat II,Kalimantan Barat,Male
+3,"HARINI, SE",N,Perempuan,SANGGAU,Partai Berkarya,Partai Berkarya,Kalimantan Barat II,Kalimantan Barat,Female
+4,"IMELDA KUEN, S.K.M., M.Si.",N,Perempuan,KOTA PONTIANAK,Partai Berkarya,Partai Berkarya,Kalimantan Barat II,Kalimantan Barat,Female
+1,"Ir. TIMERASI LABAT, M.Si.",N,Laki-Laki,KOTA PALANGKARAYA,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Male
+2,RAHMAWATI,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Female
+3,JECKY DAHIR,N,Laki-Laki,KOTA PALANGKARAYA,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Male
+4,"MELVAIDA LUMONGGO, SE, MM",N,Perempuan,KOTA PALANGKARAYA,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Female
+5,Drs. H. MOHAMAD FAUZI,N,Laki-Laki,KOTA PALANGKARAYA,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Male
+6,"ROBY DEDI, SH, M.Kn",N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Kalimantan Tengah,Kalimantan Tengah,Male
+1,Ir. H. EDI SURYADI,N,Laki-Laki,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,SAID ACHMAD ABDUL MALIK,N,Laki-Laki,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Male
+3,"SUSWI NINGSIH, S.Sos.",N,Perempuan,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,FARINA AGUSTIN,N,Perempuan,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Female
+5,"H. SUYATNO, M.Si.",N,Laki-Laki,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Male
+6,H. MUHAMMAD ALI RAHMAN,N,Laki-Laki,HULU SUNGAI TENGAH,Partai Berkarya,Partai Berkarya,Kalimantan Selatan I,Kalimantan Selatan,Male
+1,HABIB FATHURRACHMAN BAHASYIM,N,Laki-Laki,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,H. NOORWAHDIATSYAH,N,Laki-Laki,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan II,Kalimantan Selatan,Male
+3,NURFAJARIANTI,N,Perempuan,KOTA BANJARMASIN,Partai Berkarya,Partai Berkarya,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,"H. AKHMAD GOESRA, SH., M.Si.",N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Male
+2,Drs. RUKMINTO SETYO NUGROHO,N,Laki-Laki,KOTA BALIKPAPAN,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Male
+3,"ANDI SURIANI, S.Ag., M.A",N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Female
+4,"H. MUKARRAMAH, S.Hut",N,Laki-Laki,KOTA SAMARINDA,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Male
+5,"ROSTAN, SH, M.H",N,Laki-Laki,KOTA BONTANG,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Male
+6,"WIWI WIDANINGSIH, S.H",N,Perempuan,KOTA SAMARINDA,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Female
+7,Dra. ANNISA ASMAHAN BARAQBAH,N,Perempuan,KOTA BALIKPAPAN,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Female
+8,"ZAMBUDI SUSILO, S.T",N,Laki-Laki,KUTAI TIMUR,Partai Berkarya,Partai Berkarya,Kalimantan Timur,Kalimantan Timur,Male
+1,"PAULUS M. PANGAU, ST",N,Laki-Laki,KOTA MANADO,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Male
+2,NOVEMMY KHATARINA M.,N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Female
+3,MELKI MAN TUMBELAKA,N,Laki-Laki,KOTA JAYAPURA,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Male
+4,NAEMA S. BACHMID,N,Perempuan,GORONTALO,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Female
+5,"Dr. HOTMA RUMAHROBO, MS, EPID",N,Perempuan,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Female
+6,"Dr. STEPHANUS, M.Pd",N,Laki-Laki,KOTA MANADO,Partai Berkarya,Partai Berkarya,Sulawesi Utara,Sulawesi Utara,Male
+1,MAREYKE SUBUR INGKIRIWANG,N,Perempuan,KOTA BANDUNG,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Female
+2,M. RUSLI ZAMZAMMI SAID,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Male
+3,Hj. FATMAWATI NURDIN,N,Perempuan,KOTA PALU,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Female
+4,"H. HARMAN RAHMAT PANDIPA, SE",N,Laki-Laki,KOTA BEKASI,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Male
+5,SILVIA ASTRIANI,N,Perempuan,KOTA PALU,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Female
+6,JAMIL M. SYAH,N,Laki-Laki,DONGGALA,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Male
+7,"SONNY SEDANA, SE, M.Si.",N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Sulawesi Tengah,Sulawesi Tengah,Male
+1,"SUMARNI KAMARUDDIN, SH",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Female
+2,"Drs. TADJUDDIN NOER, MM",N,Laki-Laki,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,"Dr. Hj. SITTI ZAENAB DJAFFAR, SH, M.Kn",N,Perempuan,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Female
+4,"H. JAMALUDDIN AS, SH.",N,Laki-Laki,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,"MUSTAMIN ISHAQ RAGA, SH",N,Laki-Laki,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Male
+6,"JASMINI ZAINUDDIN, SE",N,Perempuan,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Female
+7,"MUHAMMAD IDI, SH",N,Laki-Laki,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Male
+8,"WAHYUDI PRASETIYA, SE, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Selatan I,Sulawesi Selatan,Male
+1,ZAINAL BINTANG,N,Laki-Laki,JAKARTA BARAT,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,Drs. H. A. M SAID PABOKORI,N,Laki-Laki,BONE,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,NAJWA ABDULLAH,N,Perempuan,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,Ir. H. KHAERUL,N,Laki-Laki,KOTA TANGERANG,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,"HENRAWAN, SE., MH",N,Laki-Laki,KOTA PARE PARE,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,LILY LAY,N,Perempuan,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Female
+7,"Drs. H. MUSTAMAR ARAS, SH, MH",N,Laki-Laki,BONE,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+8,CITRA WARGANI,N,Perempuan,GOWA,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Female
+9,"FIKRAM, SH",N,Laki-Laki,SOPPENG,Partai Berkarya,Partai Berkarya,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,"Dr. H. BADARUDDIN ANDI PICUNANG, ST, MM, M.AP, MT",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,"Ir. HM. SUAIB DIDU, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,"WAHIDA, SE",N,Perempuan,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Female
+4,"PITHER SINGKALI, SH, MH",N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,Hj. KASMIRAH,N,Perempuan,SIDENRENG RAPPANG,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Female
+6,"SITTI ROHANI, S.Ag.",N,Perempuan,PINRANG,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,"Drs. MATIUS BABBA PALULUN, BE., ST., MM",N,Laki-Laki,TORAJA UTARA,Partai Berkarya,Partai Berkarya,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,"DR. (HC). SUPRIADI, SH, M.H, Ph.D",N,Laki-Laki,KOTA KENDARI,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,"IHSANA NURLAILA, SE",N,Perempuan,KOTA KENDARI,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Female
+3,"YAYA ANSUR, S.Sos.",N,Laki-Laki,KONAWE,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Male
+4,SALEHUDDIN,N,Laki-Laki,KOTA BAU BAU,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Male
+5,INARTIN,N,Perempuan,KONAWE SELATAN,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Female
+6,Drs. JAMIL HANDALING,N,Laki-Laki,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,ADRIANSYAH PULUBUHU,N,Laki-Laki,KOTA GORONTALO,Partai Berkarya,Partai Berkarya,Gorontalo,Gorontalo,Male
+2,MARIALATTA B LATIEF,N,Perempuan,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Gorontalo,Gorontalo,Female
+3,MOHAMAD AKBAR BAUTY,N,Laki-Laki,JAKARTA TIMUR,Partai Berkarya,Partai Berkarya,Gorontalo,Gorontalo,Male
+1,Drs. ABD WARIS HASAN,N,Laki-Laki,POLEWALI MANDAR,Partai Berkarya,Partai Berkarya,Sulawesi Barat,Sulawesi Barat,Male
+2,"RATNA SOPIAH, SE",N,Perempuan,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Barat,Sulawesi Barat,Female
+3,NURHADIJAH,N,Perempuan,GOWA,Partai Berkarya,Partai Berkarya,Sulawesi Barat,Sulawesi Barat,Female
+4,"MEILANIA DWI HAPSARI, S.Kom.",N,Perempuan,KOTA MAKASSAR,Partai Berkarya,Partai Berkarya,Sulawesi Barat,Sulawesi Barat,Female
+1,FRENGKI TANNY BATUWAEL,N,Laki-Laki,BURU,Partai Berkarya,Partai Berkarya,Maluku,Maluku,Male
+2,"DANIEL PALAPIA, SH",N,Laki-Laki,KOTA AMBON,Partai Berkarya,Partai Berkarya,Maluku,Maluku,Male
+3,"NURLAILA LATUCONSINA, S.Ag.",N,Perempuan,KOTA AMBON,Partai Berkarya,Partai Berkarya,Maluku,Maluku,Female
+4,APRIANTY WIDYA TAHAPARY,N,Perempuan,MALUKU TENGAH,Partai Berkarya,Partai Berkarya,Maluku,Maluku,Female
+1,MUHAMMAD AULI ARMAIYN,N,Laki-Laki,SLEMAN,Partai Berkarya,Partai Berkarya,Maluku Utara,Maluku Utara,Male
+2,BOWIE SIGIT NUGROHO,N,Laki-Laki,KOTA DEPOK,Partai Berkarya,Partai Berkarya,Maluku Utara,Maluku Utara,Male
+3,dr. NABILA S. AHMAD,N,Perempuan,KOTA TERNATE,Partai Berkarya,Partai Berkarya,Maluku Utara,Maluku Utara,Female
+1,"H. HUTOMO MANDALA PUTRA, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+2,"BERTUS KOGOYA, SH",N,Laki-Laki,LANNY JAYA,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+3,"PUNGKY SUKMAWATI, SE, M.IP",N,Perempuan,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Papua,Papua,Female
+4,"ALEX HESEGEM, SE",N,Laki-Laki,KOTA JAYAPURA,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+5,"JONAH SOSTENES WEYAI, SE",N,Laki-Laki,KOTA JAYAPURA,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+6,BERINA WENDA,N,Perempuan,KOTA JAYAPURA,Partai Berkarya,Partai Berkarya,Papua,Papua,Female
+7,GEORGE LUKAS DAWIR,N,Laki-Laki,KEPULAUAN YAPEN,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+8,"DAVID SILAK, S.Sos.",N,Laki-Laki,JAYAPURA,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+9,RISMAWATI MIDA,N,Perempuan,KOTA JAYAPURA,Partai Berkarya,Partai Berkarya,Papua,Papua,Female
+10,"TIMED MAGAYANG, S.IP, M.Si.",N,Laki-Laki,YAHUKIMO,Partai Berkarya,Partai Berkarya,Papua,Papua,Male
+1,ABDUL HAKIM ACHMAD AITUARAUW,N,Laki-Laki,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Papua Barat,Papua Barat,Male
+2,ZAKARIAS HOROTA,N,Laki-Laki,MANOKWARI,Partai Berkarya,Partai Berkarya,Papua Barat,Papua Barat,Male
+3,ERNA FONATABA,N,Perempuan,JAKARTA UTARA,Partai Berkarya,Partai Berkarya,Papua Barat,Papua Barat,Female
+1,Dra. EC. OURIDA SESKANIA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Berkarya,Partai Berkarya,Kalimantan Utara,Kalimantan Utara,Female
+2,"H. MUH. AMIN, SP",N,Laki-Laki,JAKARTA SELATAN,Partai Berkarya,Partai Berkarya,Kalimantan Utara,Kalimantan Utara,Male
+3,BENNY RAPHAEL BENEDIKTUS KOWEL,N,Laki-Laki,KOTA SAMARINDA,Partai Berkarya,Partai Berkarya,Kalimantan Utara,Kalimantan Utara,Male

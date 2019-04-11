@@ -1,0 +1,485 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,Dr. (H.C.) Tgk. MUHAMMAD YUS,N,Laki-Laki,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Aceh I,Aceh,Male
+2,SUMARDI,N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Aceh I,Aceh,Male
+3,"SALAWATI DAHLAN MS, SE",N,Perempuan,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Aceh I,Aceh,Female
+4,DRS. H.MISWAR SULAIMAN,N,Laki-Laki,ACEH BESAR,Partai Bulan Bintang,PBB,Aceh I,Aceh,Male
+5,"Drs.. H.SJECH AHMADIN, MM",N,Laki-Laki,ACEH TENGGARA,Partai Bulan Bintang,PBB,Aceh I,Aceh,Male
+6,"MARDIANA, S.Sos.I",N,Perempuan,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Aceh I,Aceh,Female
+7,DHAHRATUL AINI,N,Perempuan,PIDIE,Partai Bulan Bintang,PBB,Aceh I,Aceh,Female
+1,"AZHARI CAGE, S.IP",N,Laki-Laki,ACEH UTARA,Partai Bulan Bintang,PBB,Aceh II,Aceh,Male
+2,"MAWARDI ABDULLAH, M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Aceh II,Aceh,Male
+3,"CUT AYU MAUIDHAH, S.Sos.I, M.Sos.",N,Perempuan,KOTA LHOKSEUMAWE,Partai Bulan Bintang,PBB,Aceh II,Aceh,Female
+4,"H. A. RIDWAN M DALLAH, SE",N,Laki-Laki,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Aceh II,Aceh,Male
+5,"ISWADI, M.Pd",N,Laki-Laki,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Aceh II,Aceh,Male
+6,"PIPIH SOPIAH, SE",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Aceh II,Aceh,Female
+1,"Drs. ALI AMRAN TANJUNG, SH, M.Hum",N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+2,Dra.. HJ. NOORBALQIS DRA,N,Perempuan,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Female
+3,DR. MASRI SITANGGANG,N,Laki-Laki,DELI SERDANG,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+4,"M SAIFULLAH, ST",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+5,"SA'DIAH, S.IP, M.Pd",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Female
+6,"TAUFIK QURRAHMAN, SE.",N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+7,"EPI ASRIANI, S.H.",N,Perempuan,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Female
+8,Ir. RUDY ABDUL RAHMAN,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+9,Hj. NURHEFTI DEWITA,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Female
+10,"MUHAMMAD YAHYA NASUTION, S.E.",N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara I,Sumatera Utara,Male
+1,Dr. Ir. MAHRIZAL MASRI,N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Male
+2,IR. DORIANGAT PAKPAHAN,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Female
+3,"SABAR SITANGGANG, M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Male
+4,Drs. AMARULLAH NASUTION,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Male
+5,"PEPTI ARNILA SARI, S.Psi",N,Perempuan,DELI SERDANG,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Female
+6,"IR. DOLI SYARIEF PULUNGAN, Mech Eng, MBA",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Male
+7,"EVI PRATIWI HANDAYANI, S.Sos",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Female
+8,"JULKIFLI MARBUN, M.A",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Utara II,Sumatera Utara,Male
+1,H. AZWIR,N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Male
+2,"HAKIM HATTA, A.Md",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Male
+3,FITRIANI,N,Perempuan,KOTA BINJAI,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Female
+4,"ROSMANIAR PAKPAHAN, SE., MM",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Female
+5,Drs. RABU ALAM SYAHPUTRA,N,Laki-Laki,DELI SERDANG,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Male
+6,"SALAMAH, SP",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Female
+7,"FARDIN HASIBUAN, S.T.",N,Laki-Laki,LANGKAT,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Male
+8,Drs. SAID DJAMALUL ABIDIN,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Sumatera Utara III,Sumatera Utara,Male
+1,"H. IRFIANDA ABIDIN, SE",N,Laki-Laki,KOTA PADANG,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Male
+2,"Dr. MASNADI, S.Kom, M.Kom",N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Male
+3,"DR. IR. LEONY LIDYA, MT",N,Perempuan,KOTA CIMAHI,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Female
+4,"JUMADI, S.Pd",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Male
+5,"Dr. SYAHRIL MUKTAR, Lc., ME",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Male
+6,Dra. ELMAYETTI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Female
+7,"PETRISON, SS",N,Laki-Laki,TANAH DATAR,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Male
+8,"IDA YANI NASROEN, S. S",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Sumatera Barat I,Sumatera Barat,Female
+1,"JELITA DONAL, Lc",N,Laki-Laki,KOTA PADANG,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Male
+2,"Hj. HAMIDAH YACOUB, B.A",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Female
+3,"RIFKI, S. Kom",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Male
+4,"DR. IR.. ATIFAH THAHA, MSC.",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Female
+5,RISWANDI,N,Laki-Laki,KOTA PAYAKUMBUH,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Male
+6,DRS. SYAMSIR ALAM,N,Laki-Laki,PASAMAN BARAT,Partai Bulan Bintang,PBB,Sumatera Barat II,Sumatera Barat,Male
+1,HARUN AL RASYID,N,Laki-Laki,KOTA PEKANBARU,Partai Bulan Bintang,PBB,Riau I,Riau,Male
+2,"H. JHON SATRI, SH., MH.",N,Laki-Laki,KOTA PEKANBARU,Partai Bulan Bintang,PBB,Riau I,Riau,Male
+3,"RITA SAHAGIA, SE",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Riau I,Riau,Female
+4,"MUHAMMAD NAVIS, SE",N,Laki-Laki,KOTA PEKANBARU,Partai Bulan Bintang,PBB,Riau I,Riau,Male
+5,NERANGISA KABAN,N,Laki-Laki,ROKAN HULU,Partai Bulan Bintang,PBB,Riau I,Riau,Male
+6,"RASIMAH Z, M.Pd",N,Perempuan,BENGKALIS,Partai Bulan Bintang,PBB,Riau I,Riau,Female
+7,MAULINA PRIHATNI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Riau I,Riau,Female
+1,"MUHAMMAD SALTUT, MA",N,Laki-Laki,KAMPAR,Partai Bulan Bintang,PBB,Riau II,Riau,Male
+2,"IBRAHIM ALI, SH",N,Laki-Laki,KOTA BATAM,Partai Bulan Bintang,PBB,Riau II,Riau,Male
+3,FARLAINI,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Riau II,Riau,Female
+4,YABUJANI SULTAN TANJUNG,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Riau II,Riau,Male
+5,FITRIANI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Riau II,Riau,Female
+6,M. SUHADA BCKN,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Riau II,Riau,Male
+1,"FIRMANSYAH, SH., MH",N,Laki-Laki,KOTA JAMBI,Partai Bulan Bintang,PBB,Jambi,Jambi,Male
+2,"H. HEFNI KADIR, SE., M.M",N,Laki-Laki,KOTA JAMBI,Partai Bulan Bintang,PBB,Jambi,Jambi,Male
+3,"SYAMSIAH, S.Pd",N,Perempuan,BATANGHARI,Partai Bulan Bintang,PBB,Jambi,Jambi,Female
+4,"MUALIMIN, S.Pd.I",N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jambi,Jambi,Male
+5,"SOPYAN ABUSRO, S.Ip",N,Laki-Laki,SAROLANGUN,Partai Bulan Bintang,PBB,Jambi,Jambi,Male
+6,TRI DWI JAYANTI,N,Perempuan,KOTA JAMBI,Partai Bulan Bintang,PBB,Jambi,Jambi,Female
+7,"FIKRI RIZA, S.Pt, SH, MH",N,Laki-Laki,KOTA JAMBI,Partai Bulan Bintang,PBB,Jambi,Jambi,Male
+8,"AULIA, SIP",N,Perempuan,BUNGO,Partai Bulan Bintang,PBB,Jambi,Jambi,Female
+1,"Ir. AFRIANSYAH NOOR, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Male
+2,YOSI ROSMANIAR,N,Perempuan,JAKARTA BARAT,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Female
+3,"AZHAR ZAINURI, SE., M.M",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Male
+4,"WARDATUL ADAWIYAH, A.Md",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Female
+5,DESI KARTIKA,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Female
+6,"IBNU UTAMA, ST",N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Male
+7,YUDI YOLANDO,N,Laki-Laki,INDRAGIRI HILIR,Partai Bulan Bintang,PBB,Sumatera Selatan I,Sumatera Selatan,Male
+1,"TAUFIKOR RAHMAN, S.Sos., MM",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+2,"DR. E.F. THANA YUDHA, SH, MH, MA",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+3,CUT MAULIDIANA,N,Perempuan,KOTA BANDA ACEH,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Female
+4,"YUSBIR, SE",N,Laki-Laki,LAHAT,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+5,"DRS. JUMRAN WARIS, M.Pd",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+6,MANNIE TITIN SALPONIATIN,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Female
+7,"SILVA YENNI, M.M",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Female
+8,"H. MACHMUD M.SERBO, S.E., M.H",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+9,"HALIPANHAR, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sumatera Selatan II,Sumatera Selatan,Male
+1,"RINDRA PANGGAR BESI, S.Pt",N,Laki-Laki,KOTA BENGKULU,Partai Bulan Bintang,PBB,Bengkulu,Bengkulu,Male
+2,"OKTO BRAWIJAYA TRISAKTI, M.H",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Bengkulu,Bengkulu,Male
+3,LORINA KRISTIN,N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Bengkulu,Bengkulu,Female
+1,YAYAN YANUARI,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Lampung I,Lampung,Male
+2,SYARIF CAN HA,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Lampung I,Lampung,Male
+3,"AGUSTINA WATI, S.Sos.",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Bulan Bintang,PBB,Lampung I,Lampung,Female
+4,"MUASSIS ANDANG PERDANA, S.T., M.M",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Lampung I,Lampung,Male
+5,"AKMAL, S.I.Kom",N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Lampung I,Lampung,Male
+6,PRAMESTI ANDRI YULIANITA,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Lampung I,Lampung,Female
+1,ATHORI LUBIS,N,Laki-Laki,TANGERANG,Partai Bulan Bintang,PBB,Lampung II,Lampung,Male
+2,"ILYANI SUDARDJAT, ST",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Lampung II,Lampung,Female
+3,"DR. H. IKHSAN LAHARDY, CH., SE, MM",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Lampung II,Lampung,Male
+4,"HJ. NENENG WINANINGSIH, SH., MA., M.Si",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Lampung II,Lampung,Female
+5,"M EZAN FARMANDA, S.H",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Bulan Bintang,PBB,Lampung II,Lampung,Male
+6,Ir. ANDRY LOVINO,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Lampung II,Lampung,Male
+1,"Drs. H. ABDUL WAHAB SINAMBELA, Med",N,Laki-Laki,KARIMUN,Partai Bulan Bintang,PBB,Kepulauan Riau,Kepulauan Riau,Male
+2,"DRS. HAJARULLAH ASWAD, M.HUM",N,Laki-Laki,KOTA TANJUNGPINANG,Partai Bulan Bintang,PBB,Kepulauan Riau,Kepulauan Riau,Male
+3,"ERMA KUSMAWATI, SE",N,Perempuan,KARIMUN,Partai Bulan Bintang,PBB,Kepulauan Riau,Kepulauan Riau,Female
+1,"Dr. H. YUSRON IHZA MAHENDRA, LL.M",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Bangka Belitung,Bangka Belitung,Male
+2,"MAHADIR, SH",N,Laki-Laki,BELITUNG,Partai Bulan Bintang,PBB,Bangka Belitung,Bangka Belitung,Male
+3,"SUMINI YULIASTUTI, SE., MM.",N,Perempuan,KOTA PANGKALPINANG,Partai Bulan Bintang,PBB,Bangka Belitung,Bangka Belitung,Female
+1,Ir. H. FUAD ZAKARIA,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Male
+2,Ir. AJUANSYAH PUTRA S,N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Male
+3,"DRA. HJ. HARYATI SETATIN, S.Ip., MM",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Female
+4,"IKHSAN K. SUHARTONO, S.Si., Apt.",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Male
+5,"Dr. Hj. NUNUNG AYU SOFIATI (EFI), S.Pd., MM",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Female
+6,"HJ. EUIS MASITOH, S.Kom.I",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Female
+7,"Prof. DR. H. T. DZULKARNAIN A, M.A",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat I,Jawa Barat,Male
+1,"DR. H. MS. KABAN, SE, M.Si",N,Laki-Laki,KOTA BOGOR,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+2,"ZULKIFLI, S.Si, M.Si",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+3,"IMAS KARYAMAH, M.Pd",N,Perempuan,BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Female
+4,"HENDRA WARDANA, S.M",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+5,"AYUB LAKSONO, S.T",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+6,"YASMIN, ST., MM",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Female
+7,"Drs. ERI RIDWAN LATIF, M.Ag",N,Laki-Laki,BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+8,"ARNI DASRIANTI, A.Md.",N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Female
+9,"DR. NANANG SOLIHIN, SH",N,Laki-Laki,BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Male
+10,"Hj. SRI WAHYUNI, S.Sn., MM",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat II,Jawa Barat,Female
+1,MAYJEND TNI (PURN). TATANG ZAENUDIN,N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+2,"Hj. NOVIANDRI, SE",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Female
+3,"H. MUHAMMAD ARSJAD YUSUF, SH",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+4,Drs. H. YUNASDI,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+5,"MAULANA YUSUF HASANUDIN, ST",N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+6,"Hj. RD. RITA RITASARI, ST.Par, MM",N,Perempuan,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Female
+7,"AHMAD NURUL FAJRI, SS",N,Laki-Laki,CIANJUR,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+8,"PURWANTO JOYO MARTONO, ST",N,Laki-Laki,KOTA BOGOR,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Male
+9,ENDAH ROSANAH,N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat III,Jawa Barat,Female
+1,"Drs. H. HERMAN GURNAWIJAYA MACHFUD, M.Si",N,Laki-Laki,KOTA SUKABUMI,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Male
+2,Drs. SAHAR L HASSAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Male
+3,R LINA KURNIA SARI,N,Perempuan,KOTA SUKABUMI,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Female
+4,MAULANA AKBAR SYARIF,N,Laki-Laki,SUKABUMI,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Male
+5,"NUR ARIFUDDIN, S.IP",N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Male
+6,YOSY,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat IV,Jawa Barat,Female
+1,"Drs. H. BAHRUL ULUM, M.Pd.I",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+2,"CAPT. R.JUMADI, M.MAR",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+3,"DR. RACHMAWATI, Cht., Akupunkturis",N,Perempuan,BEKASI,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Female
+4,"SLAMET SUPRIHANTO, SE",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+5,"SHALAHUDDIN AHMAD, ST, MT",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+6,"NITA SUSILOWATI, MA",N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Female
+7,"H. ACHMAD SUGESTIA, SH., M.M",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+8,JANUARI MARIANIE,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Female
+9,"HERRY HERNAWAN, S.H",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat V,Jawa Barat,Male
+1,MUHSIN AHMAD ALATAS,N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Male
+2,"RANDY BAGUS YUDHA, S.Psi., M.I.P",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Male
+3,"Dra. EFFI SETIAWATI, Apt., MM, MBiomed",N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Female
+4,"ISMAR SYAFRUDDIN, SH., M.A",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Male
+5,"H. DEDI SUHARDADI, SH., SE",N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Male
+6,Drs. R. DEWI SUMYATI,N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VI,Jawa Barat,Female
+1,"AZHAR AUNG, SH., S.P1., M.Si",N,Laki-Laki,PURWAKARTA,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+2,Prof. DR. SANUSI UWES,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+3,DR. POPI PUADAH,N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Female
+4,Drs. H. M. SALEH MANAF,N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+5,Ir. ABD KADIR ASSEGAF,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+6,"RIANA MELADEWI, SH., MKn",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Female
+7,MUHAMMAD RIDWAN,N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+8,"YUSMAN DAWOLO, S.Kom.I",N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+9,TINA MELINDA,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Female
+10,"ZAKY ROBY CAHYADI, ST",N,Laki-Laki,TASIKMALAYA,Partai Bulan Bintang,PBB,Jawa Barat VII,Jawa Barat,Male
+1,"UDIN JAHUDIN, ST",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+2,PITRIMAWATI,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Female
+3,SARALONA,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Female
+4,"AGUS HIDAYAT PRAYUDHA, SE, MM",N,Laki-Laki,CIREBON,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+5,DR. NURDIN,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+6,"OMISAH, S.Pd.I",N,Perempuan,KOTA SERANG,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Female
+7,DR. MURSALIN DAHLAN,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+8,NANDANG RAHMAD MULYA,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+9,"DR. ING. H. SUPARNO SATIRA, DEA",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat VIII,Jawa Barat,Male
+1,"NIA KURNIASARI, ST., MT",N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Female
+2,PROF. DR. IR. TUHPAWANA P. SENDJAJA,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Male
+3,"SURYANA, S.Pd., M.Si",N,Laki-Laki,SUMEDANG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Male
+4,NENEN KUSNAENI,N,Perempuan,SUMEDANG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Female
+5,"MUHAMMAD, S. Ag",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Male
+6,"Ir. SUTARMAN, ST., S.KOM., M.M",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Male
+7,IRA LAILA NUR QADAR,N,Perempuan,CIAMIS,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Female
+8,WAWAN HENDRAWAN,N,Laki-Laki,BANDUNG,Partai Bulan Bintang,PBB,Jawa Barat IX,Jawa Barat,Male
+1,"Dr. Ir. H. AKHMAD BAKHTIAR AMIN, M.Sc., M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Male
+2,Ir. YULIASTUTI,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Female
+3,NUR EFENDI,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Male
+4,"DRA. RAHMI YUSUF LUTAN, M.S.",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Female
+5,ALI NURHAKIM,N,Laki-Laki,SUKABUMI,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Male
+6,SALEH HIDAYAT,N,Laki-Laki,KOTA SUKABUMI,Partai Bulan Bintang,PBB,Jawa Barat X,Jawa Barat,Male
+1,"H. ANWAR NASHORI, S.Ag., M.Si",N,Laki-Laki,TASIKMALAYA,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+2,NUNUNG KANIAWATI,N,Perempuan,SUMEDANG,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Female
+3,"A. SUMANTRI, SH",N,Laki-Laki,GARUT,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+4,"Drs. KURNIA, M.Pd",N,Laki-Laki,GARUT,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+5,R ARNINGSIH,N,Perempuan,SUMEDANG,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Female
+6,ACEP SOFYAN,N,Laki-Laki,KOTA TASIKMALAYA,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+7,"HENI SUSILAWATI, SE",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Female
+8,"H. ANANG LUKMAN, S.Ag., M.Pd.I",N,Laki-Laki,KOTA TASIKMALAYA,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+9,HENDRA HARIANTO,N,Laki-Laki,GARUT,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+10,"AMIN BUNYAMIN, S.Pd.I",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Barat XI,Jawa Barat,Male
+1,"DR.H.. AHMAD YANI, SH, MH",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Male
+2,"DR. H. ABDUL CHAIR RAMADHAN, SH, MH",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Male
+3,"Dra. ANDI NURUL DJANNAH, Lc",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Female
+4,"ABDURAHMAN FAUZI, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Male
+5,"H. ISMAIL SIREGAR, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Male
+6,"Dr. DEWI YULIAWATI, MARS",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta I,DKI Jakarta,Female
+1,"YURI KEMAL FADLULLAH, SH, MH",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Male
+2,DR. NORMAN ZAINAL,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Male
+3,"Hj. NUR YUNIATI HARYONO, SE., MM",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Female
+4,"DR. DRS. ABBAS THAHA, MM. BEE",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Male
+5,DR. H. TB. MASSA DJAAFAR,N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Male
+6,"FITRIAH ABDUL AZIZ, S.Sos",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta II,DKI Jakarta,Female
+1,Prof. DR. YUSRIL IHZA MAHENDRA,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Male
+2,"M. SYARIFIN MALOKO, SH, M.Si, MM",N,Laki-Laki,JAKARTA UTARA,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Male
+3,"Hj.. KENIA KHAIRUNNISA, S.Sos.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Female
+4,ABUBAKAR SAMI,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Male
+5,"EDI HARAPAN, SH.,M.kn",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Male
+6,"HJ. ROKAYAH, S.Pd.I",N,Perempuan,JAKARTA BARAT,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Female
+7,"Dr. MACHMED TUN GANYANG, SE., MM",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Male
+8,"SYIFA AWALIA, S.Pd.I, MM",N,Perempuan,JAKARTA UTARA,Partai Bulan Bintang,PBB,DKI Jakarta III,DKI Jakarta,Female
+1,"H. NS AJI MARTONO, SH.I., CSA",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Male
+2,SUWITO SUPRAYOGI,N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Male
+3,Hj. ENI MAWARTI,N,Perempuan,SEMARANG,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Female
+4,Ir. BUDI CAHYONO,N,Laki-Laki,KOTA SEMARANG,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Male
+5,ANI FITRIYANI,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Female
+6,"HENDRATMOKO, M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah I,Jawa Tengah,Male
+1,"DR.. H. MUHANTO, AQ.,M.M.",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Male
+2,AMIN,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Male
+3,HANA PUJI ASTUTI,N,Perempuan,KUDUS,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Female
+4,AHMAD FAIDONI HARIRI,N,Laki-Laki,DEMAK,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Male
+5,IIS ROSMERIA,N,Perempuan,SUKABUMI,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Female
+6,FAKHRURROZI,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Tengah II,Jawa Tengah,Male
+1,"AKHMAD NASTAIN RADITYA, SE",N,Laki-Laki,PATI,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+2,"Ir. H. MOCH. PRAMONO, M.M",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+3,"SRI YULIANI, S.Ag",N,Perempuan,PATI,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Female
+4,FARID MOH SYAWAL,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+5,"AHMAD ROHIM, S.Pd.I., MA",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+6,SUFTI HUSNAFIYAH,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Female
+7,"SHOLIKHAH HAMDANI, S.Kom.I",N,Perempuan,PATI,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Female
+8,"ROY SETIA BASHARA, S.H.,MKn",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+9,H. Ir. ARWANSYAH,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah III,Jawa Tengah,Male
+1,BAGUS SARENGAT,N,Laki-Laki,WONOGIRI,Partai Bulan Bintang,PBB,Jawa Tengah IV,Jawa Tengah,Male
+2,HENDRA HARIANTO,N,Laki-Laki,GARUT,Partai Bulan Bintang,PBB,Jawa Tengah IV,Jawa Tengah,Male
+3,SRI ROCHANA HIDYATI,N,Perempuan,KOTA BOGOR,Partai Bulan Bintang,PBB,Jawa Tengah IV,Jawa Tengah,Female
+1,S AMINUDIN,N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Male
+2,ACHMAD ABU JAZID,N,Laki-Laki,KOTA SURAKARTA,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Male
+3,IIN INDARWATI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Female
+4,SRI WAHYUNI,N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Female
+5,"UMAR ABDULLAH, ST",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Male
+6,TUNINGSIH SRIHANDAYANI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Female
+7,Drs.. ADI BAGUS HUTAMA,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Tengah V,Jawa Tengah,Male
+1,"SONY SHRIE RAMAWIJAYA, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah VI,Jawa Tengah,Male
+2,LULU CHAIRUNISYAH,N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah VI,Jawa Tengah,Female
+3,D SUHAERI,N,Laki-Laki,SUKABUMI,Partai Bulan Bintang,PBB,Jawa Tengah VI,Jawa Tengah,Male
+4,"TANTI BELADONA, A. MD. PAR",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Tengah VI,Jawa Tengah,Female
+5,Drs.. R. RICKY AGUSTIADY. AK,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VI,Jawa Tengah,Male
+1,"H. MASRUR ANHAR, S.Sos.I",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Male
+2,"H. PRABUDI SUSATYA, MBA",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Male
+3,"ETNA MARIA, DRA.",N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Female
+4,MUHAMMAD AFNI FAIZ RIFKY HABIBI,N,Laki-Laki,BANJARNEGARA,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Male
+5,NABILLAH PUSPITA CAHAYARINI,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Female
+6,WIDIA NINGSIH,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Female
+7,"MACHRIL, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VII,Jawa Tengah,Male
+1,ZAGHLUL WAHAB,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Male
+2,"DRA.. SITI CHOLIFA SOEMARTO, Apt.,M.Kes.",N,Perempuan,CILACAP,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Female
+3,"TEGUH HARIYANTO, SH",N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Male
+4,DEWI SORAYA,N,Perempuan,BONDOWOSO,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Female
+5,"Dr. SOLATUN, S.AG., M.Si",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Male
+6,DRS. ENDANG SETIADY,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah VIII,Jawa Tengah,Male
+1,EVACHIDUN SUWANDI,N,Laki-Laki,BOJONEGORO,Partai Bulan Bintang,PBB,Jawa Tengah IX,Jawa Tengah,Male
+2,"CICIK YULIANITA, S.Pd",N,Perempuan,TEGAL,Partai Bulan Bintang,PBB,Jawa Tengah IX,Jawa Tengah,Female
+3,"Ir. IBNU DHARTO, S.T",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Tengah IX,Jawa Tengah,Male
+1,DECI ANA WATI,N,Perempuan,KOTA SEMARANG,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Female
+2,"SUSANTY, SP",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Female
+3,UJANG SUPARMAN,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Male
+4,Ir. H. M. UMAR FATAH,N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Male
+5,"SUTAN NASOMAL, S.Pd.I",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Male
+6,LUQMAN HAKIM,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Tengah X,Jawa Tengah,Male
+1,"NARDIYONO WIBOWO, SH, M.Hum",N,Laki-Laki,SLEMAN,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Male
+2,SUMARNI,N,Perempuan,JAKARTA UTARA,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Female
+3,SITI SETIASIH,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Female
+4,"Ir. ARIF MURDIANTO, M.T.",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Male
+5,"NUR HIDAYAT, S.T.",N,Laki-Laki,BANTUL,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Male
+6,"FACHRI, SH",N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,DI Yogyakarta,DI Yogyakarta,Male
+1,MUSTOFA BAWAZIER,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+2,EDY JUWONO SLAMET,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+3,"IFFAH NOVIANTI, S.E.",N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Female
+4,H. JOKO TOTUKO ABDUL LATIF,N,Laki-Laki,SIDOARJO,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+5,Drs. H. SYAMSURIZAL,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+6,RR.PUNGKY PUSPITASARI,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Female
+7,"HENYK, SE",N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Female
+8,IR. ACHIRIZAL,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+9,HARIES PURWOKO,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur I,Jawa Timur,Male
+1,"Ir. ISA NURUDIN, M.H",N,Laki-Laki,PASURUAN,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Male
+2,TOTOK ABDURAHMAN,N,Laki-Laki,KOTA PASURUAN,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Male
+3,LEYLA KHANSA,N,Perempuan,KOTA PASURUAN,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Female
+4,SYAKIR,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Male
+5,"DITA KARTIKA YUSTISIA, SE. MH",N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Female
+6,"Drs. H. WAHYONO, MMA",N,Laki-Laki,MALANG,Partai Bulan Bintang,PBB,Jawa Timur II,Jawa Timur,Male
+1,"H. MUSLIM SUMARDIONO, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Male
+2,ANDINA FATMALA HADIYANTI,N,Perempuan,PASURUAN,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Female
+3,RISA PERMATASARI,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Female
+4,IMAM SOEPANGKAT SOERODJO,N,Laki-Laki,BONDOWOSO,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Male
+5,Dr. WAZRI ABDULLAH AFIFI,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Male
+6,Ir. SUDARYADI,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Timur III,Jawa Timur,Male
+1,"Dr. H. TARYONO, SE., MBA., M.Si., M.Hi",N,Laki-Laki,SLEMAN,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Male
+2,"Ir. CAHYAWAN NOWO PUTRO, MT",N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Male
+3,ETY MEI DYAWATI,N,Perempuan,LUMAJANG,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Female
+4,M.TAUFIEK RAHMAN,N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Male
+5,"SUYANTO, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Male
+6,KIPTIYAH,N,Perempuan,SIDOARJO,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Female
+7,PANCA NURWASIH,N,Perempuan,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Female
+8,"Ir. HERU NURASID, MM",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Timur IV,Jawa Timur,Male
+1,Dr. ARIES MUSNANDAR,N,Laki-Laki,KOTA MALANG,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Male
+2,"KAMAL HAIKAL, S.AP",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Male
+3,"FATIMAH HUSEIN ASSEGAF, MA",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Female
+4,"ETI YULIATI, S.Pd.I",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Female
+5,"AGUSTINI, SE",N,Perempuan,MALANG,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Female
+6,RESSY HESTY,N,Perempuan,MALANG,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Female
+7,"Drs.. ARIFIN. S, S.H,. M.H",N,Laki-Laki,JAKARTA BARAT,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Male
+8,M. CAKRAWALA A.,N,Laki-Laki,KOTA MALANG,Partai Bulan Bintang,PBB,Jawa Timur V,Jawa Timur,Male
+1,"Dr. Ir. SUGIHARTO, MM",N,Laki-Laki,MALANG,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Male
+2,BAMBANG HARIBOWO,N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Male
+3,"ANISA KARTIKAWATI, SH",N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Female
+4,"FITRIANA YUNI ASTUTI, S.E",N,Perempuan,BLITAR,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Female
+5,"RIDWAN, S.H",N,Laki-Laki,TANGERANG,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Male
+6,"UNANG MUHSI, S.AG",N,Laki-Laki,BANDUNG BARAT,Partai Bulan Bintang,PBB,Jawa Timur VI,Jawa Timur,Male
+1,HOTMAN LASUT,N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Jawa Timur VII,Jawa Timur,Male
+2,"Drs.. PARWOTO, M.Pd",N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur VII,Jawa Timur,Male
+3,"ARNI WINARSIH, S.H",N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur VII,Jawa Timur,Female
+1,CHAIRUL HIDAYAT,N,Laki-Laki,SIDOARJO,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+2,AZANIL KELANA,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+3,WIJI WINARSIH,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Female
+4,"LUTHFI LAZUARDI, SH",N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+5,RACHMATULLAH,N,Laki-Laki,SIDOARJO,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+6,NUZULINA MAGHFIROH,N,Perempuan,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Female
+7,YOSI TUTU GUNAWAN,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+8,NUR SALIMAH,N,Perempuan,KOTA BEKASI,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Female
+9,"IMANG MAULANA, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Jawa Timur VIII,Jawa Timur,Male
+1,ARMIN IRAWAN,N,Laki-Laki,BLITAR,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Male
+2,"KOLIS, S.H",N,Laki-Laki,TUBAN,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Male
+3,MIMIK MARDAWATI,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Female
+4,Drs. MASHURI,N,Laki-Laki,KOTA MALANG,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Male
+5,ENNY NOVIANTI,N,Perempuan,KOTA MEDAN,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Female
+6,NUR SHOLIHAH,N,Perempuan,BOJONEGORO,Partai Bulan Bintang,PBB,Jawa Timur IX,Jawa Timur,Female
+1,"MUHAMMAD BANDA ARYA, S.Ip",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Male
+2,SORAYA SAFITRI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Female
+3,"A. HAFIZ AZHARI, S.Ag",N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Male
+4,"AGASTYA WIDHI HARJUNADHI, M.Pd",N,Laki-Laki,LAMONGAN,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Male
+5,TRI SANGADAH,N,Perempuan,CILACAP,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Female
+6,ADILA SWASDIKA PUTRA,N,Laki-Laki,SIDOARJO,Partai Bulan Bintang,PBB,Jawa Timur X,Jawa Timur,Male
+1,Ir. H. MOHAMMAD MASDUKI,N,Laki-Laki,KOTA MALANG,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Male
+2,"KH. ABDUSSALAM SYAH, SH",N,Laki-Laki,PAMEKASAN,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Male
+3,"SITI MACHMODHA AL MALIFAH, SIP",N,Perempuan,PAMEKASAN,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Female
+4,"HAIRUL ANAS SUAIDI, S.T",N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Male
+5,MUHAMMAD FAJAR HALIMI,N,Laki-Laki,PAMEKASAN,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Male
+6,RR. SRI SOERYA IBNOEMOERTINI J.A,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Female
+7,"MOH MIR POERNAMA, SE",N,Laki-Laki,BANGKALAN,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Male
+8,SITI MAHMUDAH,N,Perempuan,ROKAN HULU,Partai Bulan Bintang,PBB,Jawa Timur XI,Jawa Timur,Female
+1,"KH. NAHRUL BADRI, SQ,MA",N,Laki-Laki,PANDEGLANG,Partai Bulan Bintang,PBB,Banten I,Banten,Male
+2,Drs. MAHMUD FAUZY,N,Laki-Laki,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Banten I,Banten,Male
+3,"NYIMAS NINING RACHMAN, SH",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Banten I,Banten,Female
+4,Dra. CHAIRI INAJAH,N,Perempuan,JAKARTA BARAT,Partai Bulan Bintang,PBB,Banten I,Banten,Female
+5,"H. BAMBANG ISWAHYANTO, SH",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Banten I,Banten,Male
+1,"RONNI ABDI, ST., MM",N,Laki-Laki,KOTA PEKANBARU,Partai Bulan Bintang,PBB,Banten II,Banten,Male
+2,"MUHAMMAD RIDWAN, SH., MM",N,Laki-Laki,SERANG,Partai Bulan Bintang,PBB,Banten II,Banten,Male
+3,"Dr. INNE IRAWATY, SpKJ",N,Perempuan,JAKARTA UTARA,Partai Bulan Bintang,PBB,Banten II,Banten,Female
+4,"SUDRAJAT ARDANI, M.H",N,Laki-Laki,KOTA SERANG,Partai Bulan Bintang,PBB,Banten II,Banten,Male
+5,MUSTOFA,N,Laki-Laki,KOTA CILEGON,Partai Bulan Bintang,PBB,Banten II,Banten,Male
+6,SUGIATI,N,Perempuan,KOTA SERANG,Partai Bulan Bintang,PBB,Banten II,Banten,Female
+1,H. JURHUM LANTONG,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+2,"DR. IR. SYLVIA WISNA DARWIS, SE., M.M.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Banten III,Banten,Female
+3,"H. ABDUL SYUKUR, SH.",N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+4,Drs. MOH AKBARUDDIN,N,Laki-Laki,KOTA MEDAN,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+5,"H. YANUAR AMNUR, S.Sos.",N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+6,"DRA. HJ, RATNANINGSIH, M.Pd.",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Banten III,Banten,Female
+7,"DENI MARTANTI, S.Kom., M.M",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Banten III,Banten,Female
+8,"ARDITIA, S.Sos",N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+9,RD. HERU RUSYAMSI ARIANATAREJA,N,Laki-Laki,TANGERANG,Partai Bulan Bintang,PBB,Banten III,Banten,Male
+10,"RATNA JUITA YAQOEB, S.ag",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Banten III,Banten,Female
+1,ARWIN LUBIS,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Bali,Bali,Male
+2,"VINITA HERAWATY, SE",N,Perempuan,KOTA MATARAM,Partai Bulan Bintang,PBB,Bali,Bali,Female
+3,YUNITA,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Bali,Bali,Female
+4,USMAN SHAHIB RAFIK,N,Laki-Laki,GIANYAR,Partai Bulan Bintang,PBB,Bali,Bali,Male
+5,"MOSTHAMIR THALIB, M.Si",N,Laki-Laki,KOTA PEKANBARU,Partai Bulan Bintang,PBB,Bali,Bali,Male
+6,YUHERDI,N,Laki-Laki,KOTA DENPASAR,Partai Bulan Bintang,PBB,Bali,Bali,Male
+1,"ARIS MUHAMMAD, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"UMAR ALI, MS. SE",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,SRI MARYANI,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,Ir. H. EDDY WAHYUDIN,N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+2,"SYAHDAN, SH.,SIP.,MM., MBA",N,Laki-Laki,LOMBOK TIMUR,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,BAIQ DEWI HARIYATI,N,Perempuan,KOTA MATARAM,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+4,"CICI ATMARINDA, S.Si.",N,Perempuan,LOMBOK TENGAH,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+5,"SAEROZI, S.Sos",N,Laki-Laki,KOTA MATARAM,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+6,L PUJO BASUKI RAHMAT,N,Laki-Laki,KOTA MATARAM,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+7,"HAJI PADLI, S.Pd.I",N,Laki-Laki,LOMBOK TENGAH,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+8,"SETIAWATI, M.SI",N,Perempuan,KOTA MATARAM,Partai Bulan Bintang,PBB,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+1,"ARJULI, AR",N,Laki-Laki,KOTA SURABAYA,Partai Bulan Bintang,PBB,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,DRA. IIS YENI SURYANI,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+1,"ABQARI MUHAMMAD AL FATIH, SH., S.I.Kom",N,Laki-Laki,KOTA BOGOR,Partai Bulan Bintang,PBB,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,HENNY NURAINI,N,Perempuan,BOGOR,Partai Bulan Bintang,PBB,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+3,HASWAN MANGGARA EVANDIRIFA,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+1,GUSTI MUHAMAD FAISAL,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Kalimantan Barat I,Kalimantan Barat,Male
+2,SRI IDAYATI,N,Perempuan,KUBU RAYA,Partai Bulan Bintang,PBB,Kalimantan Barat I,Kalimantan Barat,Female
+3,BUNAYA RACHMAD,N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Kalimantan Barat I,Kalimantan Barat,Female
+4,"MUHAMMAD SYIBBLI ZULKARNAEN, S.Psi",N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Kalimantan Barat I,Kalimantan Barat,Male
+5,"AUZA DJAMIL HAKIM, SH MH",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Kalimantan Barat I,Kalimantan Barat,Male
+1,NANA SURYANI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Kalimantan Barat II,Kalimantan Barat,Female
+2,Dr. EDDY SYARIF,N,Laki-Laki,KOTA BANDUNG,Partai Bulan Bintang,PBB,Kalimantan Barat II,Kalimantan Barat,Male
+3,ABDUROHMAN YUSUF,N,Laki-Laki,BOGOR,Partai Bulan Bintang,PBB,Kalimantan Barat II,Kalimantan Barat,Male
+1,"ALFIAN ZULHAM SIREGAR, S.T.",N,Laki-Laki,BANJARNEGARA,Partai Bulan Bintang,PBB,Kalimantan Tengah,Kalimantan Tengah,Male
+2,RIETA FADMI ACHMAD,N,Perempuan,KOTA BOGOR,Partai Bulan Bintang,PBB,Kalimantan Tengah,Kalimantan Tengah,Female
+1,"H. PANGERAN IBERAHIM, S.H.I",N,Laki-Laki,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,"SITI SAUDAH, S.Pi",N,Perempuan,BALANGAN,Partai Bulan Bintang,PBB,Kalimantan Selatan I,Kalimantan Selatan,Female
+3,"H.JUHDI, S.SOS",N,Laki-Laki,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Selatan I,Kalimantan Selatan,Male
+1,"HABIB FARHAN HUSEIN BSA, ST",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,"MUHAMMAD YAMIN, IE.",N,Laki-Laki,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Selatan II,Kalimantan Selatan,Male
+3,TUNDRA INDAH AGUSTIN,N,Perempuan,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Selatan II,Kalimantan Selatan,Female
+4,DRS. SAMSUL DAULAH,N,Laki-Laki,BANJAR,Partai Bulan Bintang,PBB,Kalimantan Selatan II,Kalimantan Selatan,Male
+5,NOORTAPIP RIANA,N,Perempuan,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,"SABARUDDIN YASIN, SH., S.A.g., MT",N,Laki-Laki,PASER,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Male
+2,Drs. RIDUAN NOOR,N,Laki-Laki,KOTA SAMARINDA,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Male
+3,RITA ARIYANTI,N,Perempuan,KOTA SERANG,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Female
+4,"DIANKORONA RIADI, SH, MH",N,Laki-Laki,KOTA BANJARMASIN,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Male
+5,"ZALDY IRZA PAHLEVY, S.Si, M. Farm, Apt",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Male
+6,NURLINA,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Female
+7,"ROBERTUS ARYO MAHESA, SE",N,Laki-Laki,KOTA TANGERANG,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Male
+8,"SURIATI, SH",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Kalimantan Timur,Kalimantan Timur,Female
+1,YUSOF FERDINAND WANGANIA,N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Sulawesi Utara,Sulawesi Utara,Male
+2,STANTIN TRUISTIN,N,Perempuan,KOTA TANGERANG,Partai Bulan Bintang,PBB,Sulawesi Utara,Sulawesi Utara,Female
+3,RUSMAN,N,Laki-Laki,MAROS,Partai Bulan Bintang,PBB,Sulawesi Utara,Sulawesi Utara,Male
+1,"AMRULLAH ANDI HAMID, SE, MM",N,Laki-Laki,JAKARTA UTARA,Partai Bulan Bintang,PBB,Sulawesi Tengah,Sulawesi Tengah,Male
+2,"DRS. SUMARDI KORONA, SH.,MH",N,Laki-Laki,KOTA PALU,Partai Bulan Bintang,PBB,Sulawesi Tengah,Sulawesi Tengah,Male
+3,WA ODE MA ASRA MANARA,N,Perempuan,KONAWE,Partai Bulan Bintang,PBB,Sulawesi Tengah,Sulawesi Tengah,Female
+4,"PAESALUDIN SONDENG, S.Pd",N,Laki-Laki,BEKASI,Partai Bulan Bintang,PBB,Sulawesi Tengah,Sulawesi Tengah,Male
+5,LINDA MERI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sulawesi Tengah,Sulawesi Tengah,Female
+1,H.MADDO PAMUSU,N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,"ANDI DARMIAWANTI ASTUTI, SE., MM",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Female
+3,"BASRI, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Male
+4,"DR. SYARIF IBRAHIM, SPB",N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,"AGUS SALIM, ST",N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Male
+6,"NOVIA LESTARI P, S.IP",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Sulawesi Selatan I,Sulawesi Selatan,Female
+1,"DR. Ir. H. ZAINAL ABIDIN S, MM",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,"ISMAIL HAMID, SE",N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,ANDI NINA ANGGRENY BASIRA,N,Perempuan,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,SENTOT DWI PRASTYA BUDI,N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,HJ.MUNASI'AH NADJAMUDDIN,N,Perempuan,KOTA SURABAYA,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Female
+6,CAHYA MULYANINGSIH,N,Perempuan,KOTA CILEGON,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Female
+7,"ABDUL RACHMAN SAPPARA, S.E.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Male
+8,RAHMAT SALEH,N,Laki-Laki,BANTAENG,Partai Bulan Bintang,PBB,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,"MUZAKKIR, SHI, M.Kesos.",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,"PAHLAWAN, SE",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,DIANA EKAWATI,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Female
+4,H M MARDJU CHAIR,N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,SYLVI TAUFIK AL MUSAWA,N,Perempuan,KOTA TANGERANG,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Female
+6,"NASIR, S.Sos., M.Si",N,Laki-Laki,KOTA MAKASSAR,Partai Bulan Bintang,PBB,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,"Dr. YURISMAN STAR, SE, M.SI",N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,MOCH SALEH LASATA,N,Laki-Laki,KOTA KENDARI,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,"MULIATI SAIMAN, S.Si",N,Perempuan,KONAWE,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,MARDIANA MUCHTAR,N,Perempuan,KOTA KENDARI,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Female
+5,DJAKRI NAPU,N,Laki-Laki,KOTA KENDARI,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Male
+6,DINAMIS YUNUS MAKKAJARENG,N,Laki-Laki,KOTA KENDARI,Partai Bulan Bintang,PBB,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,"SURATMAN MALIK, SE",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Gorontalo,Gorontalo,Male
+2,DORLAN NAIBAHO,N,Perempuan,KOTA BANDUNG,Partai Bulan Bintang,PBB,Gorontalo,Gorontalo,Female
+3,M. SA'BAN ARAHMAN PUTRA,N,Laki-Laki,TANGERANG,Partai Bulan Bintang,PBB,Gorontalo,Gorontalo,Male
+1,"ABDUL WAHAB, ST",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Sulawesi Barat,Sulawesi Barat,Male
+2,"Dra. Hj. SRIE MULIATY M., M.E.Sy",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Sulawesi Barat,Sulawesi Barat,Female
+3,WIJAYA KUSUMA NOER,N,Laki-Laki,KOTA BOGOR,Partai Bulan Bintang,PBB,Sulawesi Barat,Sulawesi Barat,Male
+1,CH.L. MALAIHOLO,N,Laki-Laki,KOTA BEKASI,Partai Bulan Bintang,PBB,Maluku,Maluku,Male
+2,"DRA. ELLYA YUNUS, M.Si",N,Perempuan,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Maluku,Maluku,Female
+3,"SANUSI KAPLALE SE, SE",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Maluku,Maluku,Male
+1,"HUSNI JUMAT, S.Sos.I",N,Laki-Laki,KOTA DEPOK,Partai Bulan Bintang,PBB,Maluku Utara,Maluku Utara,Male
+2,MARDLIAH SOLEIMAN,N,Perempuan,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Maluku Utara,Maluku Utara,Female
+3,"IRWANUDDIN, S.Si, M.Eng.",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Maluku Utara,Maluku Utara,Male
+1,"SAMSUDIN BOLENG, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Papua,Papua,Male
+2,"TRIANA WIDYA WIJAYANTI, M.Pd.",N,Perempuan,KOTA DEPOK,Partai Bulan Bintang,PBB,Papua,Papua,Female
+3,SAMIUN DAMURA,N,Laki-Laki,JAYAPURA,Partai Bulan Bintang,PBB,Papua,Papua,Male
+4,NURDINA SARI,N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Papua,Papua,Female
+1,ARIS MARYANI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Bulan Bintang,PBB,Papua Barat,Papua Barat,Female
+2,"HADI M. SUBANDI, S.T.",N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Papua Barat,Papua Barat,Male
+3,M. AZRUL SALEH RUMATA,N,Laki-Laki,JAKARTA SELATAN,Partai Bulan Bintang,PBB,Papua Barat,Papua Barat,Male
+1,"R. WIJAYA DG MAPPASOMBA, S.Kom.I",N,Laki-Laki,JAKARTA TIMUR,Partai Bulan Bintang,PBB,Kalimantan Utara,Kalimantan Utara,Male
+2,"Ns. Hj. GIMYANTI UTSMANI, S.Kep., SS",N,Perempuan,JAKARTA PUSAT,Partai Bulan Bintang,PBB,Kalimantan Utara,Kalimantan Utara,Female

@@ -1,0 +1,428 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,"IBNU RUSDI, S.E",N,Laki-Laki,KOTA BANDA ACEH,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Male
+2,ROHAYA,N,Perempuan,ACEH BESAR,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Female
+3,ZULKARNAINI,N,Laki-Laki,KOTA BANDA ACEH,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Male
+4,ROSNANI DJAKFAR,N,Perempuan,KOTA BANDA ACEH,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Female
+5,AGUSNIN ARIF,N,Laki-Laki,ACEH BESAR,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Male
+6,AZIZAH,N,Perempuan,ACEH BESAR,Partai Hati Nurani Rakyat,Hanura,Aceh I,Aceh,Female
+1,MIRWAN AMIR,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Male
+2,SARA NAIDU,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Female
+3,TATA MOEDA TAQWA,N,Laki-Laki,KOTA LANGSA,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Male
+4,ALAMSYAH,N,Laki-Laki,ACEH TENGAH,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Male
+5,MAULIZA WULANDARI,N,Perempuan,KOTA LHOKSEUMAWE,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Female
+6,SANDY PANGESTU,N,Laki-Laki,BENER MERIAH,Partai Hati Nurani Rakyat,Hanura,Aceh II,Aceh,Male
+1,KODRAT SHAH,N,Laki-Laki,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Male
+2,"Drs. POTSDAM HUTASOIT, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Male
+3,NILAM SURI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Female
+4,"AWALUDIN, SE, MSI.",N,Laki-Laki,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Male
+5,SRI RAHAYU,N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Female
+6,DRA. SITI NURRACHMI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Female
+7,"ISMAINI, SE",N,Perempuan,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Female
+8,ARI KUSUMADI SUSILA,N,Laki-Laki,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Male
+9,SAKINAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Female
+10,"D. SURES KUMAR, S.Ag., MSi",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara I,Sumatera Utara,Male
+1,H. HERRY LONTUNG SIREGAR,N,Laki-Laki,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Male
+2,"EDISON MANURUNG, SH, MM",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Male
+3,SURYANTI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Female
+4,H. MULKAN NASUTION,N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Male
+5,JANERIVO HOT MARIO J.S,N,Laki-Laki,KOTA SAWAHLUNTO,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Male
+6,MAISAROH,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Female
+7,NURHASANAH,N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Female
+8,YANTI PURNAMASARI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Female
+9,NUR YENI INFA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Female
+10,AHMAD RASYID,N,Laki-Laki,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara II,Sumatera Utara,Male
+1,"SAMSUDIN SIREGAR, SH",Y,Laki-Laki,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Male
+2,MERLYN SAMOSIR,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Female
+3,LADY CHRISTINE ANGELIA SIPAYUNG,N,Perempuan,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Female
+4,PARLINDUNGAN SIAGIAN,N,Laki-Laki,BEKASI,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Male
+5,LINA RATNASARI,N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Female
+6,MARULI BUTAR BUTAR,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Male
+7,ASNA SIAHAAN,N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Female
+8,"Hj. LAILA HANIN, SE",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Female
+9,Ir. ALUSDIN SINAGA,N,Laki-Laki,KOTA MEDAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Utara III,Sumatera Utara,Male
+1,MARZUL VERI,N,Laki-Laki,KOTA PADANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Male
+2,HAMDANI HAMID,N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Male
+3,SUMIATI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Female
+4,"NOVRIAL BAHRUN, SH, MKn DT. SURI MAHARAJO",N,Laki-Laki,PESISIR SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Male
+5,Ir. ADEK MAKSIARNI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Female
+6,NURCHAYATI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Female
+7,"HENDRIKUS NOPIANTO, S.H",N,Laki-Laki,KEPULAUAN MENTAWAI,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat I,Sumatera Barat,Male
+1,"Dr. Drs. EDDY, R.S.MH",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Male
+2,Ir. RUSLAN ABDUL GANI,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Male
+3,SRINAFITRI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Female
+4,"HENDRA YANNI ANWAR, S.Sos",N,Laki-Laki,KOTA PAYAKUMBUH,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Male
+5,"Dr. Ir. H. ASWIN NALDI, M.M",N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Male
+6,IDA FARIDA,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Barat II,Sumatera Barat,Female
+1,"KUDUS KURNIAWAN MANGAPUL, S.Si, MA",N,Laki-Laki,KOTA PEKANBARU,Partai Hati Nurani Rakyat,Hanura,Riau I,Riau,Male
+2,SAYED JUNAIDI RIZALDI,N,Laki-Laki,KOTA DUMAI,Partai Hati Nurani Rakyat,Hanura,Riau I,Riau,Male
+3,DESI KURNIASIH,N,Perempuan,KOTA PEKANBARU,Partai Hati Nurani Rakyat,Hanura,Riau I,Riau,Female
+4,ERNA YULIS,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Riau I,Riau,Female
+5,JOTO BANGUN,N,Laki-Laki,ROKAN HILIR,Partai Hati Nurani Rakyat,Hanura,Riau I,Riau,Male
+1,ASEP HASIBUAN,N,Laki-Laki,KOTA JAMBI,Partai Hati Nurani Rakyat,Hanura,Riau II,Riau,Male
+2,MEYLIZA AFRIANTHY,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Riau II,Riau,Female
+3,BEMI HENDRIAS,N,Laki-Laki,KOTA PEKANBARU,Partai Hati Nurani Rakyat,Hanura,Riau II,Riau,Male
+1,WILJONI,N,Laki-Laki,KOTA BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jambi,Jambi,Male
+2,NIKENDARI LUTVIKA,N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jambi,Jambi,Female
+3,SITI NURJANAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jambi,Jambi,Female
+4,"SUPRAPTO, SP",N,Laki-Laki,KOTA JAMBI,Partai Hati Nurani Rakyat,Hanura,Jambi,Jambi,Male
+5,PUJI ASTUTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jambi,Jambi,Female
+1,EDDY GANEFO,N,Laki-Laki,KOTA PALEMBANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan I,Sumatera Selatan,Male
+2,"H. ALEX SATO BYA, SH",N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan I,Sumatera Selatan,Male
+3,ENI SURYANI,N,Perempuan,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan I,Sumatera Selatan,Female
+4,ALI AMIN,N,Laki-Laki,KOTA LUBUKLINGGAU,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan I,Sumatera Selatan,Male
+5,Hj. DAHRIAH. A,N,Perempuan,KOTA PALU,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan I,Sumatera Selatan,Female
+1,"H. HENDRI ZAINUDDIN, SH",N,Laki-Laki,KOTA PALEMBANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Male
+2,"H.M HATTA MUSTAFA, SH. MH.",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Male
+3,NATALIA PRIHATINI SIREGAR,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Female
+4,"DR. H. ANWAR FUADI, SH., M.H",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Male
+5,YENI FER OKTAVIANTI,N,Perempuan,MUARA ENIM,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Female
+6,"SHANTI YOSEVA FITRIANA, S.H.",N,Perempuan,KOTA PRABUMULIH,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Female
+7,"OYONG HAIRUDIN, SH, A.Md",N,Laki-Laki,KOTA PALEMBANG,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Male
+8,ARGIMAN,N,Laki-Laki,OGAN ILIR,Partai Hati Nurani Rakyat,Hanura,Sumatera Selatan II,Sumatera Selatan,Male
+1,RINI SUSANTI,N,Perempuan,KOTA BENGKULU,Partai Hati Nurani Rakyat,Hanura,Bengkulu,Bengkulu,Female
+2,"ASWANTO, S.H",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Bengkulu,Bengkulu,Male
+3,"SUSANTI NINGSIH, SE",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Bengkulu,Bengkulu,Female
+1,"H. A FERDINAND SAMPURNA JAYA, SE",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Male
+2,DENY IRWANSYAH,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Male
+3,HESTI RETNOASTUTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+4,"Drs. MURNIATI, M.Pd",N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+5,"DIAH AYU RUMANINGSIH, SS",N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+6,"SUWARTO HADI, S.Pd. I, M, Si",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Male
+7,RIFA APOLINA,N,Perempuan,BOGOR,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+8,YUNITA NURDIAN SAKTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+9,SARMILA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung I,Lampung,Female
+1,"BENNY UZER, S.H",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Male
+2,ANGGA JEVI SURYA,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Male
+3,SITI FATIMAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Female
+4,SONDARIAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Female
+5,IMELDA HANIF,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Female
+6,RENITA HANIF,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Female
+7,ENGGAL SPINOZA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Female
+8,"SYARIFUDIN, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Lampung II,Lampung,Male
+1,YUNIRIA ZENDRATO,N,Perempuan,KOTA BATAM,Partai Hati Nurani Rakyat,Hanura,Kepulauan Riau,Kepulauan Riau,Female
+2,AMRAN SYAHIDID,N,Laki-Laki,KARIMUN,Partai Hati Nurani Rakyat,Hanura,Kepulauan Riau,Kepulauan Riau,Male
+3,ZEISISCA,N,Perempuan,LINGGA,Partai Hati Nurani Rakyat,Hanura,Kepulauan Riau,Kepulauan Riau,Female
+4,POPPY NITA ELVERA,N,Perempuan,KOTA TANJUNGPINANG,Partai Hati Nurani Rakyat,Hanura,Kepulauan Riau,Kepulauan Riau,Female
+1,"TELLIE, S.E",N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Bangka Belitung,Bangka Belitung,Male
+2,WIWIN WIDANINGRUM,N,Perempuan,KOTA PANGKALPINANG,Partai Hati Nurani Rakyat,Hanura,Bangka Belitung,Bangka Belitung,Female
+3,CINDERI MAURA RESTU,N,Perempuan,BELITUNG,Partai Hati Nurani Rakyat,Hanura,Bangka Belitung,Bangka Belitung,Female
+1,"DIAN RAHADIAN, SH",N,Laki-Laki,KOTA BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Male
+2,"ARNOLDUS JANSEN, SE",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Male
+3,"ELYZABETH BULAN MARCAHAYA, S.E",N,Perempuan,KOTA BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Female
+4,"Dr.Ir. REDY PRYAMBADA SUKAMAD, B.Arch, MBA, MBE",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Male
+5,PENI LISDAYANTI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Female
+6,TINI RUSTINI,N,Perempuan,BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat I,Jawa Barat,Female
+1,"HUMAR DANI, SE, . SH, . MM, . MH.",N,Laki-Laki,BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Male
+2,"DR. ERISLAN, ST., MM",N,Laki-Laki,BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Male
+3,MARLINA,N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Female
+4,AGUS MUSLIM,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Male
+5,"DELINAR, S.I.Kom",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Female
+6,MARDIYANAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Female
+7,AHMAD HAMZAH,N,Laki-Laki,GARUT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat II,Jawa Barat,Male
+1,"Dr. H. DJONI ROLINDRAWAN, S.E. M.B.A",Y,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat III,Jawa Barat,Male
+2,"TIKA LATIFAH, S.Sos",N,Perempuan,CIANJUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat III,Jawa Barat,Female
+3,SUPRIYATI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat III,Jawa Barat,Female
+4,DJOKO SULISTYONO,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat III,Jawa Barat,Male
+5,WIDHA RETNO,N,Perempuan,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat III,Jawa Barat,Female
+1,H ICUK SUGIARTO,N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IV,Jawa Barat,Male
+2,MUHAMMAD ISA HARUN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IV,Jawa Barat,Male
+3,"DESI DELIANA, SE",N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IV,Jawa Barat,Female
+4,"AEH CHAERUL SALEH, SE.",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IV,Jawa Barat,Male
+5,YANTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IV,Jawa Barat,Female
+1,"Dr. JUS USMAN SUMANEGARA, SE., MM.",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat V,Jawa Barat,Male
+2,"Hj. JAMILAH KESUMA, SH",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat V,Jawa Barat,Female
+3,"EKO RUKMANA, SE., MM.",N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Barat V,Jawa Barat,Male
+4,LIZA AYU ANUGERAH,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat V,Jawa Barat,Female
+5,"ADI RAHMANTO, S.Ip",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat V,Jawa Barat,Male
+1,TIURMAIDA TAMPUBOLON,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Female
+2,WAHAB TALAOHU,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Male
+3,"AMELLIA DODY LUHUKAY, B.Sc",N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Female
+4,R. HARDIYANTO PRIJOKOESOEMO,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Male
+5,"Ir. RUDI HM SAMIN, SE",N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Male
+6,AMRON ASYHARI,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VI,Jawa Barat,Male
+1,TUMIUR SURIATY S,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Female
+2,"HIPATIOS WIRAWAN LABUT, SH",N,Laki-Laki,MANGGARAI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+3,"HAMDANI TANJUNG, S.Pd",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+4,"ASEP SA'DUDDIN SABILURRASAD, S.Ag",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+5,"TIEN ASPASIA, S.Pd., M.Pd",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Female
+6,"SURANI, AM.Keb",N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Female
+7,"SUTIYO BUDIYARTHO, SE.SIP",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+8,"dr. ANJAR SETYA WIDARTI, MARS",N,Perempuan,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Female
+9,"SUPONO, S.AP",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+10,"DAHLAN RIZAWARMAN, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VII,Jawa Barat,Male
+1,"Drs. SUDIRO ASNO, Ak",Y,Laki-Laki,KOTA BANDUNG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Male
+2,"Dr. ARWANI SYAEROZI, LC,. MA",N,Laki-Laki,CIREBON,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Male
+3,USWATUN HASANAH,N,Perempuan,INDRAMAYU,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Female
+4,"AMRI, SE",N,Perempuan,BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Female
+5,DRS. HAWELLY E. BACHTIAR,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Male
+6,"SUTRISNO, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat VIII,Jawa Barat,Male
+1,"H. EDY JAUZIE MUHSIN BAFADAL, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Male
+2,"NOVALINA L. TOBING, S.H",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Female
+3,SUHYADI,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Male
+4,"WENI HERLIAWATI, A.MD",N,Perempuan,KOTA TASIKMALAYA,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Female
+5,SAEFUL ADNAN,N,Laki-Laki,MAJALENGKA,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Male
+6,EUIS NURJANNAH JAENI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat IX,Jawa Barat,Female
+1,AZRAL HARDY,N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Jawa Barat X,Jawa Barat,Male
+2,BUDI WARSITO,N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Barat X,Jawa Barat,Male
+3,ARIENA JUNISA,N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Jawa Barat X,Jawa Barat,Female
+1,H. ACENG HM. FIKRI,N,Laki-Laki,GARUT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat XI,Jawa Barat,Male
+2,"Dra. EVY NAVISAH, MA",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat XI,Jawa Barat,Female
+3,ARINI INDAH KARTIKA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Barat XI,Jawa Barat,Female
+4,"DAVID MARSAHALA A. A, SH. MH",N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Barat XI,Jawa Barat,Male
+5,"RAMBE MARODJAHAN B, S.H",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Barat XI,Jawa Barat,Male
+1,"Irjen Pol (Purn) Drs. MARWAN PARIS, MBA",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta I,DKI Jakarta,Male
+2,"MUHAMAD KAUTSAR SANGAJI, S.H",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta I,DKI Jakarta,Male
+3,ANISA DWINITA NINGSIH,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta I,DKI Jakarta,Female
+4,"DENY HARIYATNA, SH. MH",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta I,DKI Jakarta,Male
+5,"DENNY SITUMORANG, SE, M.TH",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta I,DKI Jakarta,Female
+1,"Dr. DODI S ABDULKADIR, BSc, SE, SH, MH",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Male
+2,FERRY SORAYA,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Female
+3,"ARIEF PATRAMIJAYA, SH, LL.M",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Male
+4,"DRA. HUDA NOVRIDA, MSC",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Female
+5,RITA ROSITA SYARIFUDIN,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Female
+6,LUKMAN,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta II,DKI Jakarta,Male
+1,IMAM PRAWOTO,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Male
+2,"JUNIANTO SIMANJUNTAK, S.Sos",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Male
+3,LAILA SARI NURDIN,N,Perempuan,TANGERANG,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Female
+4,TAN SIOE TJIN / LELY,N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Female
+5,ANTONIUS RATUMAKIN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Male
+6,"Drs. H. HARDJADINATA, BAc. MM. MSi",N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,DKI Jakarta III,DKI Jakarta,Male
+1,"DR. Drs. H. HONO SEJATI, SH., M.Hum",N,Laki-Laki,KOTA SEMARANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah I,Jawa Tengah,Male
+2,ADI INNA MUNARDI,N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah I,Jawa Tengah,Male
+3,SITI RAHMAH,N,Perempuan,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah I,Jawa Tengah,Female
+1,"Drs. ZAENAL ARIFIN, M.Si",N,Laki-Laki,KOTA SEMARANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah II,Jawa Tengah,Male
+2,"ABDURROKHIM, S.Pd.I",N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah II,Jawa Tengah,Male
+3,ENDANG SRI REJEKI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah II,Jawa Tengah,Female
+4,"PANARDAN, S.H",N,Laki-Laki,BOGOR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah II,Jawa Tengah,Male
+5,LENI NURLIANTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah II,Jawa Tengah,Female
+1,"H. SUNARWI, S.E, MM",N,Laki-Laki,PATI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Male
+2,"ILYAS, S.Pd.I",N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Male
+3,NADHIRAH DWI ARFAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Female
+4,SANUSI,N,Laki-Laki,KARAWANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Male
+5,SUHARSI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Female
+6,HINDARTO,N,Laki-Laki,PEMALANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah III,Jawa Tengah,Male
+1,Ir. H. TRI AGUS BAYUSENO,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Male
+2,SUGIYATNO ADI PRAYITNO,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Male
+3,ROSANIA NASUTION,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Female
+4,"Ir. NGUSMANTO, MM",N,Laki-Laki,BOGOR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Male
+5,"SUHARTO, S.Pi",N,Laki-Laki,KOTA SEMARANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Male
+6,SITI KURNIA PUSPITA,N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IV,Jawa Tengah,Female
+1,SRI RUDINA HARDIYANTO,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah V,Jawa Tengah,Female
+2,MASRUROJI,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah V,Jawa Tengah,Male
+3,YURLIANAH,N,Perempuan,KOTA JAMBI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah V,Jawa Tengah,Female
+4,DODI RUSTANDI,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah V,Jawa Tengah,Male
+1,TUNGGUL ARDIANTORO,N,Laki-Laki,KOTA SEMARANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Male
+2,"MOCHAMAD ROCHIM, SH.M.Kn",N,Laki-Laki,KOTA SURAKARTA,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Male
+3,SITI NURJANAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Female
+4,"Drs. MUHAMMAD FAHMI, MM",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Male
+5,HIKMAH SARASWATI BANAMA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Female
+6,WAHYU WIDODO,N,Laki-Laki,PURWAKARTA,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VI,Jawa Tengah,Male
+1,"Dr. Ir. BUDIYONO, M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VII,Jawa Tengah,Male
+2,"ALI ABDUL ROCHMAN, ST",N,Laki-Laki,DEMAK,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VII,Jawa Tengah,Male
+3,RUQOYYAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VII,Jawa Tengah,Female
+4,CHANAFI RITONGA,N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VII,Jawa Tengah,Male
+5,"NANI HARTATI, S.HI",N,Perempuan,KOTA JAMBI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VII,Jawa Tengah,Female
+1,Hj. SULWASIYAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Female
+2,UDIN WAHYUDIN,N,Laki-Laki,KARAWANG,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Male
+3,"BETRIAL M. NUR, S.E",N,Laki-Laki,BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Male
+4,SISWANTO,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Male
+5,SITI SYARIFAH,N,Perempuan,BANYUMAS,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Female
+6,"ISKANDAR, S.Pd.I",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah VIII,Jawa Tengah,Male
+1,DUMATNO BUDI UTOMO,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Male
+2,IR. ERWIN HADIYANTO,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Male
+3,"MIRAWATI, S.Sos",N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Female
+4,MUHAMAD KUSWANDI,N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Male
+5,"WASIS SURONO, SE",N,Laki-Laki,TEGAL,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Male
+6,ZAENAB,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah IX,Jawa Tengah,Female
+1,"PURNAMAWANSYAH, S.Pd",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Male
+2,"TEDDY YUNIARNO, S.IP",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Male
+3,Dra. SITI ZULAIKHA,N,Perempuan,BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Female
+4,"SUYATNO, S.Pd",N,Laki-Laki,KOTA JAMBI,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Male
+5,"LIDIA ARIANTI, S.E",N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Female
+6,"THORIQ FIRDAUS, S.E",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Tengah X,Jawa Tengah,Male
+1,BRYAN YOGA KUSUMA,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,DI Yogyakarta,DI Yogyakarta,Male
+2,"RENDRA YUNIARDI, S.Th.I , M.Si",N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,DI Yogyakarta,DI Yogyakarta,Male
+3,"VERONICA SUPRIYATINGSIH, S. KEP",N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,DI Yogyakarta,DI Yogyakarta,Female
+1,MULYADI,N,Laki-Laki,SINTANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Male
+2,"Z. MUTTAQIN, SE",N,Laki-Laki,SIDOARJO,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Male
+3,"NILAM PUSPITA PERMATASARI, S.Ds",N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Female
+4,Dr. RUDOLF JAFET SUMAMPOUW,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Male
+5,DIANITA FAHMI RIFADA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Female
+6,"SYAIFUL FARIHANUN, S.Ag",N,Laki-Laki,KOTA SURABAYA,Partai Hati Nurani Rakyat,Hanura,Jawa Timur I,Jawa Timur,Male
+1,"H. KELANA APRILIANTO, SE",N,Laki-Laki,PASURUAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Male
+2,"MOCHAMMAD THORIQ, SE",N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Male
+3,AYU PUTRIANNIE,N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Female
+4,KHOMARIAH,N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Female
+5,TEGAR YUSUF,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Male
+6,AHMED ROY,N,Laki-Laki,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur II,Jawa Timur,Male
+1,"H. SUBUR TRIONO, SE",N,Laki-Laki,KOTA MALANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur III,Jawa Timur,Male
+2,"NICKY CLARA PRATIWI, S.Psi",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur III,Jawa Timur,Female
+3,RATNO SULISTIYANTO,N,Laki-Laki,BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Timur III,Jawa Timur,Male
+1,Drs. BERNY TAMARA,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Male
+2,Dra. NURWULAN KUSUMA,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Female
+3,DITTA IRAWATI,N,Perempuan,BOGOR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Female
+4,"NURHADI AGON, S.AP",N,Laki-Laki,LUMAJANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Male
+5,"Dr. BAMBANG EKO S, M.Si",N,Laki-Laki,NGANJUK,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Male
+6,RISMAWANTI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IV,Jawa Timur,Female
+1,"Dr. Ir. H. SUTRISNO IWANTONO, MA",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Male
+2,LINTANG DEMOSSARI TRISNAPUTRI,N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Female
+3,"ABDUL RACHMAN DOTOKUSUMO, S.H",N,Laki-Laki,KOTA SURABAYA,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Male
+4,"EVIE LESTARI ANDAJANI, SH",N,Perempuan,KOTA DENPASAR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Female
+5,"RUDIYANTO, S.E",N,Laki-Laki,SIDOARJO,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Male
+6,"Ir. ANTUNG HARUDJI SANTOSO, MM.IAI",N,Laki-Laki,KOTA MALANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Male
+7,"NUGRAHENI HADIYANTI, SP. MP",N,Perempuan,KOTA KEDIRI,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Female
+8,"MOCHAMMAD AGUS WINARNO, S.Pd.i",N,Laki-Laki,KOTA MALANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur V,Jawa Timur,Male
+1,"DRA. E ANITA GIZELLE LUBIS, MBA",N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VI,Jawa Timur,Female
+2,"ZAINUL AS'ARI, ST",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VI,Jawa Timur,Male
+3,"HAKIM GUNAWAN, SH",N,Laki-Laki,SIDOARJO,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VI,Jawa Timur,Male
+1,"GAYATRI AISYAH ARDHININDYA, S. Psi.",N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Female
+2,"KAKUNG SANTOSA, S.E",N,Laki-Laki,KOTA SURABAYA,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Male
+3,GARDI GAZARIN,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Male
+4,NASBI BASRI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Female
+5,PRIA SAMBADHA AA,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Male
+6,LUSY VIDYA PUSPITA SARI,N,Perempuan,NGANJUK,Partai Hati Nurani Rakyat,Hanura,Jawa Timur VIII,Jawa Timur,Female
+1,"NURHUDA, S.Pd",N,Laki-Laki,BOJONEGORO,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IX,Jawa Timur,Male
+2,SITI NURBAYA,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IX,Jawa Timur,Female
+3,SAKUR,N,Laki-Laki,SAMPANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur IX,Jawa Timur,Male
+1,SJ. ARIFIN,N,Laki-Laki,LAMONGAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Male
+2,"DEDE SUPRIADI, S.Pd, MM",N,Laki-Laki,KOTA SERANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Male
+3,MAASJE ONNY SUPIT,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Female
+4,DESI MARLINA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Female
+5,YUMNA KARIM,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Female
+6,M. ABDUL AZIZ MUSLIM,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Jawa Timur X,Jawa Timur,Male
+1,ZAIRINA,Y,Perempuan,SAMPANG,Partai Hati Nurani Rakyat,Hanura,Jawa Timur XI,Jawa Timur,Female
+2,MUSROI,N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Jawa Timur XI,Jawa Timur,Male
+3,"Dr. H. M. SAJALI, S.H., M.M., Ph.D.",N,Laki-Laki,SUMENEP,Partai Hati Nurani Rakyat,Hanura,Jawa Timur XI,Jawa Timur,Male
+4,"ANITA PUJI UTAMI, ST",N,Perempuan,KOTA SURABAYA,Partai Hati Nurani Rakyat,Hanura,Jawa Timur XI,Jawa Timur,Female
+1,Dr. H. ADANG SUPANDI,N,Laki-Laki,PANDEGLANG,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Male
+2,HENGKI IRAWAN,N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Male
+3,"WIDAT, SH.",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Female
+4,FISKA SULISTYAWATI,N,Perempuan,PANDEGLANG,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Female
+5,"NEWFONE ARTHUR RUMIMPUNU, SH",N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Male
+6,"JOKO SANTOSO, S.Sn",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten I,Banten,Male
+1,ASEP SAEPULLOH,N,Laki-Laki,KOTA SERANG,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Male
+2,SYAFIK,N,Laki-Laki,KOTA CILEGON,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Male
+3,ASTRID OCTAVIN SARMARIA,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Female
+4,ZAENAL ABIDIN,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Male
+5,"ENTIN SARTINAH, S.Pd.I",N,Perempuan,BEKASI,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Female
+6,"Drs. RAMBUN SUMARDI, Ak. M.Si",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Banten II,Banten,Male
+1,H. INAS N. ZUBIR,Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+2,"AHMAD SUBADRI, S.Pd.I",N,Laki-Laki,TANGERANG,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+3,"ILMI NURUL HUDA, S.Sos., M.Ap",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Female
+4,"NURMAN, SH",N,Laki-Laki,TANGERANG,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+5,IAN ZULFIKAR,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+6,"HENI SUHAENI, S.E",N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Female
+7,AFIFUDIN,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+8,"DWI UTAMI, SH",N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Female
+9,"H. NASRUDIN, SH",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+10,"AGUS DWI ISKANDAR, S.Pd., M.Eng",N,Laki-Laki,SLEMAN,Partai Hati Nurani Rakyat,Hanura,Banten III,Banten,Male
+1,"GEDE PASEK SUARDIKA, SH, MH",N,Laki-Laki,KOTA DENPASAR,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+2,"YAN MITHA DJAKSANA, S.Kom, M.Kom",N,Laki-Laki,BADUNG,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+3,"NENGAH SUKENITI, SE",N,Perempuan,KOTA DENPASAR,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Female
+4,"Drs. I WAYAN NUADA, S.H., M.M",N,Laki-Laki,KOTA DENPASAR,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+5,NI PUTU SRI UTARI,N,Perempuan,KARANGASEM,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Female
+6,"I PUTU INDRA MANDHALA PUTRA, S.H., M.Kn",N,Laki-Laki,KOTA DENPASAR,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+7,"I GEDE MERTA, S. Sos., M.AP",N,Laki-Laki,BANGLI,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+8,ROFII'ATUL FITRIYYAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Female
+9,I KADEK ARIMBAWA,N,Laki-Laki,KLUNGKUNG,Partai Hati Nurani Rakyat,Hanura,Bali,Bali,Male
+1,Drs. JAMALUDDIN MALIK.,N,Laki-Laki,SUMBAWA,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"AGUS, S.H",N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,SRI ARMELIA RINI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,Hj. LALE SYIFAUN NUFUS,N,Perempuan,KOTA MATARAM,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+2,"LALU JAYA ASBANI, S.E",N,Laki-Laki,LOMBOK BARAT,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,"Drs. AZHARUL LAIL, M.Pd.I",N,Laki-Laki,LOMBOK TIMUR,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+4,IDA ALIYAH,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+5,"MISBAH, S.Kom",N,Laki-Laki,LOMBOK UTARA,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+6,WINARTI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+7,"RIO RAMABASKARA, S.H., M.H",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+8,NOVIA AGUSTIAR RAHMAT,N,Laki-Laki,LOMBOK TENGAH,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+1,"ADRIANUS GARU, S.E., M.Si",N,Laki-Laki,MANGGARAI,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,"PETRUS SELESTINUS, S.H",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,ELISABETH MARIA MERSIN,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,Drs. PAULUS MOA,N,Laki-Laki,SIKKA,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,Dra. YOHANA AFRA BABORAKI,N,Perempuan,ENDE,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+6,Drs. MOHAMMAD SALEH GAWI,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+1,Drs. IBRAHIM AGUSTINUS MEDAH,N,Laki-Laki,KOTA KUPANG,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+2,SERFASIUS SERBAYA MANEK,N,Laki-Laki,BEKASI,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,DEWI RAHAYU SUKMAWATI GAH,N,Perempuan,KOTA KUPANG,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+4,DICK TENA BOLO LOURO,N,Laki-Laki,KOTA CIMAHI,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+5,FATIMAH WATI,N,Perempuan,KOTA KUPANG,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+6,"R. IDA SUNDARI, SH, MH",N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+7,FERRY KASE,Y,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+1,HILDI HAMID,N,Laki-Laki,KAYONG UTARA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Male
+2,HANAFI ZAMZAM,N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Male
+3,SRI SUHARTI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Female
+4,"MUHAMMAD YUSUF, S.T",N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Male
+5,ARSENIUS,N,Laki-Laki,LANDAK,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Male
+6,RUMINI,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Female
+7,AGUS SETIADI,N,Laki-Laki,MEMPAWAH,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Male
+8,PITRI YANI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat I,Kalimantan Barat,Female
+1,MAIMUNATUN,N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat II,Kalimantan Barat,Female
+2,"CARREL TICUALU, SE., SH., MH.",N,Laki-Laki,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat II,Kalimantan Barat,Male
+3,JEANINE ALDA YAHYA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Barat II,Kalimantan Barat,Female
+1,TOMI AMIROL,N,Laki-Laki,SERUYAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Tengah,Kalimantan Tengah,Male
+2,"Drs. GAYA, M.Pd.H",N,Laki-Laki,KOTA PALANGKARAYA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Tengah,Kalimantan Tengah,Male
+3,SULISTIANI,N,Perempuan,KOTA PALANGKARAYA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Tengah,Kalimantan Tengah,Female
+1,AGUS WINARNO M NOOR,N,Laki-Laki,BARITO KUALA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Selatan I,Kalimantan Selatan,Male
+2,ATIKA WULANDARI,N,Perempuan,BANJAR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,TREESWATY LANNY SUSATYA,N,Perempuan,KOTA BANJARBARU,Partai Hati Nurani Rakyat,Hanura,Kalimantan Selatan II,Kalimantan Selatan,Female
+2,NANANG AGUS DWI SETYOBUDI,N,Laki-Laki,SRAGEN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Selatan II,Kalimantan Selatan,Male
+1,"AJI MUHAMMAD MIRZA WARDANA, ST",N,Laki-Laki,KOTA SAMARINDA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Male
+2,"Drs. ERRY TB GULTOM, M.M",N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Male
+3,"EFFY KUSWITA, S.H",N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Female
+4,H. SAYYID ABDAL NANANG AL HASANI,N,Laki-Laki,KUTAI TIMUR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Male
+5,"Dr. KASMAN, S.Si, M.Si",N,Laki-Laki,BOGOR,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Male
+6,NUR ANDRIYANI,N,Perempuan,KOTA SAMARINDA,Partai Hati Nurani Rakyat,Hanura,Kalimantan Timur,Kalimantan Timur,Female
+1,BENNY RHAMDANI,N,Laki-Laki,KOTA KOTAMOBAGU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Utara,Sulawesi Utara,Male
+2,"Dr. RIO DISRAELI SUMUAL, M.Sc",N,Laki-Laki,MINAHASA UTARA,Partai Hati Nurani Rakyat,Hanura,Sulawesi Utara,Sulawesi Utara,Male
+3,FIBIOLLA IRIANNI OHEI,N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Sulawesi Utara,Sulawesi Utara,Female
+4,IVONE VANNY MONANGIN,N,Perempuan,MINAHASA,Partai Hati Nurani Rakyat,Hanura,Sulawesi Utara,Sulawesi Utara,Female
+5,"ARIPIN BOLOTA, S.pd",N,Laki-Laki,BOLAANG MONGONDOW UTARA,Partai Hati Nurani Rakyat,Hanura,Sulawesi Utara,Sulawesi Utara,Male
+1,dr. DELIS JULKARSON HEHI,N,Laki-Laki,KOTA MAKASSAR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Male
+2,Drs. LANIA LAOSA,N,Laki-Laki,BANGGAI KEPULAUAN,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Male
+3,DEBBY WALELENG,N,Perempuan,KOTA PALU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Female
+4,"H. IRWANTO LUBIS, SH.,M.H",N,Laki-Laki,KOTA PALU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Male
+5,"Dr. GATOT MARGONO, S.Pd , M.M",N,Laki-Laki,KOTA PALU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Male
+6,"MARIANA ARSYAD, S.Si",N,Perempuan,KOTA PALU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tengah,Sulawesi Tengah,Female
+1,HASANUDDIN TISI,N,Laki-Laki,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan I,Sulawesi Selatan,Male
+2,"Dr. Ir. AFFANDY AGUSMAN ARIS, SE., MM",N,Laki-Laki,KOTA MAKASSAR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,NURUL ULFAH APRILY,N,Perempuan,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan I,Sulawesi Selatan,Female
+4,SISWATI PURWANINGSIH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan I,Sulawesi Selatan,Female
+5,MUHAMMAD THAMSIEL DM,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan I,Sulawesi Selatan,Male
+1,A. ILHAMSYAH MATTALATTA,N,Laki-Laki,KOTA MAKASSAR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Male
+2,HASRUDDIN DJAMAL,N,Laki-Laki,KOTA MAKASSAR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,SINAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Female
+4,MI'RAJ ALKAUZAR,N,Laki-Laki,BARRU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Male
+5,TAKBIER WATA,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,RINA KUSTIANA,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan II,Sulawesi Selatan,Female
+1,"Dr. AKHMAD SYARIFUDDIN, S.E, M.Si",N,Laki-Laki,KOTA PALOPO,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan III,Sulawesi Selatan,Male
+2,TULUS GANEFANTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan III,Sulawesi Selatan,Female
+3,SAKIR DG RAPPUNG,N,Laki-Laki,KOTA MAKASSAR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,RUDI JUNIAWAN,N,Laki-Laki,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,MUHAMMAD FADEL CHRISTOPOL,N,Laki-Laki,KOTA BAU BAU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,"LISTYORINI, SE",N,Perempuan,JAKARTA UTARA,Partai Hati Nurani Rakyat,Hanura,Sulawesi Tenggara,Sulawesi Tenggara,Female
+1,VENTJE JONATAN PARERA,N,Laki-Laki,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Gorontalo,Gorontalo,Male
+2,IRWAN MULYADI,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Gorontalo,Gorontalo,Male
+3,NURJANAH,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Gorontalo,Gorontalo,Female
+1,Ir. ROCKY BERNADIF PAOTONAN,N,Laki-Laki,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Sulawesi Barat,Sulawesi Barat,Male
+2,SITI NURBAITY,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Sulawesi Barat,Sulawesi Barat,Female
+3,Drs. SYAHRUDDIN HARDY,N,Laki-Laki,MAMUJU,Partai Hati Nurani Rakyat,Hanura,Sulawesi Barat,Sulawesi Barat,Male
+1,"GERRY HABEL HUKUBUN, SE",N,Laki-Laki,MALUKU TENGGARA,Partai Hati Nurani Rakyat,Hanura,Maluku,Maluku,Male
+2,"SOEDESON TANDRA, SH.",N,Laki-Laki,KOTA SURABAYA,Partai Hati Nurani Rakyat,Hanura,Maluku,Maluku,Male
+3,NURUL YULIANTI,N,Perempuan,JAKARTA PUSAT,Partai Hati Nurani Rakyat,Hanura,Maluku,Maluku,Female
+1,BASRI SALAMA,N,Laki-Laki,KOTA TERNATE,Partai Hati Nurani Rakyat,Hanura,Maluku Utara,Maluku Utara,Male
+2,"STEVANUS KUSAME, SH",N,Laki-Laki,KOTA TANGERANG,Partai Hati Nurani Rakyat,Hanura,Maluku Utara,Maluku Utara,Male
+3,METTY RANTI,N,Perempuan,JAKARTA TIMUR,Partai Hati Nurani Rakyat,Hanura,Maluku Utara,Maluku Utara,Female
+1,EDISON LAMBE,N,Laki-Laki,JAYAPURA,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Male
+2,"Drs. M. ALI KASTELA, MM",N,Laki-Laki,KOTA DEPOK,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Male
+3,"YUNITA YULIANA KASIEPO, A.Md",N,Perempuan,KOTA BEKASI,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Female
+4,"Drs. AMBROSIUS I.M NABABAN, M.M",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Male
+5,YUSAK S. WONATOREY,N,Laki-Laki,JAKARTA BARAT,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Male
+6,"YOU DIAN AMDRIA IDJARE WAYOI, S.SIT",N,Perempuan,JAYAPURA,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Female
+7,BERNABAS NUKUBOY,N,Laki-Laki,JAYAPURA,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Male
+8,Dra. Hj. ARMUNIATI ARIFUDDIN,N,Perempuan,MIMIKA,Partai Hati Nurani Rakyat,Hanura,Papua,Papua,Female
+1,"Drs. MENASE ROBERT KAMBU, M.Si",N,Laki-Laki,MAYBRAT,Partai Hati Nurani Rakyat,Hanura,Papua Barat,Papua Barat,Male
+2,"REGINA HOMER, S.Ip",N,Perempuan,SORONG,Partai Hati Nurani Rakyat,Hanura,Papua Barat,Papua Barat,Female
+3,TERIANUS RUMBIAK,N,Laki-Laki,MANOKWARI,Partai Hati Nurani Rakyat,Hanura,Papua Barat,Papua Barat,Male
+1,PARIR ONESIMUS SINGAL,N,Laki-Laki,BULUNGAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Utara,Kalimantan Utara,Male
+2,SAVIRA MIRZA,N,Perempuan,JAKARTA SELATAN,Partai Hati Nurani Rakyat,Hanura,Kalimantan Utara,Kalimantan Utara,Female

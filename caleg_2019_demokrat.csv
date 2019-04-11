@@ -1,0 +1,570 @@
+NUMBER,FULL_NAME,INCUMBENT,SEX,RESIDENCE,PARTY,PARTY_ALIAS,CONSTITUENCY,PROVINCE,SEX_EN
+1,H. TEUKU RIEFKY HARSYA,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Aceh I,Aceh,Male
+2,"M. TANWIER MAHDI, S.Ag.MM",N,Laki-Laki,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh I,Aceh,Male
+3,"ZAIYANA PUTRI, S.Pd.M.Pd",N,Perempuan,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh I,Aceh,Female
+4,M. ALI YAKOB,N,Laki-Laki,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh I,Aceh,Male
+5,"T. ISKANDAR DAOD, SE, M.Si.Ak.",N,Laki-Laki,ACEH BARAT,Partai Demokrat,Demokrat,Aceh I,Aceh,Male
+6,"IDARYANI, SE.M.Si",N,Perempuan,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh I,Aceh,Female
+7,"RAHMIATI, SE.Ak",N,Perempuan,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh I,Aceh,Female
+1,"MUSLIM, SHI.MM",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Aceh II,Aceh,Male
+2,MIRNAWATI,N,Perempuan,KOTA LANGSA,Partai Demokrat,Demokrat,Aceh II,Aceh,Female
+3,"HAMDAN SATI, ST",N,Laki-Laki,ACEH TAMIANG,Partai Demokrat,Demokrat,Aceh II,Aceh,Male
+4,JAMALUDDIN T MUKU,N,Laki-Laki,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh II,Aceh,Male
+5,KAUTSAR MUHAMMAD YUS,N,Laki-Laki,KOTA BANDA ACEH,Partai Demokrat,Demokrat,Aceh II,Aceh,Male
+6,PINUS YANI,N,Perempuan,ACEH BESAR,Partai Demokrat,Demokrat,Aceh II,Aceh,Female
+1,"H.ABDUL WAHAB DALIMUNTHE, SH",Y,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+2,"Drs. HERRI ZULKARNAIN, SH, M.Si",N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+3,"SUSILAWATI, SE, MM, MA, M.Si (HAN)",N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Female
+4,Ir. M.SUBUR SEMBIRING,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+5,Mayjen TNI Purn. MUHAMMAD NIZAM,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+6,INGRID DIANA SETIAWATY,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Female
+7,ARIF RAHMANSYAH MARBUN,N,Laki-Laki,DELI SERDANG,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+8,"HENDRIK H SITOMPUL, Drs. MM",N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+9,MERDINA INDRIATI,N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Female
+10,Drs. H. AMIRUDDIN,N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara I,Sumatera Utara,Male
+1,"Drh. JHONNI ALLEN MARBUN, MM",N,Laki-Laki,KOTA BOGOR,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+2,H. MUHAMMAD HARIS,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+3,"NURHASANAH, S.Sos., M.I.Kom",N,Perempuan,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Female
+4,"Ir. ONGKU P. HASIBUAN, MM",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+5,"YAN AMARULLAH HARAHAP, SE. MM.",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+6,DESYANA NDRURU,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Female
+7,"PARLINSYAH HARAHAP, SE",N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+8,"AKBAR YUSUP SIREGAR, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Male
+9,ELIDA HAPNI,N,Perempuan,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Female
+10,"TIARLINA PANJAITAN, AMD",N,Perempuan,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara II,Sumatera Utara,Female
+1,"DR. HINCA IP PANDJAITAN XIII, S.H., M.H., ACCS.",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+2,"JANSEN SITINDAON, S.H., M.H",N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+3,INDAH APRIANTI ELRISTA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Female
+4,A FEIRAL RIZKY BATUBARA,N,Laki-Laki,KOTA MEDAN,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+5,"MARAJO ELEON HUTAGAOL, S.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+6,JEANNE RIA MARPAUNG,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Female
+7,"Ir. SAHAT SARAGIH, M.T.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+8,Drs. DJONI SIANIPAR,N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+9,INTAN MUSTIKA SENORITA,N,Perempuan,KOTA BANDUNG,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Female
+10,DARWIN MICHAEL AGUSTINUS,N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Utara III,Sumatera Utara,Male
+1,"H. DARIZAL BASIR, S.Sos., MBA.",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Male
+2,"EKA PUTRA, SE",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Male
+3,RIZKA YULIANA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Female
+4,"YANDRI SUDARSO, SH., MH",N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Male
+5,FURQAN,N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Male
+6,ZUHRAH,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Female
+7,FIRDAUS DJALIL,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Male
+8,"FREESCA SYAFITRI, SE",N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sumatera Barat I,Sumatera Barat,Female
+1,Ir. H.MULYADI,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Male
+2,REZKA OKTOBERIA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Female
+3,CIPTA PANCA LAKSANA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Male
+4,TEUKU MUHAMMAD GADAFFI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Male
+5,VINNA MELWANTY,N,Perempuan,KOTA PADANG,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Female
+6,AFDAL MUKMIN,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sumatera Barat II,Sumatera Barat,Male
+1,"CORNEL SIMBOLON, M.Sc",N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Riau I,Riau,Male
+2,SAYED ABUBAKAR A. ASSEGGAF,Y,Laki-Laki,KOTA PEKANBARU,Partai Demokrat,Demokrat,Riau I,Riau,Male
+3,"Hj. INDRI SULISTYOWATI, BBA.,S.H.",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Riau I,Riau,Female
+4,"Drs. H. ACHMAD, M.Si",N,Laki-Laki,KOTA PEKANBARU,Partai Demokrat,Demokrat,Riau I,Riau,Male
+5,"SUHARTONO, S.H.",N,Laki-Laki,SIAK,Partai Demokrat,Demokrat,Riau I,Riau,Male
+6,"SITI KOMARIATUN, S.H.,M.Kn",N,Perempuan,KOTA PEKANBARU,Partai Demokrat,Demokrat,Riau I,Riau,Female
+7,SITI KHODIJAH,N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Riau I,Riau,Female
+1,M. NASIR,Y,Laki-Laki,KOTA PEKANBARU,Partai Demokrat,Demokrat,Riau II,Riau,Male
+2,RAHMAD JEVARY JUNIARDO,N,Laki-Laki,KAMPAR,Partai Demokrat,Demokrat,Riau II,Riau,Male
+3,ARTUTI,N,Perempuan,KOTA PEKANBARU,Partai Demokrat,Demokrat,Riau II,Riau,Female
+4,"Drs. H. ZULHER, MS",N,Laki-Laki,KAMPAR,Partai Demokrat,Demokrat,Riau II,Riau,Male
+5,RAMLI. FE,N,Laki-Laki,PELALAWAN,Partai Demokrat,Demokrat,Riau II,Riau,Male
+6,"RATI PITRIA NINGSI, SE",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Riau II,Riau,Female
+1,Drs. H. ZULFIKAR ACHMAD,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jambi,Jambi,Male
+2,"H. PAUT SYAKARIN, SH",N,Laki-Laki,KOTA JAMBI,Partai Demokrat,Demokrat,Jambi,Jambi,Male
+3,AMANDA INDIRA RAHMADHANI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jambi,Jambi,Female
+4,CORNELIS BUSTON,N,Laki-Laki,KOTA JAMBI,Partai Demokrat,Demokrat,Jambi,Jambi,Male
+5,"H. ZAINAL ABIDIN, SE",N,Laki-Laki,KOTA JAMBI,Partai Demokrat,Demokrat,Jambi,Jambi,Male
+6,HENNY IRAWATI,N,Perempuan,BUNGO,Partai Demokrat,Demokrat,Jambi,Jambi,Female
+7,NOVIA HEDIDIANA,N,Perempuan,MERANGIN,Partai Demokrat,Demokrat,Jambi,Jambi,Female
+8,"ANDIMEGAWANTO, ST, MM",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jambi,Jambi,Male
+1,"Ir. H. ISHAK MEKKI, MM",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Male
+2,"SYOFWATILLAH MOHZAIB, S.Sos. I",Y,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Male
+3,"Dra. HJ. NURWATI WAHAB, MM",N,Perempuan,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Female
+4,ADITYA PRATAMA,N,Laki-Laki,OGAN KOMERING ILIR,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Male
+5,ROGAYATI BAIDJURI,N,Perempuan,KOTA LUBUKLINGGAU,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Female
+6,DESY KASNAYATI,N,Perempuan,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Female
+7,IRDIANSYAH,N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Male
+8,"HUSYAM, ST., S.Sos., M.Si",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan I,Sumatera Selatan,Male
+1,"WAHYU SANJAYA, SE",Y,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+2,"YUDHA PRATOMO MAHYUDDIN, M.Sc, Ph.D",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+3,"ASMANIAH, SE",N,Perempuan,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Female
+4,"Drs. H.HARUNATA, MM",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+5,"MIERWAN, SH",N,Laki-Laki,KOTA PAGAR ALAM,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+6,APRILIANA,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Female
+7,"AHMAD USMARWI KAFFAH, SH., LL.M., LL.M",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+8,HJ ELIZA MUSNIR,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Female
+9,"H. INDRAWANI, SE., MH.",N,Laki-Laki,KOTA PALEMBANG,Partai Demokrat,Demokrat,Sumatera Selatan II,Sumatera Selatan,Male
+1,H.SYAMHARDI SALEH,N,Laki-Laki,KAUR,Partai Demokrat,Demokrat,Bengkulu,Bengkulu,Male
+2,"WIWIK ASRI SETYOWATI, S.Kom",N,Perempuan,KAUR,Partai Demokrat,Demokrat,Bengkulu,Bengkulu,Female
+3,"RORI JUNIUS ARMIJAYA, SE",N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Bengkulu,Bengkulu,Male
+4,"MARDIANA MUKSIN, SE",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Bengkulu,Bengkulu,Female
+1,H. ZULKIFLI ANWAR,Y,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+2,IMER DARIUS,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+3,"ERNITA, SH, MH",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Female
+4,"K. AGUS REVOLUSI, S.Sos., MH",N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+5,Ir. INDRA SUBAGIO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+6,"RAHMA MARETA, SE",N,Perempuan,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Female
+7,MUHAMMAD NUR,N,Laki-Laki,KOTA BANDAR LAMPUNG,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+8,"HERU PRADIJONRIKA, S.H.M.H. M.A, M.Ud",N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+9,"RIDA FAUZIA QINVI, S.Sos., M.Han",N,Perempuan,PRINGSEWU,Partai Demokrat,Demokrat,Lampung I,Lampung,Female
+10,DEDE SAMSUL ARIPIN,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Lampung I,Lampung,Male
+1,MARWAN CIK ASAN,Y,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+2,"Dr. Ir. ATTE SUGANDI, MM. MH.",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+3,"ADE REZA MEUTIA, S.Tr.Keb",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Lampung II,Lampung,Female
+4,ILHAM MENDROFA,N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+5,"WASITO, S.Pd.M.Pd",N,Laki-Laki,TULANG BAWANG,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+6,ARI SANTI,N,Perempuan,KOTA TANGERANG,Partai Demokrat,Demokrat,Lampung II,Lampung,Female
+7,"EFRAN YUNIARTO, SH MKn",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+8,ERICK PESONA NUGRAHA,N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Lampung II,Lampung,Male
+9,NOERLITASARI,N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Lampung II,Lampung,Female
+10,SITI RAHMAWATI,N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Lampung II,Lampung,Female
+1,"HUSNIZAR HOOD, S.IP",N,Laki-Laki,KOTA TANJUNGPINANG,Partai Demokrat,Demokrat,Kepulauan Riau,Kepulauan Riau,Male
+2,MAYJEN TNI PURN. H. MOCHAMAD NASIR,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Kepulauan Riau,Kepulauan Riau,Male
+3,Dra. AIDA ZULIKA NASUTION ISMET,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Kepulauan Riau,Kepulauan Riau,Female
+4,"Dr. HJ. SUSILAWATI, M.Ed",N,Perempuan,BINTAN,Partai Demokrat,Demokrat,Kepulauan Riau,Kepulauan Riau,Female
+1,EKO WIJAYA,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Bangka Belitung,Bangka Belitung,Male
+2,Ir. ENDANG KUSUMAWATY,N,Perempuan,KOTA BANDUNG,Partai Demokrat,Demokrat,Bangka Belitung,Bangka Belitung,Female
+3,"DR. Ir. H. KMS DANIEL, M.M",N,Laki-Laki,BANGKA,Partai Demokrat,Demokrat,Bangka Belitung,Bangka Belitung,Male
+1,"H. AGUNG BUDI SANTOSO, SH., MM.",Y,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Male
+2,RICKY ACHMAD SOEBAGDJA,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Male
+3,"DINI ANGGRAENI, SE",N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Female
+4,CHAIRUL YAQIN HIDAYAT,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Male
+5,SILVARIYADI RAHMAN,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Male
+6,"RR. DWI ASIANTI WISNUWARDHANI, SH",N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Female
+7,TUTI PUSPOWATI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat I,Jawa Barat,Female
+1,"DEDE YUSUF MACAN EFFENDI, ST.M.I.Pol",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Male
+2,ASTARI ASLAM,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Female
+3,DAKA PURUMAS,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Male
+4,"LUTFIDA ADLIANA, SE",N,Perempuan,BANDUNG,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Female
+5,"ANTONI GIRSANG, SE.",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Male
+6,Dra. ERNA WISMAYA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Female
+7,ENTIN SUPRIATIN,N,Perempuan,BANDUNG,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Female
+8,"Ir. M. ADAMSYAH WH, M, Si",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Male
+9,AHMAD BALYA,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat II,Jawa Barat,Male
+1,"Dr. H.SJARIFUDDIN HASAN, SE, MM, MBA",Y,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+2,WAWAN SETIAWAN SH.,N,Laki-Laki,CIANJUR,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+3,SRI HIDAYATI,N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Female
+4,"H. HEDI PERMADI BOY, SE, MM, Mec",N,Laki-Laki,CIANJUR,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+5,"BOBBY BERNARD BATUBARA, ST, MBA",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+6,dr. HJ DINA HARIJANTO M,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Female
+7,"BARICK AHMAD SETIAWAN, , S.Si., M.A.B.",N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+8,"Drs. MAMAN HERMAN, M.Si",N,Laki-Laki,KOTA BOGOR,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Male
+9,DINA AMALIA H,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat III,Jawa Barat,Female
+1,"H. MOHAMAD MURAZ, SH, MM",N,Laki-Laki,KOTA SUKABUMI,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Male
+2,"EUIS WIDANINGSIH, SE, MM",N,Perempuan,SUKABUMI,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Female
+3,"BUDI MUNAWAR KHUTOMI, S.Pd.I",N,Laki-Laki,SUKABUMI,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Male
+4,"KUSWARA, SH",N,Laki-Laki,SUKABUMI,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Male
+5,"HAMKA HALKAM, SE., MBA",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Male
+6,Dra. DIAN ROSANA,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat IV,Jawa Barat,Female
+1,"H. ANTON SUKARTONO SURATTO, M. Si",Y,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+2,"H. MAX SOPACUA, SE, M.Sc",N,Laki-Laki,KOTA BOGOR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+3,"R. RORO TRI PONNINGSIH, SS",N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Female
+4,FERDINAND HUTAHAEAN,N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+5,RYAN SYARIEF,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+6,"DR. Hj. RATNASARI AZAHARI, MPA",N,Perempuan,KOTA BOGOR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Female
+7,IRWAN SUHANTO,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+8,SRI SUGIANTI,N,Perempuan,JAKARTA BARAT,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Female
+9,"Dr. Ir. R. RUDY IRAWAN, MM",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat V,Jawa Barat,Male
+1,Ir. R.Y.B KADARISMAN,N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Male
+2,"H.M. ROSYID HIDAYAT, IR",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Male
+3,dr. SYAHNIDAR HELVIANI,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Female
+4,"Dr. E.B.SINAGA, MM, Ph.D",N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Male
+5,"Ir. M. VICTOR MANURUNG, M.Sc",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Male
+6,"RITA AGUSTIN, SE",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat VI,Jawa Barat,Female
+1,"Hj. VERA FEBYANTHY, M.Si",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Female
+2,NURCAHYO ANGGORO JATI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+3,"Ir. H. HARI KARTANA, MM., Ph.D., D.Sc.",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+4,"DR. H. R.A. MUNAWAR FUAD, M.Ag.",N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+5,"BAYU IRAWAN, S.Sos",N,Laki-Laki,KARAWANG,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+6,HJ. UMI HARYANI,N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Female
+7,"ROMI OKTAVIANSYAH, SE",N,Laki-Laki,BEKASI,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+8,"Ir. JOEROY, SH., MM., MH.",N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+9,ENJI SWASTIKA PUTRI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Female
+10,KRISNA BAYU,N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Jawa Barat VII,Jawa Barat,Male
+1,"DR. Ir. E.HERMAN KHAERON, M.Si",Y,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Male
+2,"ANIS KHOIRUNNISA, S.Th.I",N,Perempuan,INDRAMAYU,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Female
+3,"EKKY BAHTIAR, SE",N,Laki-Laki,CIREBON,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Male
+4,"DHIANA ANWAR, SH",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Female
+5,"Hj. SYARIFAH LOVITA, SE.",N,Perempuan,KOTA CIREBON,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Female
+6,"ISMET DJAFAR, M.M.",N,Laki-Laki,KOTA SERANG,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Male
+7,FERY FAIRUZABADI MUSTAJAZ,N,Laki-Laki,SERANG,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Male
+8,FAIZAH TRI SUSIYATI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Female
+9,PARLINDUNGAN MARSINTA,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat VIII,Jawa Barat,Male
+1,"LINDA MEGAWATI, SE, MSi.",Y,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Female
+2,"LIS DEDEH, SH, SE, MM",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Female
+3,DR. H.HERIYANTO,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Male
+4,KAMHAR LAKUMANI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Male
+5,"IR. H. DUDI YELLI, MM. MT.",N,Laki-Laki,KOTA TASIKMALAYA,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Male
+6,"APRILYA MONICA, SH.",N,Perempuan,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Female
+7,"ELIS ROHAYATI,, SS",N,Perempuan,TANGERANG,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Female
+8,MELKY DEDI ISKANDAR G,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat IX,Jawa Barat,Male
+1,"H.DIDI IRAWADI SYAMSUDDIN, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Male
+2,"H.T.MAMAT ROBBY SUGANDA, M.AP",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Male
+3,"HJ. YOYOH RUKIJAH, S.TR. KEB",N,Perempuan,KUNINGAN,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Female
+4,"TB CEPPY SUBHAN SOLICHIN, SE",N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Male
+5,Dr. Hj. IRMA BASTAMAN HARIS,N,Perempuan,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Female
+6,"YETI HERYATI, SH",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Female
+7,DENI DURIYATUL ROMDONAH,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat X,Jawa Barat,Female
+1,Hj. SITI MUFATTAHAH,Y,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Female
+2,"DR. NURUL IMAN MUSTOPA, MA",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+3,"DR. HANAN SOEHARTO, SH, MH",N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+4,"Hj. AI SURYANI, SH, SP.I",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Female
+5,"H. DEDE SUDRAJAT, IR, MP",N,Laki-Laki,KOTA TASIKMALAYA,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+6,GALIH WIRIA MUKTI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+7,"MULYENI,, SE",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Female
+8,H. ASEP ACHLAN,N,Laki-Laki,GARUT,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+9,"DR, Drs. CECEP SUHARDIMAN, SH, MH",N,Laki-Laki,KOTA CIREBON,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+10,Ir. NUKI SUTARNO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Barat XI,Jawa Barat,Male
+1,DWI ASTUTI WULANDARI,Y,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Female
+2,"MM ARDY MBALEMBOUT, SH., MH., CLA",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Male
+3,MAAH SETIAWAN,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Male
+4,ALEXANDER BERNHARD HARAHAP,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Male
+5,"RATNA, SE",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Female
+6,"DR. R. MOCHAMMAD PURWOKO, ST., M.M.",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,DKI Jakarta I,DKI Jakarta,Male
+1,HJ.MELANI LEIMENA SUHARLI,Y,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Female
+2,"TAUFIQURRAHMAN, SH",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Male
+3,Ir. Hj. MARIANA HARAHAP,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Female
+4,ABDUL RASYID,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Male
+5,JOY DESTINY TOBING,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Female
+6,BENNY PRIMADI MINARSONO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Male
+7,"M.R SYARIF HASAN, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta II,DKI Jakarta,Male
+1,"H. SANTOSO, SH",N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Male
+2,"SUPANDI R. SUGONDO, S.Sos, M.Si",N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Male
+3,Ir. SUKMAWATI SYUKUR,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Female
+4,"HIFNI HASAN, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Male
+5,KRISNA MURTI,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Male
+6,"HARTI HARTIDJAH, SE",N,Perempuan,JAKARTA BARAT,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Female
+7,"IWAN RIADI TARIGAN,SE",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Male
+8,"ANDI NURHIDAYAH, SH, MH",N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,DKI Jakarta III,DKI Jakarta,Female
+1,A.S.SUKAWIJAYA ALIAS YOYOK SUKAWI,N,Laki-Laki,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Male
+2,"MONALISA CAMELLA FRANSISCA DANIEL, S.H, M.H",N,Perempuan,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Female
+3,"Ir. H. MUHAMMAD BAGHOWI, MM",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Male
+4,"Drs. KASMUN SAPARAUS, M.Si",N,Laki-Laki,KOTA SALATIGA,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Male
+5,IKA PUTRI ANGAJAYA,N,Perempuan,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Female
+6,SOFIA,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Female
+7,IMANUEL ANTON NIKIYULUN,N,Laki-Laki,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Male
+8,"H.WINDU SUKO BASUKI, SH",N,Laki-Laki,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah I,Jawa Tengah,Male
+1,DINA LORENZA AUDRIA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Female
+2,"H. GUNARI A LATIEF, M.Si",N,Laki-Laki,KUDUS,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Male
+3,"Drs. HENDRO MARTOJO, MM",N,Laki-Laki,JEPARA,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Male
+4,"NURUL HUDA, SH, MH",N,Laki-Laki,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Male
+5,"REKHA MAHENDRASWARI, SE, MSi",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Female
+6,KARREN ZUSRINA,N,Perempuan,JEPARA,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Female
+7,AHDI MUQSITH,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah II,Jawa Tengah,Male
+1,"DR. Ir. H. DJOKO UDJIANTO, MM",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Male
+2,HARMUSA OKTAVIANI,N,Perempuan,REMBANG,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Female
+3,"DYAH SHINTAWATI, SE",N,Perempuan,KARANGANYAR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Female
+4,"Ir. H. WIDJANARKO, M.Sc",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Male
+5,LYDIA ANDARINI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Female
+6,MARGONO CAHYO PURNOMO,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Male
+7,DIAJENG WIKAN PARAMASTRI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Female
+8,"SRI DYATMOKO, SE",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Male
+9,TEGUH ISTIAWAN,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah III,Jawa Tengah,Male
+1,"RINTO SUBEKTI, SE, MM",Y,Laki-Laki,KARANGANYAR,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Male
+2,"Drs. JOKO SAPTONO, M.Si",N,Laki-Laki,SRAGEN,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Male
+3,SETIYORINI,N,Perempuan,MAGETAN,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Female
+4,TUTUT SUTRISNO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Male
+5,JUNIWATI NASIR,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Female
+6,ADRIAN PANJI SUKMA,N,Laki-Laki,KARANGANYAR,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Male
+7,"RATIH JUNIATI, SH, MH",N,Perempuan,KARANGANYAR,Partai Demokrat,Demokrat,Jawa Tengah IV,Jawa Tengah,Female
+1,"SUNARDI, S.Pd, M.M",N,Laki-Laki,KLATEN,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Male
+2,"INDYASTARI WIKAN RATIH, ST., MT.Ars.",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Female
+3,"LILIK HARYANTO, SE,M.Si",N,Laki-Laki,BOYOLALI,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Male
+4,PIETER,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Male
+5,GRACESIANA SILANNO,N,Perempuan,SIDOARJO,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Female
+6,Dra.. WAHYUNING CHUMAESON,N,Perempuan,KOTA SURAKARTA,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Female
+7,SUGIYARDI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Male
+8,"SAROYO, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah V,Jawa Tengah,Male
+1,Dr. HJ. INDRAWATI SUKADIS,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Female
+2,"BRAMANTYO SUWONDO M, M., IR",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Male
+3,"H. SHOLEH SOE'AIDY, SH",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Male
+4,NANI SULISTYANI HERAWATI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Female
+5,"H. SUGENG MULYANTO, SH",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Male
+6,Ir. KRISNO PUDJONGGO,N,Laki-Laki,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Male
+7,MIFTAHUDDIN,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Male
+8,Hj.FATIMAH VERENA PRIHASTYARI.SE.,N,Perempuan,PURWOREJO,Partai Demokrat,Demokrat,Jawa Tengah VI,Jawa Tengah,Female
+1,"LASMI INDARYANI, SE",N,Perempuan,BANYUMAS,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Female
+2,"FARIANI SUGIHARTO, B.Sc., MBA",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Female
+3,SUPRAPTO,N,Laki-Laki,KOTA YOGYAKARTA,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Male
+4,"MOKHAMAD SUDRAJAT, SH",N,Laki-Laki,PURBALINGGA,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Male
+5,DEWI RETNO HARUM DATI,N,Perempuan,BANJARNEGARA,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Female
+6,AGUS PAMUJI,N,Laki-Laki,BANJARNEGARA,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Male
+7,"IKA FARDIANA, S.Kep.,Ns.",N,Perempuan,PURBALINGGA,Partai Demokrat,Demokrat,Jawa Tengah VII,Jawa Tengah,Female
+1,INDRIANI HADI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Female
+2,WASTAM,N,Laki-Laki,BANYUMAS,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Male
+3,"ABDUL HAKAM, SH.,MH",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Male
+4,OKTO WIRYAWAN SUBAGYO,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Male
+5,"LUKAS BASKARA, SH",N,Laki-Laki,KOTA SEMARANG,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Male
+6,EFFA FAUZIAH,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Female
+7,"ANNISA NURFAJRINA, SP, MM",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Female
+8,"H. HANDY MERDIAWAN, SE, MM",N,Laki-Laki,CILACAP,Partai Demokrat,Demokrat,Jawa Tengah VIII,Jawa Tengah,Male
+1,"H. MEHBOB, SH, MH, CN",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Male
+2,"HJ. KHUROTUL JANNAH, SE., MM.",N,Perempuan,KOTA TEGAL,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Female
+3,"SHOLI, SH,. M.H.",N,Laki-Laki,BEKASI,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Male
+4,AKMAL BUDI YULIANTO (ABY),N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Male
+5,MERDITA RIWAYATI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Female
+6,MAYANG DEWI BAHTHAI,N,Perempuan,KOTA SURAKARTA,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Female
+7,MEITA ELVI SORAYA SALLY,N,Perempuan,KOTA SURAKARTA,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Female
+8,BERRY SOLTAN HADINATA G.M.,N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Tengah IX,Jawa Tengah,Male
+1,NINA AGUSTIN,N,Perempuan,KOTA PALEMBANG,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+2,"WIRANTI SAPUTRI, SE",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+3,"H. KARNAWI IKSAN, S.IP",N,Laki-Laki,PEKALONGAN,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Male
+4,"PUTRI PERMATA SARI, SE",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+5,ASHA MUHAMAD,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+6,BELLA KHARISMA,N,Perempuan,JAKARTA BARAT,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+7,EVA OMPITA SORAYA,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Tengah X,Jawa Tengah,Female
+1,KRMT ROY SURYO,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Male
+2,LINDA OCTAVIA SILANNO,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Female
+3,AGUNG BUDIARTO,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Male
+4,WINURATRI GITA PRAWARDANI,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Female
+5,"MOHAMAD FUAD BURHAN, S.I.Kom",N,Laki-Laki,SLEMAN,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Male
+6,IVO YUNIKE SARIANI SIREGAR,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Female
+7,SULTONI,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Male
+8,RAMANDHA R,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,DI Yogyakarta,DI Yogyakarta,Male
+1,Dra. LUCY KURNIASARI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Female
+2,DAISY MARGARET SILANNO,N,Perempuan,SIDOARJO,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Female
+3,MOCHAMAD RIZAL,N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+4,"A. SETYO HARMONO, SH., MH",N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+5,PUTUT WIJANARKO,N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+6,"RR. SANTI PUSPA ARIYANI, SE. MM",N,Perempuan,SIDOARJO,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Female
+7,DONNY SOEHANDHONO,N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+8,INDAH NOVIANTI,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Female
+9,Ir. MUHAMAD IQBAL,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+10,BAGINDA RAHADIAN PRATAMA,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Jawa Timur I,Jawa Timur,Male
+1,"BOYKE NOVRIZON, SE",N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Male
+2,MOHAMMAD MUZAYYAN,N,Laki-Laki,PROBOLINGGO,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Male
+3,VIVI MUTIASARI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Female
+4,MOCHAMMAD AL FATIH,N,Laki-Laki,PROBOLINGGO,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Male
+5,"H. MOCH. MAHFUDH, SH,. M.Si",N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Male
+6,RISKA NURMALINDA,N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Female
+7,"PENNY ARIESANTY, ST",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur II,Jawa Timur,Female
+1,Ir. H. AZAM AZMAN NATAWIJANA,Y,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Male
+2,"MIRDA RASYID, SE., MM",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Female
+3,"SUPENO, SE., MM.",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Male
+4,SAMSUL BAHARA,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Male
+5,ERTIN PRILAWATI,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Female
+6,R. RINI DEWI ANGGRAINI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Female
+7,RIKO GEMINI,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur III,Jawa Timur,Male
+1,Drs. AYUB KHAN,Y,Laki-Laki,JEMBER,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Male
+2,"H. MAT NASIR, S.Sos",Y,Laki-Laki,KARAWANG,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Male
+3,TITIK SURYANTI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Female
+4,HERU SUYANTO,N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Male
+5,ANIS FAUZAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Male
+6,"IKA YULISKA, S.Sos",N,Perempuan,KOTA BOGOR,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Female
+7,WAHYU RAHARJO,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Male
+8,HILDA MAHENING SETYOWATI,N,Perempuan,KOTA TANGERANG,Partai Demokrat,Demokrat,Jawa Timur IV,Jawa Timur,Female
+1,"NURHAYATI ALI ASEGGAF, M.Si",Y,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Female
+2,Ir. H. GHUFRON MARZUQI,N,Laki-Laki,KOTA MALANG,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Male
+3,NURSETO BUDI SANTOSO,N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Male
+4,"ARDIANSYAH, A.MD",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Male
+5,DIAN FEBRIANTI,N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Female
+6,"SUTRISNO, SH",N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Male
+7,NURMA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Female
+8,"KOLONEL LAUT (PURN) AGUS SUBAGYO, SE",N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur V,Jawa Timur,Male
+1,"HARUN SULKAM, SH, MH",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Male
+2,"NUR MUHYIDIN, S.Sos",N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Male
+3,ELLEN SALOMA,N,Perempuan,BANTUL,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Female
+4,NANANG FARDIANSYAH,N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Male
+5,RITA TRI HANDAYANI,N,Perempuan,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Female
+6,WARDANI AMBARSARI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Female
+7,ALIEF SYACHVIAR MAS'UD,N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Male
+8,HAQIKI APLESIASFIKA,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Female
+9,"EKA PUTRA, SH., MH.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur VI,Jawa Timur,Male
+1,"EDHIE BASKORO YUDHOYONO, M.Sc",Y,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Male
+2,SARTONO,Y,Laki-Laki,BADUNG,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Male
+3,"Hj. IMELDA SARI, SS",N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Female
+4,"DRS. M. UTOMO ABDUL KARIM T, S.H., M.H.",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Male
+5,"RUSMINIATI, S.H., M.Kn",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Female
+6,GANA FEBRANA,N,Laki-Laki,KOTA BANDUNG,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Male
+7,SARAH VENESIA MULACHELA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Female
+8,OSSY DERMAWAN,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur VII,Jawa Timur,Male
+1,"Drs. H. GUNTUR SASONO, M.Si",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+2,"Ir. IRAWAN SATRIO LEKSONO, MM",N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+3,CHICKO WENDRINA,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Female
+4,"DR. H. RASIYO, M.Si",N,Laki-Laki,KOTA SURABAYA,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+5,"JAN PRINCE PERMATA, S.P., M.Si.",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+6,TRUSTI PRATIWI,N,Perempuan,KOTA DEPOK,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Female
+7,"Dr. GAGUK HARIJANTO, Drs., M.Si",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+8,DIMYATI DAHLAN,N,Laki-Laki,MADIUN,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+9,"MAYA RAHMATIA ARKIANG, SE., MM",N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Female
+10,"HENRY TRI KURNIAWAN, ST",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur VIII,Jawa Timur,Male
+1,"DIDIK MUKRIANTO, SH., MH.",Y,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Male
+2,"NURHIDAYAT UMACINA, SE",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Male
+3,SRI RUBINARTI,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Female
+4,LUQMAN SAIFUDIN,N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Male
+5,"H. JAILANI, SH., MH",N,Laki-Laki,PASURUAN,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Male
+6,AULIA ARDIANI WIDYASARI,N,Perempuan,JOMBANG,Partai Demokrat,Demokrat,Jawa Timur IX,Jawa Timur,Female
+1,"DEBBY KURNIAWAN, S.Kom",N,Laki-Laki,LAMONGAN,Partai Demokrat,Demokrat,Jawa Timur X,Jawa Timur,Male
+2,"H. JEMMY SETIAWAN, SH., MH",N,Laki-Laki,BANTUL,Partai Demokrat,Demokrat,Jawa Timur X,Jawa Timur,Male
+3,Hj. SASDAWATI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur X,Jawa Timur,Female
+4,"MUHAJIR, SH. MH",N,Laki-Laki,LAMONGAN,Partai Demokrat,Demokrat,Jawa Timur X,Jawa Timur,Male
+5,"ALIYAH, SS.ML",N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Timur X,Jawa Timur,Female
+1,"DEBBY KURNIAWAN, S.Kom",N,Laki-Laki,LAMONGAN,Partai Demokrat,Demokrat,Jawa Timur XI,Jawa Timur,Male
+2,"H. JEMMY SETIAWAN, SH., MH",N,Laki-Laki,BANTUL,Partai Demokrat,Demokrat,Jawa Timur XI,Jawa Timur,Male
+3,Hj. SASDAWATI,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Jawa Timur XI,Jawa Timur,Female
+4,"MUHAJIR, SH. MH",N,Laki-Laki,LAMONGAN,Partai Demokrat,Demokrat,Jawa Timur XI,Jawa Timur,Male
+5,"ALIYAH, SS.ML",N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Jawa Timur XI,Jawa Timur,Female
+1,"VIVI SUMANTRI JAYABAYA, S.Sos.,MSi",Y,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Banten I,Banten,Female
+2,RIZKI AULIA RAHMAN NATAKUSUMAH,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Banten I,Banten,Male
+3,HERMAN FIRDAUS,N,Laki-Laki,PANDEGLANG,Partai Demokrat,Demokrat,Banten I,Banten,Male
+4,Hj. RATU SITI ROMLAH,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Banten I,Banten,Female
+5,MUHAMMAD RIYAD,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Banten I,Banten,Male
+6,KHOIRUL UMAM,N,Laki-Laki,LEBAK,Partai Demokrat,Demokrat,Banten I,Banten,Male
+1,"Dr. AMIR SYAMSUDIN, SH.,MH.",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Banten II,Banten,Male
+2,NUR AENI,N,Perempuan,KOTA SERANG,Partai Demokrat,Demokrat,Banten II,Banten,Female
+3,H. AENG HAERUDIN,N,Laki-Laki,KOTA SERANG,Partai Demokrat,Demokrat,Banten II,Banten,Male
+4,H. AYIP NAJIB (DUCE),N,Laki-Laki,KOTA SERANG,Partai Demokrat,Demokrat,Banten II,Banten,Male
+5,"H.AHMAD RIFAI SUFTYADI, SH",N,Laki-Laki,KOTA DEPOK,Partai Demokrat,Demokrat,Banten II,Banten,Male
+6,"LINDA AGUSTINI ARITONANG, SS",N,Perempuan,JAKARTA BARAT,Partai Demokrat,Demokrat,Banten II,Banten,Female
+1,HARTANTO EDHIE WIBOWO,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Banten III,Banten,Male
+2,"HIMMATUL ALYAH SETIAWATY, SH., MH.",N,Perempuan,KOTA TANGERANG,Partai Demokrat,Demokrat,Banten III,Banten,Female
+3,ZULFIKAR. H,N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Banten III,Banten,Male
+4,"Dr. H. HARYONO EDI HERMAWAN, MM",N,Laki-Laki,KOTA TANGERANG,Partai Demokrat,Demokrat,Banten III,Banten,Male
+5,IRENE LIBRAWATI,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Banten III,Banten,Female
+6,"Ir. H. SONNY INDRA DJAJA, MM",N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Banten III,Banten,Male
+7,DANI MIFTAHUL AKHYAR,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Banten III,Banten,Male
+8,"DIAN PRANAJAYA, SH,. M.H.",N,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Banten III,Banten,Male
+9,AGUSTIN MALAYANI,N,Perempuan,TANGERANG,Partai Demokrat,Demokrat,Banten III,Banten,Female
+10,"Drs. TABRANI, MM",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Banten III,Banten,Male
+1,PUTU SUPADMA RUDANA,Y,Laki-Laki,GIANYAR,Partai Demokrat,Demokrat,Bali,Bali,Male
+2,"TUTIK KUSUMA WARDHANI,SE.MM. M.Kes",N,Perempuan,BULELENG,Partai Demokrat,Demokrat,Bali,Bali,Female
+3,GEDE NGURAH WIDIDANA,N,Laki-Laki,KOTA DENPASAR,Partai Demokrat,Demokrat,Bali,Bali,Male
+4,IDA AYU AGUNG TIKAYANTI,N,Perempuan,BADUNG,Partai Demokrat,Demokrat,Bali,Bali,Female
+5,ERLANGGA BRAHMANTYA,N,Laki-Laki,BANJARNEGARA,Partai Demokrat,Demokrat,Bali,Bali,Male
+6,Dra. WORO PUJI HASTUTI,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Bali,Bali,Female
+7,"RIKO NUGRAHA, SH., MH.",N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Bali,Bali,Male
+8,INGGITA DWIJAMANGGALA,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Bali,Bali,Male
+9,RADEN RORO PUTRI ASOKA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Bali,Bali,Female
+1,QURAIS,N,Laki-Laki,KOTA BIMA,Partai Demokrat,Demokrat,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+2,"JUNAIDI KASUM, S.Sos",N,Laki-Laki,KOTA MATARAM,Partai Demokrat,Demokrat,Nusa Tenggara Barat I,Nusa Tenggara Barat,Male
+3,SILVIA WARDINA MULACHELA,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Barat I,Nusa Tenggara Barat,Female
+1,"Ir. H.NANANG SAMODRA, KA, MSc",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+2,"H. ZAINUL AIDI, SP",N,Laki-Laki,KOTA MATARAM,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+3,"RELA ISMARINI, SH",N,Perempuan,LOMBOK TENGAH,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+4,"LALU AGUS AZRIN, SH",N,Laki-Laki,LOMBOK TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+5,MUHAMMAD FAWWAZ,N,Laki-Laki,LOMBOK BARAT,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+6,VEGALYRA NOVANTINI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+7,"Ir. SRI SUSTINI, MM",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Female
+8,UJANG ERWANDI LATIF,N,Laki-Laki,KOTA MATARAM,Partai Demokrat,Demokrat,Nusa Tenggara Barat II,Nusa Tenggara Barat,Male
+1,"Dr. BENNY KABUR HARMAN, SH",N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+2,"YOSEF BENEDIKTUS BADEODA, SH., MH",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+3,GISELA AVENTIA BEDEWODA,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+4,"Drs. YOSEPH TOTE, M.Si",N,Laki-Laki,MANGGARAI TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+5,"IWAN SETIAWAN ARIFIN MANASA, S.I.P",N,Laki-Laki,KOTA YOGYAKARTA,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Male
+6,DEWI SUCI RELOWATI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Nusa Tenggara Timur I,Nusa Tenggara Timur,Female
+1,"ANITA JACOBA GAH, SE",Y,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+2,BENNY ALEXANDER LITELNONI,N,Laki-Laki,TIMOR TENGAH SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+3,WINSTON NEIL RONDO,N,Laki-Laki,KOTA KUPANG,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+4,ELFIRA SYLVIANI KAUNANG,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+5,AGUSTINUS TAMO MBAPA,N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+6,ALFONS LOEMAU,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Male
+7,SRI DAMAYANTY MANULLANG,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Nusa Tenggara Timur II,Nusa Tenggara Timur,Female
+1,"ERMA SURYANI RANIK, SH",Y,Perempuan,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Female
+2,"HERZAKY M. PUTRA, S.Sos., MM",N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Male
+3,HILDA THAWILA,N,Perempuan,KOTA SINGKAWANG,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Female
+4,"TAN TJUN HWA, S.E., M.M., Dr.",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Male
+5,"MARCOS LAHIRAN, S.Sos",N,Laki-Laki,LANDAK,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Male
+6,"H.RADEN HIDAYATULLAH KUSUMA DILAGA, SH., MH",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Male
+7,UMI FARIDA,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Female
+8,Drs. HENCKY LUNTUNGAN,N,Laki-Laki,KOTA BOGOR,Partai Demokrat,Demokrat,Kalimantan Barat I,Kalimantan Barat,Male
+1,"SIMON PETRUS, S.Sos., M.Si",N,Laki-Laki,SEKADAU,Partai Demokrat,Demokrat,Kalimantan Barat II,Kalimantan Barat,Male
+2,FIRLIANA PURWANTI,N,Perempuan,BOGOR,Partai Demokrat,Demokrat,Kalimantan Barat II,Kalimantan Barat,Female
+3,"Pdm. Dr. HARRY SADERACH, M.H., M.Pd.K",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Barat II,Kalimantan Barat,Male
+4,"PRISILA RIESKA PRATIWILAYAN, , S.H., M.Kn., M.Hum",N,Perempuan,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Barat II,Kalimantan Barat,Female
+1,"BAMBANG PURWANTO, S.ST, MH",N,Laki-Laki,KOTAWARINGIN BARAT,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Male
+2,"Ir. SIPET HERMANTO TUNDJAN, M.Si",N,Laki-Laki,KOTA PALANGKARAYA,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Male
+3,"Hj. RELAWATI, SH",N,Perempuan,BARITO UTARA,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Female
+4,"ANDEL, SH., MH",N,Laki-Laki,KOTA PONTIANAK,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Male
+5,"FRISTIO, S.Sos",N,Laki-Laki,BARITO TIMUR,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Male
+6,LINDA CHRISTIN,N,Perempuan,KOTA PALANGKARAYA,Partai Demokrat,Demokrat,Kalimantan Tengah,Kalimantan Tengah,Female
+1,FADJAR SAMPURNO,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Kalimantan Selatan I,Kalimantan Selatan,Male
+3,JULIA FITRIANI,N,Perempuan,BANJAR,Partai Demokrat,Demokrat,Kalimantan Selatan I,Kalimantan Selatan,Female
+4,"Drs. ABDUSSANI, M.I.Kom",N,Laki-Laki,BARITO KUALA,Partai Demokrat,Demokrat,Kalimantan Selatan I,Kalimantan Selatan,Male
+5,"Drs. H. RIDUAN. M., M.H",N,Laki-Laki,KOTA BANJARMASIN,Partai Demokrat,Demokrat,Kalimantan Selatan I,Kalimantan Selatan,Male
+6,"NIDYA ANISA YULIANI, S.Kep",N,Perempuan,KOTA BANJARMASIN,Partai Demokrat,Demokrat,Kalimantan Selatan I,Kalimantan Selatan,Female
+1,"RUSIAN, SH",N,Laki-Laki,KOTA BANJARMASIN,Partai Demokrat,Demokrat,Kalimantan Selatan II,Kalimantan Selatan,Male
+2,IMAN TJAHYA ABDULAH,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Kalimantan Selatan II,Kalimantan Selatan,Male
+3,Ir. NURUL FAKHRIAH ABDIS,N,Perempuan,BANJAR,Partai Demokrat,Demokrat,Kalimantan Selatan II,Kalimantan Selatan,Female
+4,"UST M. RIZALI YANI, MM",N,Laki-Laki,KOTA BANJARMASIN,Partai Demokrat,Demokrat,Kalimantan Selatan II,Kalimantan Selatan,Male
+5,"MIMIEK HENDAYATIE, S.Pi",N,Perempuan,KOTA BANJARMASIN,Partai Demokrat,Demokrat,Kalimantan Selatan II,Kalimantan Selatan,Female
+1,"H. IRWAN, S.IP., MP",N,Laki-Laki,KUTAI TIMUR,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Male
+2,"H. IHWAN DATU ADAM, SE.",Y,Laki-Laki,PENAJAM PASER UTARA,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Male
+3,NOVITA IKASARI,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Female
+4,M. HUSNI THAMRIN,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Male
+5,DONALD SITORUS,N,Laki-Laki,KOTA BALIKPAPAN,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Male
+6,"FRADES XINDA DEISYLINA ERI M, ST, STh, MST., S.Th",N,Perempuan,KOTA SAMARINDA,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Female
+7,"Dr. YAHYA ANJA, MH.",N,Laki-Laki,KOTA SAMARINDA,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Male
+8,INTAN ELVIANA,N,Perempuan,KOTA BEKASI,Partai Demokrat,Demokrat,Kalimantan Timur,Kalimantan Timur,Female
+1,"EE. MANGINDAAN, S.IP",Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Male
+2,"JAMES KARINDA, SH., MH",N,Laki-Laki,KOTA MANADO,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Male
+3,VIVI LYDIA SUMAJOW,N,Perempuan,KOTA MANADO,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Female
+4,"ALFRISCO SIHOMBING, SH",N,Laki-Laki,JAKARTA BARAT,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Male
+5,DESI ALBERT MAMAHIT,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Male
+6,AMANDA OTTAY,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi Utara,Sulawesi Utara,Female
+1,ANWAR HAFID,N,Laki-Laki,MOROWALI,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Male
+2,"Drs. PIET INKIRIWANG, MM",N,Laki-Laki,POSO,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Male
+3,ANDI JUMRIANI HAMKA,N,Perempuan,KOTA PALU,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Female
+4,"MOH. AFNAN RACHMAT, SH",N,Laki-Laki,TOJO UNA-UNA,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Male
+5,RUSMIN NURIADIN,N,Laki-Laki,BANDUNG,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Male
+6,"KARTIKA PRATIWI LESTARI, SE",N,Perempuan,KOTA PALU,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Female
+7,TATY DAMAYANTI LASNI,N,Perempuan,KOTA PALU,Partai Demokrat,Demokrat,Sulawesi Tengah,Sulawesi Tengah,Female
+1,"HJ. ALIYAH MUSTIKA ILHAM, SE",Y,Perempuan,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Female
+2,Drs. H. BAHAR NGITUNG,N,Laki-Laki,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Male
+3,"CAPT. AKBAR YAHYA YOGERASI, M.Mar",N,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Male
+4,"Dr. H. JAMALUDDIN RUSTAM, SH., MH",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Male
+5,ANDI ACHMAD MUNAZAR MULIA,N,Laki-Laki,BOGOR,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Male
+6,"Hj. LINDA M.A. SJAMSOEDDIN, SH., MH",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Female
+7,"SUGIANTO PETTANEGARA, SE., M.Si",N,Laki-Laki,GOWA,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Male
+8,NOVIA DHAMAYANTI,N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Sulawesi Selatan I,Sulawesi Selatan,Female
+1,"Dr. Hj. ANDI NURPATI, M.Pd",N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Female
+2,Ir. H. MUHAMMAD NASYIT UMAR,Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+3,A.M. ALI GAFFAR,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+4,"HARTINY FANNY ANGGRAINY, SH,MH",N,Perempuan,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Female
+5,"A. M. IRWAN PATAWARI, S.Si",N,Laki-Laki,GOWA,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+6,"H. SATRIYA MADJID, ST. MSP.",N,Laki-Laki,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+7,"PRAIDA HANSYAH, S.Ag.,MA.",N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Female
+8,HARIYANTO,N,Laki-Laki,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+9,"H. RUSTAN, SE",N,Laki-Laki,BONE,Partai Demokrat,Demokrat,Sulawesi Selatan II,Sulawesi Selatan,Male
+1,Ir. Hj. A.P.A. TIMO PANGERANG,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Female
+2,"DR. Ir. H. BAHRUM DAIDO, M.Si",Y,Laki-Laki,KOTA BEKASI,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Male
+3,"Drs. FREDERIK BATTI SORRING, S.Sos., MM",N,Laki-Laki,TANA TORAJA,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Male
+4,Ir. H. NUPRI BASRI,N,Laki-Laki,KOTA MAKASSAR,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Male
+5,MICHIKO H,N,Perempuan,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Female
+6,SRI HANDAYANI,N,Perempuan,JAKARTA UTARA,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Female
+7,MUHAMMAD DHEVY BIJAK,N,Laki-Laki,LUWU,Partai Demokrat,Demokrat,Sulawesi Selatan III,Sulawesi Selatan,Male
+1,Drs. H. UMAR ARSAL,Y,Laki-Laki,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Male
+2,RUSDA MAHMUD,N,Laki-Laki,KOLAKA UTARA,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Male
+3,Ir. LUSIA ROSA PARABAK,N,Perempuan,KOTA JAMBI,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Female
+4,WA ODE ZAINAB Z. T.,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Female
+5,SULMIN TENGGO,N,Laki-Laki,SIGI,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Male
+6,ICHWAN RUSLAN,N,Laki-Laki,KOTA TANGERANG SELATAN,Partai Demokrat,Demokrat,Sulawesi Tenggara,Sulawesi Tenggara,Male
+1,"Dr. Ir. Hi. GUSNAR ISMAIL, MM",N,Laki-Laki,KOTA GORONTALO,Partai Demokrat,Demokrat,Gorontalo,Gorontalo,Male
+2,"DARMAWULAN MAKMUR, SH",N,Perempuan,KOTA GORONTALO,Partai Demokrat,Demokrat,Gorontalo,Gorontalo,Female
+3,SYAIFULLAH NGIU,N,Laki-Laki,KOTA GORONTALO,Partai Demokrat,Demokrat,Gorontalo,Gorontalo,Male
+1,"DR. H.SUHARDI DUKA, M.M",N,Laki-Laki,MAMUJU,Partai Demokrat,Demokrat,Sulawesi  Barat,Sulawesi  Barat,Male
+2,"MUHAMMAD AFZAL MAHFUZ, SH",Y,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Sulawesi  Barat,Sulawesi  Barat,Male
+3,Ir. TRIATNY ARRUAN LEBOK,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Sulawesi  Barat,Sulawesi  Barat,Female
+4,SANRAKATI KATTA,N,Perempuan,MAJENE,Partai Demokrat,Demokrat,Sulawesi  Barat,Sulawesi  Barat,Female
+1,"MARCUS PENTURY, SE.,MH.",N,Laki-Laki,KOTA AMBON,Partai Demokrat,Demokrat,Maluku,Maluku,Male
+2,"Ir. MELKIAS LODEWYK FRANS, M.Si.",N,Laki-Laki,KOTA AMBON,Partai Demokrat,Demokrat,Maluku,Maluku,Male
+3,"HENDRYETA KUARA, SE.",N,Perempuan,KOTA AMBON,Partai Demokrat,Demokrat,Maluku,Maluku,Female
+4,CALLY RIJANTO K,N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Maluku,Maluku,Female
+1,"DR. Ir. HASAN H. DOA, MT.",N,Laki-Laki,KOTA TIDORE KEPULAUAN,Partai Demokrat,Demokrat,Maluku Utara,Maluku Utara,Male
+2,TOMMY RUSIHAN ARIEF,N,Laki-Laki,JAKARTA SELATAN,Partai Demokrat,Demokrat,Maluku Utara,Maluku Utara,Male
+3,HONG FINCE HONGARTA,N,Perempuan,KEPULAUAN SULA,Partai Demokrat,Demokrat,Maluku Utara,Maluku Utara,Female
+1,WILLEM WANDIK,Y,Laki-Laki,KOTA JAYAPURA,Partai Demokrat,Demokrat,Papua,Papua,Male
+2,"MUHAMMAD RIFAI DARUS, SH",N,Laki-Laki,KOTA JAYAPURA,Partai Demokrat,Demokrat,Papua,Papua,Male
+3,"MIFTAHUL JANNAH, S.Kom",N,Perempuan,BEKASI,Partai Demokrat,Demokrat,Papua,Papua,Female
+4,"LIBERT KRISTO IBO, S.Sos, SH, MH",Y,Laki-Laki,KOTA MANADO,Partai Demokrat,Demokrat,Papua,Papua,Male
+5,"CAROLUS KIA KELEN BOLI, SE, MM",N,Laki-Laki,KOTA JAYAPURA,Partai Demokrat,Demokrat,Papua,Papua,Male
+6,NY. ETHA BULO,N,Perempuan,JAKARTA PUSAT,Partai Demokrat,Demokrat,Papua,Papua,Female
+7,YOHANNA DELAPLATA,N,Perempuan,JAYAPURA,Partai Demokrat,Demokrat,Papua,Papua,Female
+8,"OLIVIA FROLA MORIN, SE",N,Perempuan,KOTA JAYAPURA,Partai Demokrat,Demokrat,Papua,Papua,Female
+9,"FERNANDO ERSENTO MARADEN SITORUS, S.Sos, M.Si",N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Papua,Papua,Male
+10,PETRUS POGOLAMUM,N,Laki-Laki,MIMIKA,Partai Demokrat,Demokrat,Papua,Papua,Male
+1,"DR. MICHAEL WATTIMENA, SE., MM.",Y,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Papua Barat,Papua Barat,Male
+2,MERVIN I SADIPUN KOMBER,N,Laki-Laki,FAKFAK,Partai Demokrat,Demokrat,Papua Barat,Papua Barat,Male
+3,SHERLINA BENITA YATIM,N,Perempuan,JAKARTA SELATAN,Partai Demokrat,Demokrat,Papua Barat,Papua Barat,Female
+1,HASAN SALEH,N,Laki-Laki,JAKARTA PUSAT,Partai Demokrat,Demokrat,Kalimantan Utara,Kalimantan Utara,Male
+2,YEFTA BERTO,N,Laki-Laki,BULUNGAN,Partai Demokrat,Demokrat,Kalimantan Utara,Kalimantan Utara,Male
+3,"ANDI JEHAN INDIRA ZHAZHA, S.Si",N,Perempuan,JAKARTA TIMUR,Partai Demokrat,Demokrat,Kalimantan Utara,Kalimantan Utara,Female
